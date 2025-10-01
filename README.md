@@ -17,7 +17,7 @@ Un sitio web moderno y responsive para una inmobiliaria, desarrollado con React 
 6) Linting: Configuración ESLint para mantener código limpio
 
 ## 📁 Estructura del Proyecto
-
+```
 mondial-web-site/
 ├── public/
 │   └── isotypeMondial.png      # Logo/icono de la marca
@@ -50,7 +50,7 @@ mondial-web-site/
 ├── package.json
 ├── vite.config.js
 └── eslint.config.js
-
+```
 ## 🛠️ Tecnologías Utilizadas
 
 Frontend: React 18, JSX
