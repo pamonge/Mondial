@@ -1,39 +1,46 @@
 import React from 'react'
 import { LinkComponent } from './LinkComponent'
+import formStyles from '../styles/formComponentStyles'
 
 export const FormComponent = () => {
   return (
-    <div className='bg-blue-900 text-white'>
-        <h2 >Formulario de Contacto</h2>
-        <form action="">
-            <div>
-                <label htmlFor="name">Nombre</label>
-                <input type="text" name="name" id="name" />
+    <div className={formStyles.formContainer}>
+        <h2 className={formStyles.formTitle} >FORMULARIO <strong>DE CONTACTO</strong></h2>
+        <form className={formStyles.form} action="">
+            <div className={formStyles.inputContainer}>
+                <label className={formStyles.label} htmlFor="name">Nombre</label>
+                <input className={formStyles.input} type="text" name="name" id="name" />
             </div>
-            <div>
-                <label htmlFor="email">Correo Electrónico</label>
-                <input type="email" name="email" id="email" />
+            <div className={formStyles.inputContainer}>
+                <label className={formStyles.label} htmlFor="email">Correo Electrónico</label>
+                <input className={formStyles.input} type="email" name="email" id="email" />
             </div>
-            <div>
-                <label htmlFor="phone">Telefono de contacto</label>
-                <input type="tel" name="phone" id="phone" />
+            <div className={formStyles.inputContainer}>
+                <label className={formStyles.label} htmlFor="phone">Telefono de contacto</label>
+                <input className={formStyles.input} type="tel" name="phone" id="phone" />
             </div>
-            <div>
-                <label htmlFor="subject">Subject</label>
-                <input type="text" name="subject" id="subject" />
+            <div className={formStyles.inputContainer}>
+                <label className={formStyles.label} htmlFor="subject">Subject</label>
+                <input className={formStyles.input} type="text" name="subject" id="subject" />
             </div>
-            <div>
-                <label htmlFor="msj">Mensaje</label>
-                <textarea name="msj" id="msj" cols="30" rows="5"></textarea>
+            <div className={formStyles.inputContainer}>
+                <label className={formStyles.label} htmlFor="msj">Mensaje</label>
+                <textarea className={formStyles.input} name="msj" id="msj" cols="30" rows="5"></textarea>
             </div>
-            <div>
+            <div className={formStyles.inputContainer}>
                 <div>
                     <input type="checkbox" name="checkpriv" id="checkpriv" /> He leido y acepto las <strong>
                         <LinkComponent src='/privacy' desc='Politicas de Privacidad' />
                     </strong>
                 </div>
-                
-                <input type="checkbox" name="checkTyC" id="checkTyC" /> He leido y acepto los <strong>Terminos y condiciones</strong>
+                <div>
+                    <input  type="checkbox" name="checkTyC" id="checkTyC" /> 
+                    <label className={formStyles.label} htmlFor="checkTyC">He leido y acepto los
+                        <strong>
+                            <LinkComponent src='/tyc' desc='Terminos y    condiciones' style='text-sm' />
+                        </strong>
+                    </label>  
+                </div>
             </div>
         </form>
     </div>

@@ -14,6 +14,7 @@ import { CopyRightComponent } from './components/CopyRightComponent'
 import { CookiesPage } from './pages/CookiesPage'
 import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage'
 import { LegalAdvicePage } from './pages/LegalAdvicePage'
+import { TermsAndConditionsPage } from './pages/TermsAndConditionsPage'
 
 function App() {
     return (
@@ -28,7 +29,7 @@ function App() {
         <Route path='/rent' element={ <RentPage /> } />
         <Route path='/us' element={ <UsPage /> } />
         <Route path='/cookies' element={ <CookiesPage /> } />
-        <Route path='/cookies' element={ <CookiesPage /> } />
+        <Route path='/tyc' element={ <TermsAndConditionsPage /> } />
         <Route path='/privacy' element={ <PrivacyPolicyPage /> } />
         <Route path='/legal' element={ <LegalAdvicePage /> } />
       </Routes>
