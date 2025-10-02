@@ -6,7 +6,7 @@ export const HomePage = () => {
   return (
     <div>
       <HeroComponent />
-      HomePage
+      <h2>EN QUE PODEMOS ASESORARLO</h2>
     </div>
   )
 }

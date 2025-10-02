@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { MenuLinksComponent } from './MenuLinksComponent'
 import logo from '../assets/logo/isotypeMondial.png'
 import navBarStyles from '../styles/navBarComponentStyles'
@@ -18,7 +19,9 @@ export const NavBarComponent = () => {
   return (
     <div className={navBarStyles.navBarContainer}>
       <div>
-        <img className={navBarStyles.logo} src={logo} alt="Mondial Inmobiliaria" />
+        <Link to='/' >
+          <img className={navBarStyles.logo} src={logo} alt="Mondial Inmobiliaria" />
+        </Link>
       </div>
       <MenuLinksComponent />
       <button 
