@@ -14,9 +14,9 @@ export const CopyRightComponent = () => {
             <p>©2025 Mondial Inmobiliaria.  </p>
         </div>
         <div className={copyRightStyles.linkContainer}>
-            <LinkComponent src='/legal' desc='Aviso legal' />|
-            <LinkComponent src='/privacy' desc='Politicas de Privacidad' />|
-            <LinkComponent src='/cookies' desc='Cookies' />
+            <LinkComponent src='/legal' desc='Aviso legal' style=''/>|
+            <LinkComponent src='/privacy' desc='Politicas de Privacidad' style=''/>|
+            <LinkComponent src='/cookies' desc='Cookies' style=''/>
         </div>
     </div>
   )

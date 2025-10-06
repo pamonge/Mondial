@@ -30,7 +30,7 @@ export const FormComponent = () => {
             <div className={formStyles.inputContainer}>
                 <div>
                     <input type="checkbox" name="checkpriv" id="checkpriv" /> He leido y acepto las <strong>
-                        <LinkComponent src='/privacy' desc='Politicas de Privacidad' />
+                        <LinkComponent src='/privacy' desc='Politicas de Privacidad' style='' />
                     </strong>
                 </div>
                 <div>

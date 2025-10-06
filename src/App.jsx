@@ -15,6 +15,7 @@ import { CookiesPage } from './pages/CookiesPage'
 import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage'
 import { LegalAdvicePage } from './pages/LegalAdvicePage'
 import { TermsAndConditionsPage } from './pages/TermsAndConditionsPage'
+import { Error404 } from './pages/Error404'
 
 function App() {
     return (
@@ -32,6 +33,7 @@ function App() {
         <Route path='/tyc' element={ <TermsAndConditionsPage /> } />
         <Route path='/privacy' element={ <PrivacyPolicyPage /> } />
         <Route path='/legal' element={ <LegalAdvicePage /> } />
+        <Route path='/*' element={ <Error404 /> } />
       </Routes>
       <FooterComponent />
       <CopyRightComponent />
