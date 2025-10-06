@@ -7,11 +7,9 @@ export const HomePage = () => {
   return (
     <div>
       <HeroComponent />
-      <h2 className='text-center italic '>LLÁMENOS QUÉ <strong>
+      <h2 className='text-center italic pt-8'>LLÁMENOS, <strong>
         PODEMOS ASESORARLO</strong></h2>
         <CarouselComponent />
-      
-
     </div>
   )
 }

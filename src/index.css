@@ -1,1 +1,15 @@
 @import 'tailwindcss';
+
+@keyframes scroll {
+    0%{
+        transform: translateX(0);
+    }
+
+    100%{
+        transform: translateX(calc(-400px * 3 - 0.5rem * 6));
+    }
+}
+
+.animate-scroll {
+    animation: scroll 13s linear infinite;
+}
