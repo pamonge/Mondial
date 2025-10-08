@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { CardCarouselComponent } from './CardCarouselComponent';
 import dataCarousel from '../../data/dataCarousel.js';
+import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
 
 export const CarouselComponent = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -34,12 +35,12 @@ export const CarouselComponent = () => {
     }, [currentIndex, isPaused]);
 
     return (
-        <div className="relative">
+        <div className={carouselComponentStyles.componentContainer}>
             {/* Contenedor principal */}
-            <div className="container mx-auto py-8 px-4">
-                <div className="overflow-hidden">
+            <div className={carouselComponentStyles.mainContainer}>
+                <div className={carouselComponentStyles.overflowContainer}>
                     <div 
-                        className="flex transition-transform duration-500 ease-in-out"
+                        className={carouselComponentStyles.card}
                         style={{ 
                             transform: `translateX(-${currentIndex * 100}%)` 
                         }}
@@ -49,9 +50,9 @@ export const CarouselComponent = () => {
                         {dataCarousel.map((data, index) => (
                             <div 
                                 key={index} 
-                                className="w-full flex-shrink-0 px-4 py-4"
+                                className={carouselComponentStyles.data}
                             >
-                                <div className="max-w-md mx-auto">  {/* Centramos la card */}
+                                <div className={carouselComponentStyles.getCenter}>  {/* Centramos la card */}
                                     <CardCarouselComponent 
                                         info={data} 
                                         onClick={() => goToSlide(index)} 
@@ -66,19 +67,19 @@ export const CarouselComponent = () => {
             {/* Botones de navegación - Solo en desktop */}
             <button 
                 onClick={prevSlide}
-                className="absolute left-4 top-1/2 transform -translate-y-1/2 bg-white/90 hover:bg-white p-3 rounded-full shadow-lg z-10 border transition-all hover:scale-110 hidden md:block"
+                className={carouselComponentStyles.leftButton}
             >
                 ‹
             </button>
             <button 
                 onClick={nextSlide}
-                className="absolute right-4 top-1/2 transform -translate-y-1/2 bg-white/90 hover:bg-white p-3 rounded-full shadow-lg z-10 border transition-all hover:scale-110 hidden md:block"
+                className={carouselComponentStyles.rightButton}
             >
                 ›
             </button>
 
             {/* Indicadores */}
-            <div className="flex justify-center mt-6 space-x-3 pb-8">
+            <div className={carouselComponentStyles.indicators}>
                 {dataCarousel.map((_, index) => (
                     <button
                         key={index}

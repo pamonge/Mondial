@@ -7,7 +7,9 @@ export const FooterComponent = () => {
       <div>
         <FormComponent />
       </div>
-        FooterComponent
+      <div>
+        
+      </div>
     </div>
   )
 }
