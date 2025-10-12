@@ -1,17 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import menuLinks from '../data/data.links'
 import menuLinksStyles from '../styles/menuLinksComponentStyles'
 
 export const MenuLinksComponent = ({ func = '', contStyles = menuLinksStyles.linksContainer, linkStyle = menuLinksStyles.link}) => {
 
-  const menuItems = [
-    {to: '/', label: 'Inicio'},
-    {to: '/us', label: 'Nosotros'},
-    {to: '/sell', label: 'Vender'},
-    {to: '/buy', label: 'Comprar'},
-    {to: '/rent', label: 'Alquilar'},
-    {to: '/contact', label: 'Contacto'},
-  ];
+  const menuItems = menuLinks;
 
   return (
     <nav className={contStyles}>    

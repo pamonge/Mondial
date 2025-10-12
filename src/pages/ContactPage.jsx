@@ -1,7 +1,11 @@
 import React from 'react'
+import { MapComponent } from '../components/MapComponent'
 
 export const ContactPage = () => {
   return (
-    <div>ContactPage</div>
+    <div>
+      <h2 className='italic text-center py-4 font-bold'>CONTÁCTENOS</h2>
+      <MapComponent />
+    </div>
   )
 }

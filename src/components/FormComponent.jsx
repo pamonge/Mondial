@@ -42,6 +42,7 @@ export const FormComponent = () => {
                     </label>  
                 </div>
             </div>
+            <button>Enviar</button>
         </form>
     </div>
   )
