@@ -1,6 +1,6 @@
 import React from 'react'
 import error404 from '../assets/icons/icon-error-globe.png'
-import { LinkComponent } from '../components/LinkComponent'
+import { LinkComponent } from '../components/navigation/LinkComponent'
 import { Link } from 'react-router-dom'
 
 export const Error404 = () => {

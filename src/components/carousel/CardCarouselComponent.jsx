@@ -1,5 +1,5 @@
 import React from 'react'
-import { LinkComponent } from '../LinkComponent'
+import { LinkComponent } from '../navigation/LinkComponent'
 import cardCarouselStyles from '../../styles/carouselStyles/cardCarouselComponentStyles'
 
 export const CardCarouselComponent = ({ info, onClick }) => {

@@ -16,7 +16,7 @@ const dataCarousel = [
     {
         id : 3,
         title: 'Quiero vender mi propiedad',
-        description: 'Maximizá el valor de tu inmueble con la experiencia de Mondial Inmobiliaria. Nos encargamos de todo: desde la valoración profesional y la difusión estratégica, hasta la gestión de visitas y la negociación con compradores serios. Vende más rápido, al mejor precio y con total tranquilidad. ¡Convierte tu propiedad en liquidez sin complicaciones!',
+        description: 'En Mondial Inmobiliaria, sabemos que una vivienda es solo estructura, pero un hogar es donde late el corazón. Con 25 años de experiencia en el sector inmobiliario, colocamos tu hogar y tus intereses  en el epicentro de todo lo que hacemos.No vendemos casas, creamos oportunidades, construimos confianza y entregamos resultados reales. Gracias a nuestra exclusiva red de compradores cualificados, estrategias de marketing de alto impacto y un enfoque 100% personalizado, transformamos la venta de tu propiedad en una experiencia fluida, transparente y, sobre todo, exitosa. Porque en Mondial Inmobiliaria, lo que importa para ti... nos importa de verdad.',
         category: 'Venta',
         linkData: '/sell'
     }

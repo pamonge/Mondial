@@ -1,7 +1,7 @@
 import React from 'react'
-import pem from '../assets/logo/pem-webservice.webp'
-import { LinkComponent } from './LinkComponent'
-import copyRightStyles from '../styles/CopyRightComponentStyles'
+import pem from '../../assets/logo/pem-webservice.webp'
+import { LinkComponent } from '../navigation/LinkComponent'
+import copyRightStyles from '../../styles/CopyRightComponentStyles'
 
 export const CopyRightComponent = () => {
   return (

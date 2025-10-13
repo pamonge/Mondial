@@ -1,8 +1,8 @@
 import React from 'react'
-import socialNets from '../data/dataContact'
-import dataMondial from '../data/dataMondial'
-import iconMail from '../assets/icons/icon-mail.png'
-import iconPhone from '../assets/icons/icon-phone.png'
+import socialNets from '../../data/dataContact'
+import dataMondial from '../../data/dataMondial'
+import iconMail from '../../assets/icons/icon-mail.png'
+import iconPhone from '../../assets/icons/icon-phone.png'
 
 export const SocialMediaComponent = () => {
 
@@ -31,7 +31,7 @@ export const SocialMediaComponent = () => {
           }
       </div>
 
-      <p className='text-justify ' >Contacta completando el formulario y descubre una forma distinta de hacer las cosas.</p>
+      <p className='text-justify' >Contacta completando el formulario y descubre una forma distinta de hacer las cosas.</p>
     </div>
   )
 }

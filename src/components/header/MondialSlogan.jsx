@@ -1,6 +1,6 @@
 import React from 'react'
-import dataMondial from '../data/dataMondial.js'
-import imgSlogan from '../assets/img/mondial-slogan.jpg'
+import dataMondial from '../../data/dataMondial.js'
+import imgSlogan from '../../assets/img/mondial-slogan.jpg'
 
 export const MondialSlogan = () => {
   return (

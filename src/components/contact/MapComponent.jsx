@@ -1,6 +1,6 @@
 import React from 'react'
-import iconMarc from '../assets/icons/icon-marc.png'
-import dataMondial from '../data/dataMondial'
+import iconMarc from '../../assets/icons/icon-marc.png'
+import dataMondial from '../../data/dataMondial'
 dataMondial
 
 export const MapComponent = () => {

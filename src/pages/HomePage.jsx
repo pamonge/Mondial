@@ -1,7 +1,7 @@
 import React from 'react'
-import { HeroComponent } from '../components/HeroComponent'
+import { HeroComponent } from '../components/header/HeroComponent'
 import { CarouselComponent } from '../components/carousel/CarouselComponent'
-import { MondialSlogan } from '../components/MondialSlogan'
+import { MondialSlogan } from '../components/header/MondialSlogan'
 
 
 export const HomePage = () => {

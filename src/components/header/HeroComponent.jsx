@@ -1,8 +1,8 @@
 import React from 'react'
-import heroStyles from '../styles/heroComponentStyles'
-import heroimg from '../assets/img/Wallpaper.png'
-import mondial from '../assets/img/Mondial-inmobiliaria.png'
-import mondialLogo from '../assets/logo/isotypeMondial.png'
+import heroStyles from '../../styles/heroComponentStyles'
+import heroimg from '../../assets/img/Wallpaper.png'
+import mondial from '../../assets/img/Mondial-inmobiliaria.png'
+import mondialLogo from '../../assets/logo/isotypeMondial.png'
 
 export const HeroComponent = () => {
   return ( 

@@ -1,7 +1,7 @@
 import React from 'react'
-import { LinkComponent } from './LinkComponent'
-import clients from '../data/dataForm'
-import formStyles from '../styles/formComponentStyles'
+import { LinkComponent } from '../navigation/LinkComponent'
+import clients from '../../data/dataForm'
+import formStyles from '../../styles/formComponentStyles'
 
 export const FormComponent = () => {
   return (
@@ -41,15 +41,18 @@ export const FormComponent = () => {
                     </strong>
                 </div>
                 <div>
-                    <input  type="checkbox" name="checkTyC" id="checkTyC" /> 
-                    <label className={formStyles.label} htmlFor="checkTyC">He leido y acepto los
+                    <input  type="checkbox" name="checkLegal" id="checkLegal" /> 
+                    <label className={formStyles.label} htmlFor="checkLegal">He leido y acepto lo expresado en el 
                         <strong>
-                            <LinkComponent src='/tyc' desc='Terminos y condiciones' style='text-sm' />
+                            <LinkComponent src='/legal' desc='Aviso Legal' style='text-sm' />
                         </strong>
                     </label>  
                 </div>
             </div>
-            <button>Enviar</button>
+            <div className='flex items-center justify-center'>
+                <button className={formStyles.button} >Enviar</button>
+            </div>
+            
         </form>
     </div>
   )

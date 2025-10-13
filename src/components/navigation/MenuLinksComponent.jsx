@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import menuLinks from '../data/data.links'
-import menuLinksStyles from '../styles/menuLinksComponentStyles'
+import menuLinks from '../../data/data.links'
+import menuLinksStyles from '../../styles/menuLinksComponentStyles'
 
 export const MenuLinksComponent = ({ func = '', contStyles = menuLinksStyles.linksContainer, linkStyle = menuLinksStyles.link}) => {
 
