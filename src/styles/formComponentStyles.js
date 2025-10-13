@@ -5,6 +5,7 @@ const formStyles = {
     inputContainer : 'flex flex-col p-2 gap-1',
     label : 'text-sm',
     input : 'rounded-2xl border-b-2 border-b-cyan-500',
+    options : 'bg-blue-700', 
 }
 
 export default formStyles;

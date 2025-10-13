@@ -13,3 +13,9 @@
 .animate-scroll {
     animation: scroll 13s linear infinite;
 }
+
+.italianno-regular {
+  font-family: "Italianno", cursive;
+  font-weight: 600;
+  font-style: normal;
+}

@@ -2,6 +2,8 @@ import React from 'react'
 
 export const RentPage = () => {
   return (
-    <div>RentPage</div>
+    <div>
+      <h2 className='italic text-center py-4 font-bold'>ALQUILER</h2>
+    </div>
   )
 }

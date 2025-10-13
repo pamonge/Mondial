@@ -8,8 +8,7 @@ export const HomePage = () => {
   return (
     <div>
       <HeroComponent />
-      <h2 className='text-center italic pt-8'>LLÁMENOS, <strong>
-        PODEMOS ASESORARLO</strong></h2>
+      <h2 className='text-center italic pt-8'>Grupo Inmobiliario especialista en el mercado residencial en Murcia.</h2>
         <CarouselComponent />
         <MondialSlogan />
     </div>

@@ -20,7 +20,7 @@ export const SocialMediaComponent = () => {
         </a>
       </div>
    
-      <h3 className='italic'>VISITE NUESTRAS <strong>REDES SOCIALES</strong></h3>
+      <h3 className='italic text-center'>VISITE NUESTRAS <strong>REDES SOCIALES</strong></h3>
       <div className='flex justify-between py-3.5' >
           {
             socialNetwork.map((net) => (
@@ -31,7 +31,7 @@ export const SocialMediaComponent = () => {
           }
       </div>
 
-      <p className='text-justify ' >Si así lo desea puede enviarnos un mensaje completando el formulario, le responderemos a la brevedad.</p>
+      <p className='text-justify ' >Contacta completando el formulario y descubre una forma distinta de hacer las cosas.</p>
     </div>
   )
 }
