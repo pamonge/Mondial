@@ -5,7 +5,7 @@ import formStyles from '../../styles/formComponentStyles'
 
 export const FormComponent = () => {
   return (
-    <div className={formStyles.formContainer}>
+    <div className={`${formStyles.formContainer} min-md:max-w-3xl `}>
         <h2 className={formStyles.formTitle} >FORMULARIO <strong>DE CONTACTO</strong></h2>
         <form className={formStyles.form} action="">
             <div className={formStyles.inputContainer}>
