@@ -169,6 +169,18 @@ Push a la rama (git push origin feature/AmazingFeature)
 
 Abre un Pull Request
 
+## 🚀 DOCKER: Comandos de Build y ejecucion
+
+Ejecutar en la terminal
+
+### Construir la imagen
+docker build -t mondial-web .
+
+### Correr el contenedor
+docker run -d -p 8080:80 --name mondial mondial-web
+
+La aplicación va a levantar en: http://localhost:8080
+
 ## 📄 Licencia
 Este proyecto es propiedad de Mondial Inmobiliaria.
 
