@@ -4,7 +4,7 @@ const menuLinks = [
     {to: '/sell', label: 'Vender'},
     {to: '/buy', label: 'Comprar'},
     {to: '/rent', label: 'Alquilar'},
-    {to: '/news', label: 'Blog'},
+    {to: '/blog', label: 'Blog'},
     {to: '/contact', label: 'Contacto'},
 ];
 

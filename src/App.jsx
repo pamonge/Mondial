@@ -6,7 +6,7 @@ import { HomePage } from './pages/HomePage'
 import { BuyPage } from './pages/BuyPage'
 import { SellPage } from './pages/SellPage'
 import { ContactPage } from './pages/ContactPage'
-import { NewsPage } from './pages/NewsPage'
+import { BlogPage } from './pages/BlogPage'
 import { RentPage } from './pages/RentPage'
 import { UsPage } from './pages/UsPage'
 import { FooterComponent } from './components/footer/FooterComponent'
@@ -26,7 +26,7 @@ function App() {
         <Route path='/buy' element={ <BuyPage /> } />
         <Route path='/sell' element={ <SellPage /> } />
         <Route path='/contact' element={ <ContactPage /> } />
-        <Route path='/news' element={ <NewsPage /> } />
+        <Route path='/blog' element={ <BlogPage /> } />
         <Route path='/rent' element={ <RentPage /> } />
         <Route path='/us' element={ <UsPage /> } />
         <Route path='/cookies' element={ <CookiesPage /> } />
