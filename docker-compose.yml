@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  mondial-web:
+    build: .  # Construye la imagen usando el Dockerfile en el directorio actual
+    ports:
+      - "8080:80"  # Mapea el puerto 80 del contenedor al 8080 de tu máquina
+    volumes:
+      - .:/app  # Monta tu código actual en el contenedor para ver cambios en caliente
+      - /app/node_modules  # Evita sobrescribir las dependencias instaladas
+    restart: unless-stopped # Actualiza cambios
+
+# Construir la imagen y levantar el contenedor
+# docker-compose up -d
+
+# Detener y eliminar el contenedor
+# docker-compose down
+
+# Si se modifica el Dockerfile o docker-compose.yml, reconstruir
+# docker-compose up -d --build
+
+# Ver los logs del contenedor
+# docker-compose logs -f
