@@ -1,9 +1,11 @@
 import React from 'react'
+import appStyles from '../styles/appStyles'
 
 export const BuyPage = () => {
   return (
     <div>
-      <h2 className='italic text-center py-4 font-bold'>COMPRA</h2>
+      <h2 className={appStyles.title}>COMPRA</h2>
+      
     </div>
   )
 }

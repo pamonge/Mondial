@@ -11,7 +11,7 @@ export const SocialMediaComponent = () => {
 
   return (
     <div className='flex flex-col max-w-96 gap-5'>
-      <h3 className={appStyles.title} >NUESTROS <strong>MEDIOS DE CONTACTO</strong></h3>
+      <h3 className={appStyles.smTitle} >NUESTROS <strong>MEDIOS DE CONTACTO</strong></h3>
       <div className='flex flex-col justify-center items-center pb-5' >
         <a href={`tel:${dataMondial.phone}`} className='flex items-center gap-3'>
           <img className='w-10' src={iconPhone} alt="Celular" /> {dataMondial.phone}
@@ -21,7 +21,7 @@ export const SocialMediaComponent = () => {
         </a>
       </div>
    
-      <h3 className={appStyles.title}>VISITE NUESTRAS <strong>REDES SOCIALES</strong></h3>
+      <h3 className={appStyles.smTitle}>VISITE NUESTRAS <strong>REDES SOCIALES</strong></h3>
       <div className='flex justify-between py-3.5' >
           {
             socialNetwork.map((net) => (

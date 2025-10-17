@@ -1,5 +1,5 @@
 const formStyles = {
-    formContainer : 'bg-blue-900 text-white sm:max-w-1/2',
+    formContainer : 'bg-blue-900 text-white', // sm:max-w-1/2 max-md:max-w-3xl
     formTitle : 'italic text-center p-2',
     form : 'p-2',
     inputContainer : 'flex flex-col p-2 gap-1',
