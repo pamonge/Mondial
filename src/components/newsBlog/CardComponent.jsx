@@ -18,7 +18,7 @@ export const CardComponent = ({ info, onClick }) => {
                     {info.title}
                 </h3>
                 <div className={cardStyle.linkComponentStyles}>
-                    <LinkComponent src={info.linkData} desc='Leer más...' />
+                    <LinkComponent to={`/news/${info.id}`} desc='Leer más...' />
                 </div>
             </div>
 

@@ -8,6 +8,7 @@ import { SellPage } from './pages/SellPage'
 import { ContactPage } from './pages/ContactPage'
 
 import { NewsPage } from './pages/NewsPage'
+import { NewsDetailPage } from './pages/NewsDetailPage'
 import { RentPage } from './pages/RentPage'
 import { UsPage } from './pages/UsPage'
 import { FooterComponent } from './components/footer/FooterComponent'
@@ -28,6 +29,7 @@ function App() {
         <Route path='/sell' element={<SellPage />} />
         <Route path='/contact' element={<ContactPage />} />
         <Route path='/news' element={<NewsPage />} />
+        <Route path='/news/:id' element={<NewsDetailPage />} />
         <Route path='/rent' element={<RentPage />} />
         <Route path='/us' element={<UsPage />} />
         <Route path='/cookies' element={<CookiesPage />} />
