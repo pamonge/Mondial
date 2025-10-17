@@ -1,6 +1,5 @@
 const DetailStyle = {
-    detailContainer: {
-        display: 'flex',}
+    detailContainer:"w-full max-w-[1200px] mx-auto"
 }
 
 export default DetailStyle;
