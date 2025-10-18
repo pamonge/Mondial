@@ -1,3 +1,5 @@
+// Ubicacion del archivo donde es importado /components/footer/FormComponent
+
 const formStyles = {
     formContainer : 'bg-blue-900 text-white', // sm:max-w-1/2 max-md:max-w-3xl
     formTitle : 'italic text-center p-2',

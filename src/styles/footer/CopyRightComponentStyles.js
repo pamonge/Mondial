@@ -1,3 +1,5 @@
+// Ubicación del archivo donde es importado /components/footer/CopyRightComponent
+
 const copyRightStyles = {
     copyRightContainer: 'flex justify-between items-center gap-1 p-2 text-sm text-gray-500 max-md:flex-col-reverse',
     webDesignerContainer: 'flex items-center',
@@ -6,4 +8,4 @@ const copyRightStyles = {
     linkContainer: 'flex gap-1',
 }
 
-export default copyRightStyles
+export default copyRightStyles;

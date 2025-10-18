@@ -78,7 +78,7 @@ export const CarouselComponent = () => {
                 ›
             </button>
 
-            {/* Indicadores */}
+            {/* Indicadores (los puntos debajo de las imagenes) */}
             <div className={carouselComponentStyles.indicators}>
                 {dataCarousel.map((_, index) => (
                     <button

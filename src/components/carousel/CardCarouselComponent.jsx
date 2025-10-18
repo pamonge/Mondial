@@ -2,6 +2,8 @@ import React from 'react'
 import { LinkComponent } from '../navigation/LinkComponent'
 import cardCarouselStyles from '../../styles/carouselStyles/cardCarouselComponentStyles'
 
+// Componente que se renderiza en ./CarouselComponent.jsx
+
 export const CardCarouselComponent = ({ info, onClick }) => {
   return (
     <div 
