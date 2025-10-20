@@ -11,7 +11,8 @@ const cardStyle = {
     
     linkComponentStyles: 'flex justify-center sm:justify-end w-full',
     
-    dateStyles: 'hidden'
+    dateStyles: 'hidden',
+    
 }
 
 export default cardStyle;
