@@ -1,6 +1,6 @@
 const navBarStyles = {
-    navBarContainer: 'p-2 bg-blue-900 flex justify-between items-center text-white relative',
-    logo: 'h-15 w-auto cursor-pointer hover:opacity-80 transition-all duration-500 rounded-4xl',
+    navBarContainer: 'p-2 flex justify-between items-center relative',
+    logo: 'h-15 w-auto cursor-pointer hover:opacity-80 transition-all duration-500 px-6',
     hamburgerMenu: 'w-7 cursor-pointer transition-all ease-in-out duration-500 hover:scale-110',
     hamburgerButton: 'lg:hidden flex flex-col w-8 h-8 justify-center items-end space-y-1.5 z-500 px-5',
     hamburgerLine: 'block w-6 h-0.5 bg-white rounded transition-all duration-300',

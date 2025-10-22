@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import menuLinks from '../../data/data.links'
 import menuLinksStyles from '../../styles/menuLinksComponentStyles'
 
@@ -9,18 +9,10 @@ export const MenuLinksComponent = ({ func = '', contStyles = menuLinksStyles.lin
 
   return (
     <nav className={contStyles}>    
-      {
-        menuItems.map((item) => (
-          <Link 
-            key={item.label}
-            to={item.to}
-            className={linkStyle}
-            onClick={func}
-          >
-            {item.label}
-          </Link>
-        ))
-      }
+      <NavLink to='/' >Inicio</NavLink>
+      <NavLink to='/us' >Nosotros</NavLink>
+      <NavLink to='/news' >Blog</NavLink>
+      <NavLink to='/contact'>Contacto</NavLink>
     </nav>
   )
 }

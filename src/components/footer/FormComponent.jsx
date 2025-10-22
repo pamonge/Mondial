@@ -99,7 +99,7 @@ export const FormComponent = () => {
         <div className={formStyles.inputContainer}>
           <label className={formStyles.label} htmlFor="subject">Tipo de cliente</label>
           <select className={formStyles.input} name="subject" id="subject" required>
-            <option value="">Selecciona un tipo</option>
+            <option className={formStyles.options} value="">Selecciona un tipo</option>
             {clients.map((client) => (
               <option className={formStyles.options} key={client.value} value={client.value}>
                 {client.type}

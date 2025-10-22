@@ -10,12 +10,18 @@
     }
 }
 
+body {
+    font-family: "Poppins", sans-serif;
+    color: #141230;
+    background-color: #EBEBF5;
+}
+
 .animate-scroll {
     animation: scroll 13s linear infinite;
 }
 
 .italianno-regular {
-  font-family: "Italianno", cursive;
-  font-weight: 600;
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
   font-style: normal;
 }

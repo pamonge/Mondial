@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { MenuLinksComponent } from './MenuLinksComponent'
-import logo from '../../assets/logo/isotypeMondial.png'
+import logo from '../../assets/logo/isologo.png'
 import navBarStyles from '../../styles/navBarComponentStyles'
 
 export const NavBarComponent = () => {

@@ -1,12 +1,10 @@
 import { Routes, Route } from 'react-router-dom'
 import './App.css'
-//import appStyles from './styles/appStyles'
 import { NavBarComponent } from './components/navigation/NavBarComponent'
 import { HomePage } from './pages/HomePage'
 import { BuyPage } from './pages/BuyPage'
 import { SellPage } from './pages/SellPage'
 import { ContactPage } from './pages/ContactPage'
-
 import { NewsPage } from './pages/NewsPage'
 import { NewsDetailPage } from './pages/NewsDetailPage'
 import { RentPage } from './pages/RentPage'
