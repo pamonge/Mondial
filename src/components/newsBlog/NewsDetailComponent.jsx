@@ -1,7 +1,8 @@
 import React from 'react'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
-
+// Noticia unica  con todos sus detalles 
 const NewsDetailComponents = ({ info }) => {
+    //se le pasa la indo de data blog para mostrar los detalles
     return (
         <div className={detailStyle.container}>
 
@@ -13,7 +14,7 @@ const NewsDetailComponents = ({ info }) => {
 
             <div className={detailStyle.meta}>
                 <span>Publicado por: <strong>{info.Autor || 'Mondial'}</strong></span>
-                <span className="mx-2">|</span>
+                <span className={detailStyle.separator}>|</span>
                 <span>Fecha: <strong>{info.date}</strong></span>
             </div>
 
@@ -29,11 +30,7 @@ const NewsDetailComponents = ({ info }) => {
 
                 <p>{info.noticia}</p>
 
-                {/* Si 'info.noticia' tuviera saltos de línea, podrías hacer esto:
-                {info.noticia.split('\n').map((parrafo, index) => (
-                    <p key={index} className="mb-4">{parrafo}</p>
-                ))}
-                */}
+
             </div>
 
         </div>
