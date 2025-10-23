@@ -6,6 +6,7 @@ import dataSell from '../data/dataSell'
 import { SellCardComponent } from '../components/sellpage/SellCardComponent'
 
 export const SellPage = () => {
+  
   return (
     <div className='flex flex-col p-5 gap-3'>
       <h2 className={appStyles.title}>VENTA</h2>
@@ -17,7 +18,7 @@ export const SellPage = () => {
       </div >
       <div className='flex max-md:flex-col justify-around gap-5 items-center'>
         {
-        dataSell.map(info => (
+          dataSell.map(info => (
             <div className='max-w-72' key={info.id}>
               <SellCardComponent info={info} />
             </div>
