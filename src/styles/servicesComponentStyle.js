@@ -6,7 +6,7 @@ export const servicesStyle = {
     sectionContainer: 'w-full py-12 lg:py-16 ', 
 
     //Título principal ("Somos especialistas...")
-    mainTitle: 'text-lg italic text-center py-4  font-bolt text-center mb-8',
+    mainTitle: 'text-lg italic text-center py-4  font-bolt text-center   lg:text-3xl',
     mainTitleColor: `text-[${colorPrincipal}]`, // Color personalizado
 
     // Contenedor de la "caja" blanca que envuelve las 3 tarjetas
