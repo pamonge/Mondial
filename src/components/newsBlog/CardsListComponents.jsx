@@ -1,7 +1,8 @@
 import React from "react";
 import dataBlog from "../../data/dataBlog";
 import { CardComponent } from "./CardComponent";
-import { ListStyle } from "../../styles/NewsStyles/ListComponentStyle"
+import listStyle from "../../styles/NewsStyles/ListComponentStyle";
+//lista de tarjetas de noticias del blog
 export const CardListComponents = () => {
     // Ordenar las noticias por fecha de publicación
     const newsOrdenadas = [...dataBlog].sort((a, b) => {
@@ -10,16 +11,15 @@ export const CardListComponents = () => {
 
     return (
         // Contenedor general de la lista de noticias
-        <div className={ListStyle.divGeneral}>
-            {/*Contenedor de cada tarjeta de noticias*/}
-            <div className={ListStyle.container}>
-                {/*Lista de tarjetas de noticias ordenadas por fecha de publicación*/}
-                {newsOrdenadas.map((noticia) => (
-                    <CardComponent
-                        key={noticia.id}
-                        info={noticia}
-                    />
-                ))}
+        <div className={listStyle.sectionContainer}>
+
+            <div className={listStyle.gridContainer}>
+                {
+                    newsOrdenadas.map((noticia) => (
+                        //  Se Renderiza la tarjeta 
+                        <CardComponent key={noticia.id} info={noticia} />
+                    ))
+                }
             </div>
         </div>
     );
