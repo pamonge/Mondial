@@ -10,15 +10,15 @@ const cardStyle = {
    contentContainer: 'p-6 flex flex-col flex-grow',
    
    // Título - con line-height ajustado para evitar saltos de línea
-   //h3Styles: 'font-poppins font-medium text-base mb-3 leading-tight',
+   
    h3Styles: 'font-poppins font-medium text-base mb-3 leading-tight  ',
-   // Contenedor del texto/descripción
+   
    textContainer: 'flex-grow mb-4',
    
-   // Párrafo - line-height ajustado
+   
    pStyles: 'font-poppins font-normal text-sm line-clamp-2 leading-tight',
    
-   // Contenedor del link
+   
    linkComponentStyles: 'mt-auto ',
 };
 
