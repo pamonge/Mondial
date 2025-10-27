@@ -28,7 +28,7 @@ export const NewsDetailPage = () => {
         //si se encuentra la noticia mostrar detalles de la noticia
         <div>
 
-            <BlogTitleComponent />
+
             <NewsDetailComponents info={noticiaEncontrada} />
         </div>
     )
