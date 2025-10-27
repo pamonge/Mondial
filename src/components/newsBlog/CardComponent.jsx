@@ -8,7 +8,7 @@ export const CardComponent = ({ info, onClick }) => {
         <div className={cardStyle.cardContainer} onClick={onClick}>
             <div className={cardStyle.imgContainer}>
                 <img
-                    src={`/blogNews/image-news${info.id}.jpg`}
+                    src={`/blogNews/${info.img}`}
                     alt={info.title}
                     className={cardStyle.imgCard}
                 />
