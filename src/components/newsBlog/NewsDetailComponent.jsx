@@ -4,7 +4,7 @@ import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
 const NewsDetailComponents = ({ info }) => {
     //se le pasa la indo de data blog para mostrar los detalles
     return (
-        <div >
+        <div className={detailStyle.container}>
 
 
             <h1 className={detailStyle.title}>
@@ -19,17 +19,17 @@ const NewsDetailComponents = ({ info }) => {
             </div>
 
 
-            <img
-                src={`/blogNews/${info.image}`}
-                alt={info.title}
-                className={detailStyle.image}
-            />
+
 
 
             <div className={detailStyle.content}>
 
-                <p>{info.noticia}</p>
-
+                <p>{info.descripcion}</p>
+                <img
+                    src={`/blogNews/${info.img}`}
+                    alt={info.title}
+                    className={detailStyle.image}
+                />
 
             </div>
 
