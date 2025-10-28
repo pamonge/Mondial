@@ -4,6 +4,8 @@ import { BlogTitleComponent } from "../components/newsBlog/BlogTitleComponent.js
 import dataBlog from "../data/dataBlog.js";
 import detailStyle from "../styles/NewsStyles/DetailComponentStyle";
 import NewsDetailComponents from "../components/newsBlog/NewsDetailComponent";
+import { LinkComponent } from "../components/navigation/LinkComponent.jsx";
+
 //BUSQUEDA DE NOTICIA POR ID DE RUTA Y RENDERIZADO DE DETALLES
 export const NewsDetailPage = () => {
     // Obtener el ID de la noticia desde los parámetros de la URL
@@ -20,14 +22,13 @@ export const NewsDetailPage = () => {
                 <h2 className={detailStyle.notFoundTitle}>Noticia no encontrada</h2>
                 <p>El artículo que buscas no existe o fue movido.</p>
 
-                <LinkComponent to="/news" desc="Volver al Blog" />
+                <LinkComponent to="/news" desc="Volver" />
             </div>
         );
     }
     return (
         //si se encuentra la noticia mostrar detalles de la noticia
         <div>
-
 
             <NewsDetailComponents info={noticiaEncontrada} />
         </div>
