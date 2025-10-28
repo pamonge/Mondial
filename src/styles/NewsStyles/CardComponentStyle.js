@@ -1,18 +1,25 @@
+//Tarjeta de noticias
 const cardStyle = {
-    cardContainer: 'w-full max-w-[1200px] mx-auto my-0 p-6 bg-white flex flex-col sm:flex-row items-center gap-6 border-b-2 border-gray-300 last:border-b-0',
-
-    imgContainer: 'w-full sm:w-[280px] h-[280px] rounded-none overflow-hidden flex-shrink-0 border-2 border-gray-300',
+   cardContainer: 'flex flex-col rounded-lg shadow-md overflow-hidden transform transition-transform duration-300 hover:shadow-xl hover:-translate-y-1 bg-white',
     
-    imgCard: "w-full h-full object-cover",
-
-    textContainer: ' flex flex-col justify-center items-center gap-4 py-4 w-full',
+   imgContainer: 'w-full h-48 overflow-hidden',
+   
+   imgCard: 'w-full h-full object-cover',
     
-    h3Styles: 'text-2xl sm:text-3xl lg:text-4x1 font-normal text-blue-800 text-center leading-tight max-w-[600px]',
-    
-    linkComponentStyles: 'flex justify-center sm:justify-end w-full',
-    
-    dateStyles: 'hidden',
-    
-}
+   // Contenedor del contenido (título + descripción)
+   contentContainer: 'p-6 flex flex-col flex-grow',
+   
+   // Título - con line-height ajustado para evitar saltos de línea
+   
+   h3Styles: 'font-poppins font-medium text-base mb-3 leading-tight  ',
+   
+   textContainer: 'flex-grow mb-4',
+   
+   
+   pStyles: 'font-poppins font-normal text-sm line-clamp-2 leading-tight',
+   
+   
+   linkComponentStyles: 'mt-auto ',
+};
 
 export default cardStyle;
