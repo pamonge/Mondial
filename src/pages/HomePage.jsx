@@ -6,6 +6,7 @@ import { CardHomeComponent } from '../components/home/CardHomeComponent'
 import { ListCardComponent } from '../components/services/ListCardComponent'
 import { QuestionComponent } from '../components/home/QuestionComponent'
 import { CarouselComponent } from '../components/carousel/CarouselComponent'
+import { InmobiliaryWorld } from '../components/home/InmobiliaryWorld'
 
 export const HomePage = () => {
   return (
@@ -15,6 +16,7 @@ export const HomePage = () => {
       <MondialSlogan />
       <QuestionComponent />
       <CarouselComponent />
+      <InmobiliaryWorld />
     </div>
   )
 }

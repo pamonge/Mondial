@@ -1,7 +1,7 @@
 import React from 'react'
 import iconMarc from '../../assets/icons/icon-marc.png'
 import dataMondial from '../../data/dataMondial'
-import mapComponentStyles from '../../styles/mapComponentStyles'
+import mapComponentStyles from '../../styles/footer/mapComponentStyles'
 
 // Este componente renderiza en ContactPage.jsx
 export const MapComponent = () => {

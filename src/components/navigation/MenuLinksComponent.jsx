@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 export const MenuLinksComponent = ({
 
   contStyles = "flex gap-10 items-center", // estilos del contenedor
-  linkStyle = "hover:text-[#50509D] cursor-pointer", // estilos de cada link
+  linkStyle = "hover:text-[#50509D] cursor-pointer border py-1 px-6 rounded-lg border-transparent transition-all ease-in-out duration-700 hover:border-[#141230]", // estilos de cada link
 }) => {  
 
   const [isOpen, setIsOpen] = useState(false);
@@ -18,7 +18,7 @@ export const MenuLinksComponent = ({
     setIsOpen(false);
   };
   return (
-    <nav className="flex justify-between px-8 py-4 relative z-50 font-bold">
+    <nav className="flex justify-between px-8 py-4 relative z-50 ">
       <ul className={contStyles}>
         <li className={linkStyle} onClick={closeMenu}>
           <NavLink onClick={() => setIsOpen(false)} to='/'>Inicio</NavLink>

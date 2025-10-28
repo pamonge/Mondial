@@ -31,7 +31,7 @@ export const FooterComponent = () => {
             </div>
         </div>
         <div className='h-full flex flex-col gap-5'>
-          <div className='bg-[#EBEBF5] h-2/3 rounded-2xl'>
+          <div className='bg-[#EBEBF5] h-2/3'>
             <MapComponent />
           </div >
           <div className='bg-[#EBEBF5] rounded-2xl overflow-auto '>
