@@ -11,7 +11,7 @@ export const HeroComponent = () => {
       
         <div className={`${heroStyles.heroSec} min-md:w-2xl text-white px-10`}>
           <h1 className='text-5xl font-medium'>Encuentra tu hogar ideal con nosotros</h1>
-          <h2 className='pt-5 italianno-regular text-4xl ' >25 años a su servicio</h2>
+          <h2 className='pt-5 satisfy-regular text-4xl ' >25 años a su servicio</h2>
           <div className='pt-8'>
             <LinkComponent src='/contact' desc='Contáctenos!' />
           </div>
