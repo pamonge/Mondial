@@ -4,8 +4,7 @@ import { Link } from "react-router-dom";
 
 // Tarjeta individual de servicio para la lista de servicios
 export const CardServiceComponent = ({ info, onClick }) => {
-    return (
-        //link a la página correspondiente al servicio
+    return ( 
         <Link to={info.linkData} className={servicesStyle.cardContainer} onClick={onClick}>
             <div className={servicesStyle.imgContainer}>
                 <img

@@ -9,7 +9,6 @@ import servicesStyle from "../../styles/servicesComponentStyle";
 
 export const ListCardComponent = () => {
     return (
-
         <div className={servicesStyle.sectionContainer}>
 
             {/*  Título principal  */}
