@@ -4,7 +4,7 @@ const colorSecundario = '#141230';
 
 export const servicesStyle = {
     // Contenedor de toda la sección
-    sectionContainer: 'w-full py-12 lg:py-16 ', 
+    sectionContainer: 'w-full  py-12 lg:py-16 ', 
 
     //Título principal ("Somos especialistas...")
     mainTitle: 'text-lg italic text-center py-4  font-bolt text-center   lg:text-3xl',
@@ -12,13 +12,13 @@ export const servicesStyle = {
     
     title3:`p-6 text-center flex-grow text-[${colorPrincipal}]lg:text-2xl flex flex-col justify-center`,
     // Contenedor de la "caja" blanca que envuelve las 3 tarjetas
-    gridContainer: 'container mx-auto max-w-6xl  p-6 lg:p-10  grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8',
+    gridContainer: 'container mx-auto max-w-7xl  p-6 lg:p-10  grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8',
     
     //  Estilos para CADA tarjeta
-    cardContainer: 'flex flex-col rounded-lg shadow-md overflow-hidden transform transition-transform duration-300 hover:shadow-xl hover:-translate-y-1',
+    cardContainer: 'flex flex-col rounded-lg shadow-md overflow-hidden transform transition-transform duration-300 hover:shadow-xl hover:scale-95',
     
     
-    imgContainer: 'w-full h-48 overflow-hidden',
+    imgContainer: 'w-full h-84 overflow-hidden',
     
    
     imgCard: 'w-full h-full object-cover',
