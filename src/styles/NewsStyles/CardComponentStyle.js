@@ -1,6 +1,6 @@
 //Tarjeta de noticias
 const cardStyle = {
-   cardContainer: 'flex flex-col rounded-lg shadow-md overflow-hidden  bg-white',
+   cardContainer: 'flex flex-col rounded-2xl shadow-md overflow-hidden transform transition-all duration-500 hover:shadow-xl  bg-white',
     
    imgContainer: 'w-full h-64 overflow-hidden',
    
