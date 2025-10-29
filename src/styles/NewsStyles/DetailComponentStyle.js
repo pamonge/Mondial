@@ -1,5 +1,5 @@
 const DetailStyle = {
-    backLink: 'text-base font-medium font-poppins text-[#141230] mb-4 inline-block hover:underline',
+    backLink: 'text-base font-medium font-poppins text-[#141230] mb-4 inline-block ',
     container: 'w-full  mx-auto py-8 px-16',
     containerCreatorNews: 'flex justify-between items-center mb-8',
     title: 'font-poppins text-3xl sm:text-4xl font-medium text-[#141230] mb-4 text-start',
