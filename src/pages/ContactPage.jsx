@@ -1,12 +1,13 @@
 import React from 'react'
-import { MapComponent } from '../components/contact/MapComponent'
+
 import appStyles from '../styles/appStyles'
+import { ContactComponent } from '../components/contact/ContactComponent'
 
 export const ContactPage = () => {
   return (
-    <div className='flex flex-col justify-center items-center'>
-      <h2 className={appStyles.title}>CONTÁCTENOS</h2>
-      <MapComponent />
+    <div className={appStyles.div}>
+      <h1 className={`${appStyles.mainTitle} ${appStyles.mainTitleColor}`}>Contáctanos y te asesoramos</h1>
+      <ContactComponent />
     </div>
   )
 }
