@@ -1,20 +1,6 @@
 export const ContactStyle = {
-    sectionContainer: {
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '100vh',
-        backgroundColor: '#f5f5f5',
-        padding: '20px',
-    },
-    mainTitle: {
-        fontSize: '2.5rem',
-        fontWeight: 'bold',
-        color: '#333',
-        marginBottom: '20px',
-        textAlign: 'center',
-    },
+    sectionContainer:'flex  justify-center items-center pb-5 gap-5',
+    containerA:'flex items-center gap-3  '
 };
 
 export default ContactStyle;
