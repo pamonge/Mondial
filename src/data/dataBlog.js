@@ -77,19 +77,6 @@ const dataBlog = [
             ]
         },
         {
-            // Párrafo 2
-            type: 'paragraph',
-            content: [
-                { type: 'text', text: 'En primer lugar, un seguro de salud te ' },
-                { type: 'bold', text: 'brinda acceso' },
-                { type: 'text', text: ' a una amplia red de profesionales médicos y especialistas, lo que ' },
-                { type: 'bold', text: 'facilita la atención médica' },
-                { type: 'text', text: ' cuando la necesitas. Además, muchos seguros de salud ofrecen ' },
-                { type: 'bold', text: 'cobertura para tratamientos preventivos,' },
-                { type: 'text', text: ' como chequeos regulares y vacunas, lo que puede ayudarte a mantener una buena salud a largo plazo.' }
-            ]
-        },
-        {
             // Párrafo 3
             type: 'paragraph',
             content: [
@@ -180,7 +167,7 @@ const dataBlog = [
             type: 'paragraph',
             content: [
                
-                { type: 'text', text: 'En:' },
+                { type: 'text', text: 'En' },
                 { type: 'bold', text: ' Mondial Inmobiliaria' },
                { type: 'text', text: 'defendemos la exclusividad como lo que es: un compromiso de servicio serio, transparente y de calidad.' },
 
