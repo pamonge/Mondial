@@ -1,3 +1,4 @@
+import img from '../assets/img.jpg'
 const dataServices = {
     buy: {
         title: 'Encuentra el hogar que siempre soñaste',
@@ -6,6 +7,7 @@ const dataServices = {
         cards: [
             {
                 id: 1,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -28,6 +30,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -50,6 +53,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -82,14 +86,17 @@ const dataServices = {
         cards: [
             {
                 id: 1, 
+                img: `${img}`,
                 title: 'Experiencia y Profesionalismo', 
                 text: 'Somos una agencia con amplia experiencia en el sector, y contamos con un equipo de profesionales altamente calificado' 
             },{
                 id: 2, 
+                img: `${img}`,
                 title: 'Compromiso y Dedicación', 
                 text: 'Nos comprometemos a ofrecerle un servicio personalizado y de calidad velando siempre por sus intereses.'
             },{
                 id: 3, 
+                img: `${img}`,
                 title: 'Transparencia y confianza', 
                 text: 'Le informamos de forma transparente sobre todos los pasos del proceso de venta, y le ofrecemos un trato cercano y profesional'
             }
@@ -103,6 +110,7 @@ const dataServices = {
         cards: [
             {
                 id: 1,
+                img: `${img}`,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -125,6 +133,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
+                img: `${img}`,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -147,6 +156,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
+                img: `${img}`,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -176,7 +186,6 @@ const dataServices = {
             id: 1, 
             text: 'Ofrecemos en nuestros servicios, confianza, compromiso y experiencia dando un trato personalizado.'
         },
-
     ]
 }
 export default dataServices;

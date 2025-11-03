@@ -1,26 +1,52 @@
 import React from "react";
 import servicesStyle from "../../styles/servicesComponentStyle"
-import { Link } from "react-router-dom";
+import cardStyle from '../../styles/servicestyles/cardServicesStyles'
+import { LinkComponent } from '../navigation/LinkComponent'
+import bathtub from '../../assets/icons/servicesPage/bathtub.png'
+import bed from '../../assets/icons/servicesPage/bed.png'
+import surface from '../../assets/icons/servicesPage/surface.png'
 
-// Tarjeta individual de servicio para la lista de servicios
-export const CardServiceComponent = ({ info }) => {
+// Tarjeta individual para la lista de servicios
+export const CardServiceComponent = ({ info, link, desc }) => {
+    console.log(info.img);
+    console.log(info.location);
+    console.log(info.sup)
+    console.log(info.rooms)
     return ( 
         <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>
                 <img
-                    src={`/abouticon${info.id}.png`}
-                    alt={info.title}
+                    src={info.img}
+                    alt={info.location}
                     className={servicesStyle.imgCard}
                 />
+                <p>{info.price}</p>
             </div>
-            <div className={servicesStyle.textContainer}>
-                <h3 className={servicesStyle.h3Styles}>
-                    Quiero <strong>{info.service}</strong>
-                    <br />
-                    una propiedad
-                </h3>
+            <div className="flex">
+                <div className={`${servicesStyle.textContainer} pb-6`}>
+                    <h3 className={servicesStyle.h3Styles}>
+                        {info.location}
+                    </h3>
+                    <div className={cardStyle.cardDesc}>
+                        <div className={cardStyle.divDesc}>
+                            <img className={cardStyle.imgIcon} src={surface} alt="surface" />
+                            <p>{info.sup}</p>
+                        </div>
+                        <div className={cardStyle.divDesc} >
+                            <img className={cardStyle.imgIcon} src={bed} alt="rooms" />
+                            <p>{info.rooms}</p>
+                        </div>
+                        <div className={cardStyle.divDesc} >
+                            <img className={cardStyle.imgIcon} src={bathtub} alt="bathroom" />
+                            <p>{info.bath}</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex items-start p-3">
+                    <LinkComponent src={link} desc={desc} />
+                </div>
+            </div>
 
-            </div>
         </div>
     );
 }

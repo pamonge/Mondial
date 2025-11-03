@@ -1,10 +1,10 @@
 import React from 'react'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
 import { Link } from 'react-router-dom'
+
 const NewsDetailComponents = ({ info }) => {
     return (
         <div className={detailStyle.container}>
-            {/* Enlace de regreso a la página de noticias */}
             <Link to="/news" className={detailStyle.backLink}>&lt; Volver</Link>
             <h1 className={detailStyle.title}>
                 {info.title}
@@ -15,26 +15,31 @@ const NewsDetailComponents = ({ info }) => {
                 <span className={detailStyle.meta}>Fecha: {info.date}</span>
             </div>
 
-
             <div className={detailStyle.content}>
-
-
+                <img
+                    src={`/blogNews/${info.img}`}
+                    alt={info.title}
+                    className={detailStyle.image}
+                />
                 <div className={detailStyle.textBlock}>
                     {
-                        //  'map' sobre el array de párrafos
                         info.noticia.map((parrafo, index) => (
-                            <p key={index} className="mb-8">
+                            <p key={index} >
                                 {
-                                    //  'map' sobre los segmentos de texto
-                                    parrafo.content.map((segmento, i) => (
-                                        segmento.type === 'bold' ? (
-                                            // Si es 'bold', usa <strong>
-                                            <strong key={i}>{segmento.text}</strong>
-                                        ) : (
-                                            // Si es 'text', usa <span> 
-                                            <span key={i}>{segmento.text}</span>
-                                        )
-                                    ))
+                                    parrafo.content.map((segmento, i) => {
+                                        switch (segmento.type) {
+                                            case 'text':
+                                                return <span key={i} className={detailStyle.text}>{segmento.text}</span>;
+                                            case 'subTitle':
+                                                return <h2 key={i} className={detailStyle.subTitle}>{segmento.text}</h2>;
+                                            case 'subTitle2':
+                                                return <h3 key={i} className={detailStyle.subTitle2}>{segmento.text}</h3>;
+                                            case 'bold':
+                                                return <span key={i} className={detailStyle.bold}>{segmento.text}</span>;
+                                            default:
+                                                return null;
+                                        }
+                                    })
                                 }
                             </p>
                         ))
@@ -42,14 +47,9 @@ const NewsDetailComponents = ({ info }) => {
                 </div>
 
 
-                <img
-                    src={`/blogNews/${info.img}`}
-                    alt={info.title}
-                    className={detailStyle.image}
-                />
             </div>
-
         </div>
     )
 }
+
 export default NewsDetailComponents;
