@@ -1,7 +1,7 @@
 const dataAbout = {
     
     intro:['Somos una empresa de gestión inmobiliaria de Murcia, situados en pleno centro de nuestra capital desde 1998, lo que nos avala por nuestra experiencia al tener un profundo conocimiento en este sector como expertos en la zona.',
-        'Ofrecemos una atención cualificada, personalizada y profesional, dirigida a asegurar en garantía del cliente con nuestros servicios, una operación transparente, rápida y profesional, comprometiéndonos a que reciban la información necesaria para llevarla a buen fin.'
+        // 'Ofrecemos una atención cualificada, personalizada y profesional, dirigida a asegurar en garantía del cliente con nuestros servicios, una operación transparente, rápida y profesional, comprometiéndonos a que reciban la información necesaria para llevarla a buen fin.'
 
     ],
     gridItems: ['Ofrecemos una atención cualificada, personalizada y profesional, dirigida a asegurar en garantía del cliente con nuestros servicios, una operación transparente, rápida y profesional, comprometiéndonos a que reciban la información necesaria para llevarla a buen fin.',

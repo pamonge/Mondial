@@ -11,7 +11,7 @@ export const NavBarComponent = () => {
   const closeMenu = () => setIsOpen(false);
 
   return (
-    <div className={`${navBarStyles.navBarContainer}`}>
+    <div className={`${navBarStyles.navBarContainer} shadow-md`}>
       {/* Logo */}
       <div>
         <Link to="/">

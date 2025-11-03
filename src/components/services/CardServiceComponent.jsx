@@ -3,12 +3,12 @@ import servicesStyle from "../../styles/servicesComponentStyle"
 import { Link } from "react-router-dom";
 
 // Tarjeta individual de servicio para la lista de servicios
-export const CardServiceComponent = ({ info, onClick }) => {
+export const CardServiceComponent = ({ info }) => {
     return ( 
-        <Link to={info.linkData} className={servicesStyle.cardContainer} onClick={onClick}>
+        <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>
                 <img
-                    src={`src/assets/img/${info.img}`}
+                    src={`/abouticon${info.id}.png`}
                     alt={info.title}
                     className={servicesStyle.imgCard}
                 />
@@ -21,7 +21,7 @@ export const CardServiceComponent = ({ info, onClick }) => {
                 </h3>
 
             </div>
-        </Link>
+        </div>
     );
 }
 
