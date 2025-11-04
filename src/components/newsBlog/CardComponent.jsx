@@ -4,6 +4,22 @@ import { LinkComponent } from "../navigation/LinkComponent";
 
 //Tarjeta individual de noticia para la lista de noticias
 export const CardComponent = ({ info, onClick }) => {
+    const getPreviewNews = (noticiaArray) => {
+        try {
+            //solo guarda el primer parrafo
+            const firstParagraph = noticiaArray[0];
+
+            return firstParagraph.content;
+
+        } catch (error) {
+            // Si algo falla (ej: noticia está vacío), mostramos un texto por defecto.
+            console.error("Error al generar vista previa de noticia:", error);
+            return "Haz clic en 'Leer más' para ver el contenido.";
+        }
+    }
+
+    // Llamamos a la función para obtener el texto
+    const previewText = getPreviewNews(info.noticia);
     return (
         <div className={cardStyle.cardContainer} onClick={onClick}>
             <div className={cardStyle.imgContainer}>
@@ -37,7 +53,14 @@ export const CardComponent = ({ info, onClick }) => {
                             lineHeight: '1.4'
                         }}
                     >
-                        {info.descripcion}
+                        {previewText.map((segmento, i) => {
+                            if (segmento.type === 'bold') {
+                                return <strong key={i}>{segmento.text}</strong>;
+                            }
+                            return <span key={i}>{segmento.text}</span>;
+                        })
+                        }
+
                     </p>
                 </div>
 
