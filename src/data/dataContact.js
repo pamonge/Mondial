@@ -3,8 +3,9 @@ import iconInstagram from '../assets/icons/icon-instagram.png'
 import iconWhatsapp from '../assets/icons/icon-whatsapp.png'
 import iconX from '../assets/icons/icon-x.png'
 
-// Celular y Correo esta en SocialMediaComponent.jsx
+// Celular y Correo esta en SocialMediaComponent.jsx (la info de esto esta en dataMondial.js)
 const socialNets = [
+    
     {key: 'facebook', img: iconFacebook, to: '#'},
     {key: 'instagram', img: iconInstagram, to: '#'},
     {key: 'whatsapp', img: iconWhatsapp, to: '#'},

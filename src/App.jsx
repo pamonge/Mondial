@@ -16,6 +16,7 @@ import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage'
 import { LegalAdvicePage } from './pages/LegalAdvicePage'
 import { TermsAndConditionsPage } from './pages/TermsAndConditionsPage'
 import { Error404 } from './pages/Error404'
+import { DetailPage } from './pages/DetailPage'
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <Route path='/news/:id' element={<NewsDetailPage />} />
         <Route path='/rent' element={<RentPage />} />
         <Route path='/us' element={<UsPage />} />
+        <Route path='/detail' element={<DetailPage />} />
         <Route path='/cookies' element={<CookiesPage />} />
         <Route path='/tyc' element={<TermsAndConditionsPage />} />
         <Route path='/privacy' element={<PrivacyPolicyPage />} />
