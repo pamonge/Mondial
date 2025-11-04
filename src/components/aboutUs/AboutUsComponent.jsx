@@ -28,8 +28,20 @@ export const AboutUsComponent = () => {
 
                     dataAbout.gridItems.map((item, index) => (
                         <div key={index} className={aboutUsStyles.gridItem}>
+                            {item[0] && (
+                                <img
+                                    src={`/src/assets/icons/${item[0]}`}
+                                    alt={item[1]}
+                                    className={aboutUsStyles.icon} // 5. Aplica estilo de icono
+                                />
+                            )}
 
-                            <p className={aboutUsStyles.gridItem}>{item}</p>
+                            {/* 6. Párrafo con nuevo estilo */}
+                            {item[1] && (
+                                <p className={aboutUsStyles.text}> {/* 7. Aplica estilo de texto */}
+                                    {item[1]}
+                                </p>
+                            )}
                         </div>
                     ))
                 }
@@ -37,7 +49,7 @@ export const AboutUsComponent = () => {
             <div >
                 {/*conclusion */}
                 {
-                    <p className={aboutUsStyles.paragraph}>{dataAbout.conclution}</p>
+                    <p className={aboutUsStyles.conclution}>{dataAbout.conclution}</p>
                 }
             </div>
         </div>
