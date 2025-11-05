@@ -2,19 +2,19 @@ import React, { useState, useEffect } from 'react'
 import { CardCarouselComponent } from './CardCarouselComponent';
 import dataCarousel from '../../data/dataCarousel.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
-
+import appStyles from '../../styles/appStyles.js';
 export const CarouselComponent = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isPaused, setIsPaused] = useState(false);
 
     const nextSlide = () => {
-        setCurrentIndex((prevIndex) => 
+        setCurrentIndex((prevIndex) =>
             prevIndex === dataCarousel.length - 1 ? 0 : prevIndex + 1
         );
     };
 
     const prevSlide = () => {
-        setCurrentIndex((prevIndex) => 
+        setCurrentIndex((prevIndex) =>
             prevIndex === 0 ? dataCarousel.length - 1 : prevIndex - 1
         );
     };
@@ -26,7 +26,7 @@ export const CarouselComponent = () => {
     // Auto-play
     useEffect(() => {
         if (isPaused) return;
-        
+
         const interval = setInterval(() => {
             nextSlide();
         }, 5000);
@@ -35,27 +35,30 @@ export const CarouselComponent = () => {
     }, [currentIndex, isPaused]);
 
     return (
+
         <div className={carouselComponentStyles.componentContainer}>
+            <h2 className={appStyles.mainTitle}>Espacios para vivir y disfrutar</h2>
             {/* Contenedor principal */}
             <div className={carouselComponentStyles.mainContainer}>
+
                 <div className={carouselComponentStyles.overflowContainer}>
-                    <div 
+                    <div
                         className={carouselComponentStyles.card}
-                        style={{ 
-                            transform: `translateX(-${currentIndex * 100}%)` 
+                        style={{
+                            transform: `translateX(-${currentIndex * 100}%)`
                         }}
                         onMouseEnter={() => setIsPaused(true)}
                         onMouseLeave={() => setIsPaused(false)}
                     >
                         {dataCarousel.map((data, index) => (
-                            <div 
-                                key={index} 
+                            <div
+                                key={index}
                                 className={carouselComponentStyles.data}
                             >
                                 <div className={carouselComponentStyles.getCenter}>  {/* Centramos la card */}
-                                    <CardCarouselComponent 
-                                        info={data} 
-                                        onClick={() => goToSlide(index)} 
+                                    <CardCarouselComponent
+                                        info={data}
+                                        onClick={() => goToSlide(index)}
                                     />
                                 </div>
                             </div>
@@ -65,13 +68,13 @@ export const CarouselComponent = () => {
             </div>
 
             {/* Botones de navegación - Solo en desktop */}
-            <button 
+            <button
                 onClick={prevSlide}
                 className={carouselComponentStyles.leftButton}
             >
                 ‹
             </button>
-            <button 
+            <button
                 onClick={nextSlide}
                 className={carouselComponentStyles.rightButton}
             >
@@ -84,9 +87,8 @@ export const CarouselComponent = () => {
                     <button
                         key={index}
                         onClick={() => goToSlide(index)}
-                        className={`w-3 h-3 rounded-full transition-all ${
-                            index === currentIndex ? 'bg-blue-600' : 'bg-gray-300'
-                        }`}
+                        className={`w-3 h-3 rounded-full transition-all ${index === currentIndex ? 'bg-blue-600' : 'bg-gray-300'
+                            }`}
                     />
                 ))}
             </div>
