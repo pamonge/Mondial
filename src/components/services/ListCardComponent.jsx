@@ -1,23 +1,27 @@
+
 import React from "react";
-import info from '../../data/dataServices'
+import dataCarousel from "../../data/dataCarousel";
+
 import { CardServiceComponent } from "./CardServiceComponent";
+
 import servicesStyle from "../../styles/servicesComponentStyle";
 
 export const ListCardComponent = () => {
-    const service = info.buy.cards;
-    console.log(service)
     return (
         <div className={servicesStyle.sectionContainer}>
+
+            {/*  Título principal  */}
+            <h2 className={` ${servicesStyle.mainTitleColor} ${servicesStyle.mainTitle}`}>
+                Somos especialistas en el mercado
+                <br />
+                residencial en Murcia
+            </h2>
+
             <div className={servicesStyle.gridContainer}>
                 {
-                    service.map((prop) => (
+                    dataCarousel.map((service) => (
                         //  Se Renderiza la tarjeta 
-                        <CardServiceComponent 
-                            key={prop.id} 
-                            info={prop} 
-                            link='/detail'
-                            desc='Comprar'
-                        />
+                        <CardServiceComponent key={service.id} info={service} />
                     ))
                 }
             </div>

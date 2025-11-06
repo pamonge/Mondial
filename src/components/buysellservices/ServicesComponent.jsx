@@ -1,7 +1,4 @@
-import React from 'react'
-import info from '../../data/dataServices'
 import appStyles from '../../styles/appStyles'
-import { ListCardComponent } from './ListCardComponent'
 
 // Este componente es generico para compra, venta o alquiler
 export const ServicesComponent = ({ title, text, satisfy, list }) => {
