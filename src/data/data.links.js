@@ -6,6 +6,7 @@ const menuLinks = [
     {to: '/rent', label: 'Alquilar'},
     {to: '/news', label: 'Blog'},
     {to: '/contact', label: 'Contacto'},
+    {to: '/detail', label: 'Detalle'},
 ];
 
 export default menuLinks;
