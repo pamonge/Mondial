@@ -1,10 +1,10 @@
 const dataCarousel = [
     {
         id : 1,
-        title: 'Quiero comprar un propiedad',
+        title: 'Quiero comprar una propiedad',
         service:'comprar',
         img:"comprar.png",
-        description: 'Encuentra el hogar que siempre soñaste. En Mondial inmobiliaria te acompañamos en cada paso para que adquieras la propiedad ideal: segura, bien ubicada y ajustada a tu presupuesto. Ya sea tu primera vivienda, un departamento moderno en el centro o una casa espaciosa en un barrio tranquilo, tenemos las mejores opciones en la región. ¡Tu futuro comienza aquí!',
+        description: '2 habitaciones - 65 m2',
         category: 'Compra',
         linkData: '/buy'
     },

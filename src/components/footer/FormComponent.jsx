@@ -45,9 +45,6 @@ export const FormComponent = () => {
 
   return (
     <div className={formStyles.formContainer}>
-      <h2 className={formStyles.formTitle}>
-        FORMULARIO <strong>DE CONTACTO</strong>
-      </h2>
       
       {/* Mensaje de estado - Ver de hacer un Modal - */}
       {message && (

@@ -1,11 +1,20 @@
 import React from 'react'
-import appStyles from '../styles/appStyles'
+import { ServicesComponent } from '../components/buysellservices/ServicesComponent'
+import { ListBuySellCardComponent } from '../components/buysellservices/ListBuySellCardComponent'
+import data from '../data/dataServices'
 
 export const BuyPage = () => {
+  const buyInfo = data.buy;
+  const cards = buyInfo.cards;
+  console.log(cards);
   return (
     <div>
-      <h2 className={appStyles.title}>COMPRA</h2>
-      
+      <ServicesComponent 
+        title={buyInfo.title} 
+        text={buyInfo.text} 
+        satisfy={buyInfo.satisfy} 
+        list={<ListBuySellCardComponent service={cards} />} 
+      />
     </div>
   )
 }

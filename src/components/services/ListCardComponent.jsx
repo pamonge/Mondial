@@ -1,5 +1,4 @@
 
-
 import React from "react";
 import dataCarousel from "../../data/dataCarousel";
 
@@ -17,7 +16,6 @@ export const ListCardComponent = () => {
                 <br />
                 residencial en Murcia
             </h2>
-
 
             <div className={servicesStyle.gridContainer}>
                 {

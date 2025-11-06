@@ -28,9 +28,6 @@ export const CardCarouselComponent = ({ info, onClick }) => {
         <p className={cardCarouselStyles.textStyles}>
           {info.description}
         </p>
-        <div className={cardCarouselStyles.linkComponentStyles}>
-          <LinkComponent src={info.linkData} desc='Ver más'/>  
-        </div>
       </div>
     </div>
   )

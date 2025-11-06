@@ -3,7 +3,7 @@ const colorPrincipal = '#2D2964';
 const appStyles = {
     div:"flex flex-col p-5 gap-3 ",
     example : "text-3xl font-bold underline",
-    title: 'italic text-center py-4 font-bold text-blue-900 text-3xl ',
+    title: 'pt-20 text-3xl text-center',
     smTitle: 'italic text-center py-4 font-bold text-blue-900 text-lg',
        // Contenedor de toda la sección
     sectionContainer: 'w-full  py-12 lg:py-16 ', 

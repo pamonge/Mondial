@@ -1,7 +1,7 @@
 // El archivo se encuentra en /components/footer/FooterComponent
 
 const footerCompStyles = {
-    footContainer : 'flex justify-center max-md:flex-col-reverse p-5 gap-5 lg:justify-around',
+    footContainer : 'flex justify-around max-lg:flex-col p-3 gap-5 lg:justify- bg-[#2D2964] text-white py-15',
     formSocMedCont : 'flex justify-center',
 }
 

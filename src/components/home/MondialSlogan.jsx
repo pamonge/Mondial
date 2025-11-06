@@ -24,11 +24,11 @@ export const MondialSlogan = () => {
 
       <div className='flex max-lg:flex-col px-5 py-15 gap-10 justify-center'>
 
-        <div>
-          <img className='rounded-2xl max-w-lg ' src={imgSlogan} alt="image mondial slogan" />
+        <div className='flex justify-center' >
+          <img className='rounded-2xl max-w-lg max-md:w-full' src={imgSlogan} alt="image mondial slogan" />
         </div>
         
-        <div className='flex flex-col items-center max-w-md gap-3'>
+        <div className='flex flex-col justify-center items-center lg:max-w-md gap-3'>
           <p className='text-justify'>
             Con 25 años de experiencia en el sector inmobiliario, colocamos tu hogar y tus intereses en el epicentro de todo lo que hacemos.
             No vendemos casas, <strong>creamos oportunidades, construimos confianza y entregamos resultados reales</strong>. Gracias a nuestra exclusiva red de compradores cualificados, estrategias de marketing de alto impacto y un enfoque 100% personalizado, transformamos la venta de tu propiedad en una experiencia fluida, transparente y, sobre todo, exitosa. Porque en Mondial Inmobiliaria, <strong>lo que importa para ti... nos importa de verdad</strong>.

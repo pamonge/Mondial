@@ -24,4 +24,3 @@ export const CardServiceComponent = ({ info, onClick }) => {
         </Link>
     );
 }
-
