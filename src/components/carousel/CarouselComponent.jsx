@@ -45,7 +45,7 @@ export const CarouselComponent = () => {
                     <div
                         className={carouselComponentStyles.card}
                         style={{
-                            transform: `translateX(-${currentIndex * 100}%)`
+                            transform: `translateX(calc(1% - ${currentIndex} * (98% + 0.25rem)))`
                         }}
                         onMouseEnter={() => setIsPaused(true)}
                         onMouseLeave={() => setIsPaused(false)}
