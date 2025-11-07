@@ -1,24 +1,24 @@
 import React, { useState, useEffect } from 'react'
 import { CardCarouselComponent } from './CardCarouselComponent';
-import dataCarousel from '../../data/dataCarousel.js';
+import dataServices from '../../data/dataServices.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
 import appStyles from '../../styles/appStyles.js';
 export const CarouselComponent = () => {
-    const [currentIndex, setCurrentIndex] = useState(0);
+    const [currentIndex, setCurrentIndex] = useState(1);
     const [isPaused, setIsPaused] = useState(false);
-
+    const cardsArray = dataServices.buy.cards
     const nextSlide = () => {
         setCurrentIndex((prevIndex) =>
-            prevIndex === dataCarousel.length - 1 ? 0 : prevIndex + 1
+            prevIndex === cardsArray.length - 1 ? 0 : prevIndex + 1
         );
     };
 
-    const prevSlide = () => {
-        setCurrentIndex((prevIndex) =>
-            prevIndex === 0 ? dataCarousel.length - 1 : prevIndex - 1
-        );
-    };
-
+    /*  const prevSlide = () => {
+         setCurrentIndex((prevIndex) =>
+             prevIndex === 0 ? cardsArray.length - 1 : prevIndex - 1
+         );
+     };
+  */
     const goToSlide = (index) => {
         setCurrentIndex(index);
     };
@@ -50,17 +50,17 @@ export const CarouselComponent = () => {
                         onMouseEnter={() => setIsPaused(true)}
                         onMouseLeave={() => setIsPaused(false)}
                     >
-                        {dataCarousel.map((data, index) => (
+                        {cardsArray.map((data, index) => (
                             <div
                                 key={index}
                                 className={carouselComponentStyles.data}
                             >
-                                <div className={carouselComponentStyles.getCenter}>  {/* Centramos la card */}
-                                    <CardCarouselComponent
-                                        info={data}
-                                        onClick={() => goToSlide(index)}
-                                    />
-                                </div>
+
+                                <CardCarouselComponent
+                                    info={data}
+                                    onClick={() => goToSlide(index)}
+                                />
+
                             </div>
                         ))}
                     </div>
@@ -68,7 +68,7 @@ export const CarouselComponent = () => {
             </div>
 
             {/* Botones de navegación - Solo en desktop */}
-            <button
+            {/*  <button
                 onClick={prevSlide}
                 className={carouselComponentStyles.leftButton}
             >
@@ -79,11 +79,11 @@ export const CarouselComponent = () => {
                 className={carouselComponentStyles.rightButton}
             >
                 ›
-            </button>
+            </button> */}
 
             {/* Indicadores (los puntos debajo de las imagenes) */}
             <div className={carouselComponentStyles.indicators}>
-                {dataCarousel.map((_, index) => (
+                {cardsArray.map((_, index) => (
                     <button
                         key={index}
                         onClick={() => goToSlide(index)}
@@ -92,6 +92,6 @@ export const CarouselComponent = () => {
                     />
                 ))}
             </div>
-        </div>
+        </div >
     );
 }
