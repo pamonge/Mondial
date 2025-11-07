@@ -4,7 +4,7 @@ import dataServices from '../../data/dataServices.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
 import appStyles from '../../styles/appStyles.js';
 export const CarouselComponent = () => {
-    const [currentIndex, setCurrentIndex] = useState(1);
+    const [currentIndex, setCurrentIndex] = useState(0);
     const [isPaused, setIsPaused] = useState(false);
     const cardsArray = dataServices.buy.cards
     const nextSlide = () => {
