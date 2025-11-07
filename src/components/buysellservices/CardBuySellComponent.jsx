@@ -8,10 +8,6 @@ import surface from '../../assets/icons/servicesPage/surface.png'
 
 // Tarjeta individual para la lista de servicios
 export const CardBuySellComponent = ({ info, link, desc }) => {
-    console.log(info.img);
-    console.log(info.location);
-    console.log(info.sup)
-    console.log(info.rooms)
     return ( 
         <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>
