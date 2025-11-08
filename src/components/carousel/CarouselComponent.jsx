@@ -29,7 +29,7 @@ export const CarouselComponent = () => {
 
         const interval = setInterval(() => {
             nextSlide();
-        }, 5000);
+        }, 10000);
 
         return () => clearInterval(interval);
     }, [currentIndex, isPaused]);
