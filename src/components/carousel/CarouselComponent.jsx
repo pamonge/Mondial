@@ -4,7 +4,7 @@ import dataServices from '../../data/dataServices.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
 import appStyles from '../../styles/appStyles.js';
 export const CarouselComponent = () => {
-    const [currentIndex, setCurrentIndex] = useState(1);
+    const [currentIndex, setCurrentIndex] = useState(0);
     const [isPaused, setIsPaused] = useState(false);
     const cardsArray = dataServices.buy.cards
     const nextSlide = () => {
@@ -29,7 +29,7 @@ export const CarouselComponent = () => {
 
         const interval = setInterval(() => {
             nextSlide();
-        }, 5000);
+        }, 10000);
 
         return () => clearInterval(interval);
     }, [currentIndex, isPaused]);
@@ -45,7 +45,7 @@ export const CarouselComponent = () => {
                     <div
                         className={carouselComponentStyles.card}
                         style={{
-                            transform: `translateX(-${currentIndex * 100}%)`
+                            transform: `translateX(calc(1% - ${currentIndex} * (98% + 0.25rem)))`
                         }}
                         onMouseEnter={() => setIsPaused(true)}
                         onMouseLeave={() => setIsPaused(false)}
