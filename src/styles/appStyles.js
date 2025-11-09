@@ -1,5 +1,5 @@
 const colorPrincipal = '#2D2964';
-//const colorSecundario = '#141230';
+const colorSecundario = '#141230';
 const appStyles = {
     div:"flex flex-col p-5 gap-3 ",
     example : "text-3xl font-bold underline",
@@ -9,8 +9,8 @@ const appStyles = {
     sectionContainer: 'w-full  py-12 lg:py-16 ', 
     text:`font-poppins text-center flex-grow text-[${colorPrincipal}] lg:text-xl flex flex-col justify-center`,
     //Título principal
-    mainTitle: 'text-lg italic text-center py-4  font-bolt text-center   lg:text-3xl',
-    mainTitleColor: `text-[${colorPrincipal}]`
+    mainTitle: 'font-poppins  text-lg  text-center py-4  font-medium text-center   lg:text-3xl',
+    mainTitleColor: `text-[${colorSecundario}]`
 }
 
 export default appStyles

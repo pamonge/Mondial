@@ -7,7 +7,7 @@ export const servicesStyle = {
     sectionContainer: 'w-full  py-12 lg:py-16 ', 
 
     //Título principal ("Somos especialistas...")
-    mainTitle: 'text-lg italic text-center py-4  font-bolt text-center   lg:text-3xl',
+    mainTitle: 'text-lg  text-center py-4  font-bolt text-center   lg:text-3xl ',
     mainTitleColor: `text-[${colorPrincipal}]`, // Color personalizado
     
     title3:`p-6 text-center flex-grow text-[${colorPrincipal}]lg:text-2xl flex flex-col justify-center`,

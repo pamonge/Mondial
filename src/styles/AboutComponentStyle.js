@@ -1,6 +1,6 @@
 const conclutionColor = '#50509D';
 const AboutUsStyles = {
-    container:'container mx-auto py-16 px-4',
+    container:'container mx-auto py-16 px-1',
     title: 'italic text-center py-4 font-medium text-blue-900 text-3xl ',
     paragraph: 'font-poppins text-base text-center p-5 md:max-w-3xl mx-auto text-gray-700',
     gridItem: ' text-base  text-center p-2 md:max-w-5xl mx-auto text-gray-700 bg-white rounded-2xl shadow-md flex flex-col items-center',
