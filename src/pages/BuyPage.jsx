@@ -6,7 +6,6 @@ import data from '../data/dataServices'
 export const BuyPage = () => {
   const buyInfo = data.buy;
   const cards = buyInfo.cards;
-  console.log(cards);
   return (
     <div>
       <ServicesComponent 

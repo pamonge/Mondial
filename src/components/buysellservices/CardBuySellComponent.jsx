@@ -12,7 +12,7 @@ export const CardBuySellComponent = ({ info, link, desc }) => {
         <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>
                 <img
-                    src={info.img}
+                    src={`src/assets/${info.img}`}
                     alt={info.location}
                     className={servicesStyle.imgCard}
                 />

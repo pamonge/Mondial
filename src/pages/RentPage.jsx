@@ -6,7 +6,6 @@ import data from '../data/dataServices'
 export const RentPage = () => {
   const rentInfo = data.rent;
   const cards = rentInfo.cards;
-  console.log(cards);
   return (
     <div>
       <ServicesComponent 

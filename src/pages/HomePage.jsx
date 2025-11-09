@@ -15,7 +15,6 @@ export const HomePage = () => {
     <div>
       <HeroComponent />
       <ListCardComponent />
-      <CarouselComponent />
       <MondialSlogan />
       <QuestionComponent />
       <CarouselComponent />

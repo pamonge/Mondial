@@ -8,7 +8,7 @@ const dataServices = {
         cards: [
             {
                 id: 1,
-                img: `fotoVivienda1.png`,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -31,7 +31,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
-                img: `fotoVivienda1.png`,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -54,7 +54,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
-                img: `fotoVivienda1.png`,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -77,7 +77,7 @@ const dataServices = {
                 ]
             },{
                 id: 4,
-                img: `fotoVivienda1.png`,
+                img: `${img}`,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -110,17 +110,17 @@ const dataServices = {
         cards: [
             {
                 id: 1, 
-                img: `${img}`,
+                img: `img.jpg`,
                 title: 'Experiencia y Profesionalismo', 
                 text: 'Somos una agencia con amplia experiencia en el sector, y contamos con un equipo de profesionales altamente calificado' 
             },{
                 id: 2, 
-                img: `${img}`,
+                img: `img.jpg`,
                 title: 'Compromiso y Dedicación', 
                 text: 'Nos comprometemos a ofrecerle un servicio personalizado y de calidad velando siempre por sus intereses.'
             },{
                 id: 3, 
-                img: `${img}`,
+                img: `img.jpg`,
                 title: 'Transparencia y confianza', 
                 text: 'Le informamos de forma transparente sobre todos los pasos del proceso de venta, y le ofrecemos un trato cercano y profesional'
             }
@@ -134,7 +134,7 @@ const dataServices = {
         cards: [
             {
                 id: 1,
-                img: `${img}`,
+                img: `img.jpg`,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -157,7 +157,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
-                img: `${img}`,
+                img: `img.jpg`,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -180,7 +180,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
-                img: `${img}`,
+                img: `img.jpg`,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',

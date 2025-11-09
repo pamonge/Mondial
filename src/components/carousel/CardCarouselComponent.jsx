@@ -21,10 +21,10 @@ export const CardCarouselComponent = ({ info, onClick }) => {
           <h3 className="font-semibold text-lg text-white">
             {info.location}
           </h3>
-          <p className="text-sm text-base text-white">
+          <p className="text-base text-white">
             {info.address}
           </p>
-          <p className="text-sm text-base text-white">
+          <p className="text-base text-white">
             {info.rooms} habitaciones ~ {info.sup}
           </p>
         </div>
