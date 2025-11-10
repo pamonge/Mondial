@@ -16,7 +16,7 @@ export const NavBarComponent = () => {
       <div>
         <Link to="/">
           <img
-            className={navBarStyles.logo}
+            className={`${navBarStyles.logo} img-shadow-drop`}
             src={logo}
             alt="Mondial Inmobiliaria"
           />

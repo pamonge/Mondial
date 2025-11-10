@@ -7,7 +7,7 @@ import { LinkComponent } from '../navigation/LinkComponent'
 export const HeroComponent = () => {
   return ( 
     <div className={heroStyles.heroContainer}>
-      <img className={heroStyles.bgImg} src={heroimg} alt="hero image" />
+      <img className={`${heroStyles.bgImg} max-md:object-none max-md:object-top object-cover `} src={heroimg} alt="hero image" />
       
         <div className={`${heroStyles.heroSec} min-md:w-2xl text-white px-10`}>
           <h1 className='text-5xl font-medium'>Encuentra tu hogar ideal con nosotros</h1>
@@ -17,7 +17,7 @@ export const HeroComponent = () => {
           </div>
           <div className='flex flex-col pt-28'>
             <img
-            className={heroStyles.mondialText}
+            className={`${heroStyles.mondialText} img-shadow`}
             src={mondial}
             alt="mondial"
             />
