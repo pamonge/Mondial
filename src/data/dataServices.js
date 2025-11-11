@@ -1,5 +1,5 @@
 import img from '../assets/img.jpg'
-
+//info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
 const dataServices = {
     buy: {
         title: 'Encuentra el hogar que siempre soñaste',
