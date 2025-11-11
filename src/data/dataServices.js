@@ -134,7 +134,7 @@ const dataServices = {
         cards: [
             {
                 id: 1,
-                img: `img.jpg`,
+                img: img,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -157,7 +157,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
-                img: `img.jpg`,
+                img: img,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -180,7 +180,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
-                img: `img.jpg`,
+                img: img,
                 price: '1.000 € / mes',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',

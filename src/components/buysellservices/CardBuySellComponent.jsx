@@ -12,7 +12,7 @@ export const CardBuySellComponent = ({ info, link, desc }) => {
         <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>
                 <img
-                    src={`src/assets/${info.img}`}
+                    src={info.img}
                     alt={info.location}
                     className={servicesStyle.imgCard}
                 />
@@ -39,7 +39,7 @@ export const CardBuySellComponent = ({ info, link, desc }) => {
                     </div>
                 </div>
                 <div className="flex items-start p-3">
-                    <LinkComponent src={link} desc={desc} />
+                    <LinkComponent src={link} state={info} desc={desc} />
                 </div>
             </div>
 

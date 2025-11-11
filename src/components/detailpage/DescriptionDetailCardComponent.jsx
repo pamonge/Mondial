@@ -1,7 +1,13 @@
 import React from 'react'
 
-export const DescriptionDetailCardComponent = () => {
+
+export const DescriptionDetailCardComponent = ({ data }) => {
+  const descInfo = data;
   return (
-    <div>DescriptionDetailCardComponent</div>
+    <div>
+      <p>
+        {descInfo}
+      </p>
+    </div>
   )
 }
