@@ -13,7 +13,7 @@ export const CardCarouselComponent = ({ info, onClick }) => {
     >
       < div className={`${cardCarouselStyles.imgContainer} group`}>
         <img
-          src={`/carousel/${info.img}`}
+          src={`${info.img}`}
           alt={info.title}
           className={cardCarouselStyles.imgCard}
         />
