@@ -24,7 +24,7 @@ const NewsDetailComponents = ({ info }) => {
                 <div className={detailStyle.textBlock}>
                     {
                         info.noticia.map((parrafo, index) => (
-                            <p key={index} >
+                            <div key={index} >
                                 {
                                     parrafo.content.map((segmento, i) => {
                                         switch (segmento.type) {
@@ -41,7 +41,7 @@ const NewsDetailComponents = ({ info }) => {
                                         }
                                     })
                                 }
-                            </p>
+                            </div>
                         ))
                     }
                 </div>
