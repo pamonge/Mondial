@@ -1,7 +1,7 @@
 import AboutUS from '../../src/assets/aboutIcon/AboutUS.png';
 import Trust from '../../src/assets/aboutIcon/abouticon1.png';
 import Protect from '../../src/assets/aboutIcon/abouticon2.png';
-import Camera from '../..src/assets/aboutIcon/abouticon3.png';
+import Camera from '../../src/assets/aboutIcon/abouticon3.png';
 import Approval from '../../src/assets/aboutIcon/abouticon4.png';
 
 const dataAbout = {
