@@ -1,3 +1,6 @@
+import imageNews1 from '../../public/blogNews/image-news1.png';
+import imageNews2 from '../../public/blogNews/image-news2.png';
+
 const dataBlog = [
     {
         id: 1,
@@ -55,7 +58,7 @@ const dataBlog = [
             ]
         }
     ],linkData: '/news/1',
-        img: 'image-news1.png',
+        img: `${imageNews1}`,
         date: '2024-06-15',
         Autor: 'PEPE'
     },
@@ -186,7 +189,7 @@ const dataBlog = [
     
 
     ],linkData: '/news/1',
-        img: 'image-news2.png',
+        img: `${imageNews2}`,
         date: '2024-06-15',
         Autor: 'PEPE'
     },
@@ -246,7 +249,7 @@ const dataBlog = [
             ]
         }
     ], linkData: '/news/1',
-        img: 'image-news1.png',
+        img: `${imageNews1}`,
         date: '2024-06-15',
         Autor: 'PEPE'
     },];
