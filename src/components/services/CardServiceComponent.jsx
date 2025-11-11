@@ -8,7 +8,7 @@ export const CardServiceComponent = ({ info, onClick }) => {
         <Link to={info.linkData} className={servicesStyle.cardContainer} onClick={onClick}>
             <div className={servicesStyle.imgContainer}>
                 <img
-                    src={`src/assets/img/${info.img}`}
+                    src={info.img}
                     alt={info.title}
                     className={servicesStyle.imgCard}
                 />

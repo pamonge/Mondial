@@ -2,7 +2,6 @@ import { CardBuySellComponent } from "./CardBuySellComponent";
 import servicesStyle from "../../styles/servicesComponentStyle";
 
 export const ListBuySellCardComponent = ({ service }) => {
-    //console.log(service) - 
     return (
         <div className={servicesStyle.sectionContainer}>
             <div className={servicesStyle.gridContainer}>

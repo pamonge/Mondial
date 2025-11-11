@@ -3,24 +3,24 @@ import sellPage from '../assets/img/sell-page.jpg'
 import dataCarousel from '../data/dataCarousel'
 import appStyles from '../styles/appStyles'
 import dataSell from '../data/dataSell'
+import dataServices from '../data/dataServices'
 import { SellCardComponent } from '../components/sellpage/SellCardComponent'
+import { ServicesComponent } from '../components/buysellservices/ServicesComponent'
 
 export const SellPage = () => {
-  
+  const data = dataServices.sell
   return (
     <div className='flex flex-col p-5 gap-3'>
-      <h2 className={appStyles.title}>VENTA</h2>
-      <div className='flex max-md:flex-col gap-5 justify-around'>
-        <img className='min-md:max-w-96' src={sellPage} alt="selling contract" />
-        <p className='flex text-justify p-5 min-md:max-w-3xl'>
-          {dataCarousel[2].description}
-        </p>
-      </div >
+      <ServicesComponent 
+        title={data.title}
+        text={data.text}
+        satisfy={data.satisfy}
+      />
       <div className='flex max-md:flex-col justify-around gap-5 items-center'>
         {
-          dataSell.map(info => (
-            <div className='max-w-72' key={info.id}>
-              <SellCardComponent info={info} />
+          dataSell.map(data => (
+            <div className='max-w-72' key={data.id}>
+              <SellCardComponent info={data} />
             </div>
           ))
         }

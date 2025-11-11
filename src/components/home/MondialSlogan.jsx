@@ -1,5 +1,3 @@
-import React from 'react'
-import dataMondial from '../../data/dataMondial.js'
 import imgSlogan from '../../assets/img/mondial-slogan.png'
 import imgBG from '../../assets/logo/isologo.png'
 import appStyles from '../../styles/appStyles.js'

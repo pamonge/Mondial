@@ -25,3 +25,15 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
+.img-shadow {
+    filter: drop-shadow( 2px 0px 10px #EBEBF5);
+}
+
+.img-shadow-drop {
+  filter: drop-shadow(8px 8px 6px rgba(0, 0, 0, 0.3));
+}
+
+.img-shadow-box {
+  box-shadow: 8px 8px 6px rgba(0, 0, 0, 0.3);
+}
