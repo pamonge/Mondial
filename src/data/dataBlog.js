@@ -1,5 +1,5 @@
-import imageNews1 from '../../public/blogNews/image-news1.png';
-import imageNews2 from '../../public/blogNews/image-news2.png';
+import imageNews1 from '../../src/assets/blogNews/image-news1.png';
+import imageNews2 from '../../src/assets/blogNews/image-news2.png';
 
 const dataBlog = [
     {
