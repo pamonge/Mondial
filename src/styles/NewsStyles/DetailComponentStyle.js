@@ -4,7 +4,8 @@
 const detailStyle = {
     content: 'font-poppins mt-8 ',
     textBlock: 'space-y-4 ',
-    image: 'float-right ml-32 mb-4 w-full lg:w-[600px] h-auto max-h-[600px] object-cover rounded-2xl shadow-md',
+    imagelg: "hidden lg:block float-right ml-32 mb-4 w-[600px] h-auto max-h-[600px] object-cover rounded-2xl shadow-md",
+    imageMovile:"block lg:hidden w-full mt-6 rounded-2xl shadow-md object-cover",
     backLink: 'text-base font-medium font-poppins text-[#141230] mb-4 inline-block hover:underline',
     container: 'w-full mx-auto py-8 px-16 pr-16',
     containerCreatorNews: 'flex justify-between items-center mb-8', 
