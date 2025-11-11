@@ -19,8 +19,8 @@ export const CardBuySellComponent = ({ info, link, desc }) => {
                 <p>{info.price}</p>
             </div>
             <div className="flex">
-                <div className={`${servicesStyle.textContainer} pb-6`}>
-                    <h3 className={servicesStyle.h3Styles}>
+                <div className={`${servicesStyle.textContainer} pb-6 gap-8`}>
+                    <h3 className={`${servicesStyle.h3Styles} text-left`}>
                         {info.location}
                     </h3>
                     <div className={cardStyle.cardDesc}>

@@ -12,7 +12,7 @@ export const SocialMediaComponent = () => {
     <div className='flex text-[#141230] gap-10 max-h-11/12 items-center p-8 max-md:flex-col'>
       <div className='min-md:w-1/2 max-sm:w-11/12 max-sm:pt-3 h-auto justify-around'>
         <div className='max-h-1/2'>
-          <img className='h-1/2' src={logo} alt="logo" />
+          <img className='max-h-1/3 min-xl:pt-8 min-xl:px-10' src={logo} alt="logo" />
         </div>
         {/* redes sociales */}
         <div className='flex justify-between py-3.5' >

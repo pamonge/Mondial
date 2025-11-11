@@ -40,7 +40,7 @@ export const MenuLinksComponent = ({
           </button>
 
           {isOpen && (
-            <ul className="absolute left-0 mt-2 bg-[#EBEBF5] rounded-xl py-2 w-64 border border-gray-100 font-normal shadow-2xl min-md:-left-4/12">
+            <ul className="absolute -left-12 mt-2 bg-[#EBEBF5] rounded-xl py-2 w-64 border border-gray-100 font-normal shadow-2xl min-md:-left-4/12">
               <li className="px-4 py-2 hover:text-[#50509D] cursor-pointer">
                 <NavLink onClick={closeMenu}  to='/buy' >Comprar una propiedad</NavLink>
               </li>
