@@ -17,7 +17,7 @@ export const AboutUsComponent = () => {
             </div>
             <div>
                 <img
-                    src={`/${dataAbout.image}`}
+                    src={`${dataAbout.image}`}
                     alt={dataAbout.intro}
                     className={aboutUsStyles.image}
                 />
@@ -30,7 +30,7 @@ export const AboutUsComponent = () => {
                         <div key={index} className={aboutUsStyles.gridItem}>
                             {item[0] && (
                                 <img
-                                    src={`/src/assets/icons/${item[0]}`}
+                                    src={`${item[0]}`}
                                     alt={item[1]}
                                     className={aboutUsStyles.icon} // 5. Aplica estilo de icono
                                 />
