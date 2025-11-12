@@ -17,9 +17,9 @@ const NewsDetailComponents = ({ info }) => {
 
             <div className={detailStyle.content}>
                 <img
-                    src={`/blogNews/${info.img}`}
+                    src={`${info.img}`}
                     alt={info.title}
-                    className={detailStyle.image}
+                    className={detailStyle.imagelg}
                 />
                 <div className={detailStyle.textBlock}>
                     {
@@ -46,7 +46,11 @@ const NewsDetailComponents = ({ info }) => {
                     }
                 </div>
 
-
+                <img
+                    src={`${info.img}`}
+                    alt={info.title}
+                    className={detailStyle.imageMovile}
+                />
             </div>
         </div>
     )

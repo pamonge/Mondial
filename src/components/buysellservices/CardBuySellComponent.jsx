@@ -8,7 +8,7 @@ import surface from '../../assets/icons/servicesPage/surface.png'
 
 // Tarjeta individual para la lista de servicios
 export const CardBuySellComponent = ({ info, link, desc }) => {
-    return ( 
+    return (
         <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>
                 <img

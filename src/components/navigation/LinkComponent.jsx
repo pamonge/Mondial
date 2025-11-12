@@ -6,6 +6,7 @@ import linkStyles from '../../styles/linkComponentStyles'
 // src = link de destino 
 // desc = Es la descripción del boton
 // style = estilos de ser necesario
+// state = informacion para renderizar
 export const LinkComponent = ({ src, desc, state = null, style = linkStyles.baseStyles }) => {
   return (
     <div className={style}>

@@ -10,10 +10,10 @@ export const ContactComponent = () => {
             <h3 className={`${appStyles.text}`}>Solicita información sin compromiso sobre nuestros inmuebles o servicios. Si deseas vender o alquilar una propiedad, confía en nosotros: la gestionaremos con profesionalidad, cercanía y las mejores condiciones del mercado.</h3>
             <div className={ContactStyle.sectionContainer} >
                 <a href={`tel:${dataMondial.phone}`} className={ContactStyle.containerA}>
-                    <img className='w-10 max-md:text-sm' src={iconPhone} alt="Celular" /> {dataMondial.phone}
+                    <img className={ContactStyle.img} src={iconPhone} alt="Celular" /> {dataMondial.phone}
                 </a>
                 <a href={`mailto:${dataMondial.email}`} className={ContactStyle.containerA} >
-                    <img className='w-10 max-md:text-sm ' src={iconMail} alt="Correo" /> {dataMondial.email}
+                    <img className={ContactStyle.img} src={iconMail} alt="Correo" /> {dataMondial.email}
                 </a>
             </div>
         </div>

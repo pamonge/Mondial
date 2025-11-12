@@ -45,7 +45,7 @@ export const CarouselComponent = () => {
                     <div
                         className={carouselComponentStyles.card}
                         style={{
-                            transform: `translateX(calc(1% - ${currentIndex} * (98% + 0.25rem)))`
+                            transform: `translateX(calc(1% - ${currentIndex} * (40% + 0.25rem)))`
                         }}
                         onMouseEnter={() => setIsPaused(true)}
                         onMouseLeave={() => setIsPaused(false)}
@@ -57,7 +57,10 @@ export const CarouselComponent = () => {
                             >
 
                                 <CardCarouselComponent
+                                    key={data.id}
                                     info={data}
+                                    link='/detail'
+
                                     onClick={() => goToSlide(index)}
                                 />
 
