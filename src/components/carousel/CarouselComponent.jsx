@@ -57,7 +57,10 @@ export const CarouselComponent = () => {
                             >
 
                                 <CardCarouselComponent
+                                    key={data.id}
                                     info={data}
+                                    link='/detail'
+
                                     onClick={() => goToSlide(index)}
                                 />
 
