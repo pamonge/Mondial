@@ -3,6 +3,7 @@ import { DetailPageComponent } from '../components/detailpage/DetailPageComponen
 // Renderiza los detalles de las propiedades cuando uno clickea 'Comprar' o 'Alquilar' en BuyPage o RentPage
 export const DetailPage = () => {
 
+
   return (
     <div>
       <DetailPageComponent />
