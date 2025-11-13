@@ -6,6 +6,7 @@ import dataSell from '../data/dataSell'
 import dataServices from '../data/dataServices'
 import { SellCardComponent } from '../components/sellpage/SellCardComponent'
 import { ServicesComponent } from '../components/buysellservices/ServicesComponent'
+import { MarketingPlanComponent } from '../components/sellpage/MarketingPlanComponent'
 
 export const SellPage = () => {
   const data = dataServices.sell
@@ -25,7 +26,7 @@ export const SellPage = () => {
           ))
         }
       </div>
-      
+      <MarketingPlanComponent />
     </div>
   )
 }

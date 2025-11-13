@@ -12,7 +12,7 @@ export const FooterComponent = () => {
     <div className={footerCompStyles.footContainer}>
       <div className='flex flex-col gap-5 min-lg:max-w-1/2 max-md:w-full'>
         <div className='flex flex-col gap-3'>
-          <h3 className='text-3xl font-medium'>Contáctanos y te asesoramos</h3>
+          <h3 className='max-md:text-2xl text-3xl font-medium'>Contáctanos y te asesoramos</h3>
           <p className='satisfy-regular '>Descubre una nueva forma de hacer las cosas</p>
         </div>
         <div className='flex flex-col'>
@@ -22,7 +22,7 @@ export const FooterComponent = () => {
 
       <div className='flex flex-col gap-5 min-lg:max-w-1/2 max-md:w-full'>
         <div className='flex flex-col' >
-            <h3 className='text-3xl font-medium' >Visítanos</h3>
+            <h3 className='max-md:text-2xl text-3xl font-medium' >Visítanos</h3>
             <div className='flex items-center gap-4'>
               <img className='w-10' src={iconMarc} alt="marquer" />
               <p>
