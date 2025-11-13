@@ -20,6 +20,7 @@ const detailStyle = {
     text: 'font-poppins font-normal text-base leading-relaxed',
     subTitle2: "font-poppins font-semibold text-base mb-2 mt-4 !text-[#50509D]",
     bold: 'font-poppins font-semibold text-base text-[#141230] leading-relaxed',
+    price: 'font-poppins text-3xl font-medium text-[#141230]  ',
 };
 
 export default detailStyle;
