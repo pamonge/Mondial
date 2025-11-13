@@ -7,6 +7,7 @@ export const CardCarouselComponent = ({ info, link }) => {
     <div className={`${cardCarouselStyles.cardContainer}`}>
       <LinkComponent
         src={link}
+        state={info}
         desc={
           <div className={`${cardCarouselStyles.imgContainer} group`}>
             <img
