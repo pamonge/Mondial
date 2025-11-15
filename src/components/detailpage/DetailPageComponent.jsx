@@ -4,6 +4,9 @@ import { DescriptionDetailCardComponent } from './DescriptionDetailCardComponent
 import { CaracteristicsDetailCardComponent } from './CaracteristicsDetailCardComponent'
 import locationIcon from '../../assets/icons/placeMarker.png'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
+import { CarouselComponent } from '../../components/carousel/CarouselComponent'
+import appStyles from '../../styles/appStyles'
+import { ListBuySellCardComponent } from '../../components/buysellservices/ListBuySellCardComponent'
 export const DetailPageComponent = () => {
     const location = useLocation()
     const info = location.state
@@ -20,9 +23,13 @@ export const DetailPageComponent = () => {
                 {/* Hay que ver el carousel */}
 
             </div>
-
+            {/* Carousel provisorio */}
+            <CarouselComponent />
             <DescriptionDetailCardComponent data={info.description} />
             <CaracteristicsDetailCardComponent data={info.caracteristics} />
+            {/* Faltan propiedades Similares */}
+            <h2 className={appStyles.mainTitle}>Propiedades Similares</h2>
+
         </div>
     )
 }
