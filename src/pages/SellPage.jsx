@@ -1,7 +1,7 @@
 import React from 'react'
-import sellPage from '../assets/img/sell-page.jpg'
-import dataCarousel from '../data/dataCarousel'
-import appStyles from '../styles/appStyles'
+//import sellPage from '../assets/img/sell-page.jpg'
+//import dataCarousel from '../data/dataCarousel'
+//import appStyles from '../styles/appStyles'
 import dataSell from '../data/dataSell'
 import dataServices from '../data/dataServices'
 import { SellCardComponent } from '../components/sellpage/SellCardComponent'
@@ -12,7 +12,7 @@ export const SellPage = () => {
   const data = dataServices.sell
   return (
     <div className='flex flex-col p-5 gap-3'>
-      <ServicesComponent 
+      <ServicesComponent
         title={data.title}
         text={data.text}
         satisfy={data.satisfy}
