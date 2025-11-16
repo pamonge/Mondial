@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { CardCarouselComponent } from './CardCarouselComponent';
 import dataServices from '../../data/dataServices.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
-import appStyles from '../../styles/appStyles.js';
+//import appStyles from '../../styles/appStyles.js';
+import TitleCarouselComponent from './TitleCarouselComponent.jsx';
 export const CarouselComponent = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isPaused, setIsPaused] = useState(false);
@@ -37,7 +38,7 @@ export const CarouselComponent = () => {
     return (
 
         <div className={carouselComponentStyles.componentContainer}>
-            <h2 className={appStyles.mainTitle}>Espacios para vivir y disfrutar</h2>
+
             {/* Contenedor principal */}
             <div className={carouselComponentStyles.mainContainer}>
 
