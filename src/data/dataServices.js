@@ -49,7 +49,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
-                img: `${img}`,
+                img: img,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -72,7 +72,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
-                img: `${img}`,
+                img: img,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
