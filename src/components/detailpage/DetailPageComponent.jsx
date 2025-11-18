@@ -4,7 +4,7 @@ import { DescriptionDetailCardComponent } from './DescriptionDetailCardComponent
 import { CaracteristicsDetailCardComponent } from './CaracteristicsDetailCardComponent'
 import locationIcon from '../../assets/icons/placeMarker.png'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
-import { CarouselComponent } from '../../components/carousel/CarouselComponent'
+import { CarouselComponent } from '../../components/carouselDetail/CarouselComponent'
 import appStyles from '../../styles/appStyles'
 import { ListBuySellCardComponent } from '../../components/buysellservices/ListBuySellCardComponent'
 export const DetailPageComponent = () => {
