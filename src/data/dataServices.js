@@ -11,7 +11,7 @@ const dataServices = {
             {
                 id: 1,
                 img: img,
-                imgArray: [img, imageNews1, imageNews2, img],
+                imgArray: [img, imageNews1, imageNews2],
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
