@@ -4,7 +4,7 @@ import cardCarouselStyles from '../../styles/carouselStyles/cardCarouselComponen
 // card carosuel de detalle de propiedades
 export const CardCarouselComponent = ({ info }) => {
     return (
-        <div className={`${cardCarouselStyles.cardContainer}`}>
+        <div className={`${cardCarouselStyles.cardContainer} style="block"`}>
 
 
             <div className={`${cardCarouselStyles.imgContainer} group`}>
