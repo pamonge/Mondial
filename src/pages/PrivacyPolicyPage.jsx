@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const PrivacyPolicyPage = () => {
   return (
     <div className='flex flex-col gap-3 text-justify p-5'>

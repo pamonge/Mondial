@@ -1,4 +1,3 @@
-import React from 'react'
 import info from '../../data/dataCarousel'
 import { CardHomeComponent } from './CardHomeComponent'
 import { NavLink } from 'react-router-dom'

@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from "react";
+import { useRef, useState, useEffect } from "react";
 import googleReviews from "../../assets/review/reviews.png";
 import review0 from '../../assets/review/review0.png'
 import review1 from '../../assets/review/review1.png'

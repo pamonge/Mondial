@@ -1,4 +1,3 @@
-import React from "react";
 import appStyles from "../../styles/appStyles";
 import servicesStyle from "../../styles/servicesComponentStyle";
 export const BlogTitleComponent = () => {

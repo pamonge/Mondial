@@ -1,4 +1,3 @@
-import React from 'react'
 import { AboutUsComponent } from '../components/aboutUs/AboutUsComponent'
 
 // sobre nosotros pagina 

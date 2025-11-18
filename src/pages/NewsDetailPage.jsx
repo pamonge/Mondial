@@ -1,6 +1,4 @@
-import React from "react";
 import { useParams } from "react-router-dom";
-import { BlogTitleComponent } from "../components/newsBlog/BlogTitleComponent.jsx";
 import dataBlog from "../data/dataBlog.js";
 import detailStyle from "../styles/NewsStyles/DetailComponentStyle";
 import NewsDetailComponents from "../components/newsBlog/NewsDetailComponent";

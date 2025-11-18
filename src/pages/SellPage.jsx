@@ -1,7 +1,3 @@
-import React from 'react'
-import sellPage from '../assets/img/sell-page.jpg'
-import dataCarousel from '../data/dataCarousel'
-import appStyles from '../styles/appStyles'
 import dataSell from '../data/dataSell'
 import dataServices from '../data/dataServices'
 import { SellCardComponent } from '../components/sellpage/SellCardComponent'

@@ -1,4 +1,3 @@
-import React from 'react'
 import { FormComponent } from './FormComponent'
 import { SocialMediaComponent } from './SocialMediaComponent'
 import { MapComponent } from '../contact/MapComponent'

@@ -1,4 +1,3 @@
-import React from "react";
 import dataBlog from "../../data/dataBlog";
 import { CardComponent } from "./CardComponent";
 import listStyle from "../../styles/NewsStyles/ListComponentStyle";

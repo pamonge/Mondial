@@ -1,4 +1,3 @@
-import React from 'react'
 import legalAdvice from '../data/dataLegalAdvice'
 import appStyles from '../styles/appStyles'
 
