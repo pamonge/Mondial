@@ -1,4 +1,3 @@
-import React from "react";
 import servicesStyle from "../../styles/servicesComponentStyle"
 import cardStyle from '../../styles/servicestyles/cardServicesStyles'
 import { LinkComponent } from '../navigation/LinkComponent'
@@ -8,7 +7,7 @@ import surface from '../../assets/icons/servicesPage/surface.png'
 
 // Tarjeta individual para la lista de servicios
 export const CardBuySellComponent = ({ info, link, desc }) => {
-    console.log(`Desde CardBuySell ${info}`)
+    console.log(`Desde CardBuySell ${info}`) // debug
     return (
         <div className={servicesStyle.cardContainer}>
             <div className={servicesStyle.imgContainer}>

@@ -2,6 +2,7 @@ import img from '../assets/img.jpg'
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
 const dataServices = {
     buy: {
+        verbous: 'Comprar',
         title: 'Encuentra el hogar que siempre soñaste',
         text: `En Mondial inmobiliaria te acompañamos en cada paso para que adquieras la propiedad ideal: segura, bien ubicada y ajustada a tu presupuesto. Ya sea tu primera vivienda, un departamento moderno en el centro o una casa espaciosa en un barrio tranquilo, tenemos las mejores opciones en la región.`,
         satisfy: '¡Tu futuro comienza aquí!',
@@ -15,27 +16,13 @@ const dataServices = {
                 sup: '55 m2',
                 rooms: '2',
                 bath: '1',
-                description: [
-        {
-            type: 'paragraph',
-            content: [
-                { type: 'text', text: 'Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel. ' },
-             
-            ]
-        },{
-            // Párrafo 2
-            type: 'paragraph',
-            content: [
-                { type: 'text', text: 'Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora. ' },
-                ]
-        },{
-             type: 'paragraph',
-            content: [
-                { type: 'text', text: ' No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad.' },
-                 { type: 'bold', text: '¡Contáctanos para más información y para concertar una visita!' }
-        ]}],
+                description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel. 
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora. 
+
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 
-                  caracteristics: [
+                caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
                     'Balcon',
@@ -57,7 +44,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
@@ -80,7 +70,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
@@ -98,6 +91,7 @@ const dataServices = {
     },
 
     sell: {
+        verbous: 'Vender',
         title: 'Oportunidades reales, confianza y resultados que cuentan.',
         text: `En Mondial Inmobiliaria, sabemos que una vivienda es solo estructura, pero un hogar es donde late el corazón. Con 25 años de experiencia en el sector inmobiliario, colocamos tu hogar y tus intereses  en el epicentro de todo lo que hacemos.
         Gracias a nuestra exclusiva red de compradores cualificados, estrategias de marketing de alto impacto y un enfoque 100% personalizado, transformamos la venta de tu propiedad en una experiencia fluida, transparente y, sobre todo, exitosa.`,
@@ -123,6 +117,7 @@ const dataServices = {
     },
 
     rent: {
+        verbous: 'Alquilar',
         title: 'Encuentra el hogar que siempre soñaste',
         text: `En Mondial inmobiliaria te acompañamos en cada paso para que adquieras la propiedad ideal: segura, bien ubicada y ajustada a tu presupuesto. Ya sea tu primera vivienda, un departamento moderno en el centro o una casa espaciosa en un barrio tranquilo, tenemos las mejores opciones en la región.`,
         satisfy: '¡Tu futuro comienza aquí!',
@@ -137,7 +132,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
@@ -160,7 +158,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+                
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',

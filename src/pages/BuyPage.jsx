@@ -11,7 +11,7 @@ export const BuyPage = () => {
         title={buyInfo.title} 
         text={buyInfo.text} 
         satisfy={buyInfo.satisfy} 
-        list={ <ListBuySellCardComponent service={cards} /> } 
+        list={ <ListBuySellCardComponent service={cards} desc={buyInfo.verbous}/> } 
       />
     </div>
   )

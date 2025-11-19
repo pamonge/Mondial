@@ -12,7 +12,7 @@ export const RentPage = () => {
         title={rentInfo.title}
         text={rentInfo.text}
         satisfy={rentInfo.satisfy}
-        list={ <ListBuySellCardComponent service={cards} /> }
+        list={ <ListBuySellCardComponent service={cards} desc={rentInfo.verbous} /> }
       />
     </div>
   )
