@@ -1,4 +1,6 @@
 import img from '../assets/img.jpg'
+import imageNews1 from '../../src/assets/blogNews/image-news1.png';
+import imageNews2 from '../../src/assets/blogNews/image-news2.png';
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
 const dataServices = {
     buy: {
@@ -10,6 +12,7 @@ const dataServices = {
             {
                 id: 1,
                 img: img,
+                imgArray: [img, imageNews1, imageNews2],
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',

@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { CardCarouselComponent } from './CardCarouselComponent';
 import dataServices from '../../data/dataServices.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
-//import appStyles from '../../styles/appStyles.js';
-import TitleCarouselComponent from './TitleCarouselComponent.jsx';
+
+//carousel de detalle de propiedades 
 export const CarouselComponent = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isPaused, setIsPaused] = useState(false);
@@ -52,20 +52,20 @@ export const CarouselComponent = () => {
                         onMouseLeave={() => setIsPaused(false)}
                     >
                         {cardsArray.map((data, index) => (
-                            <div
-                                key={index}
-                                className={carouselComponentStyles.data}
-                            >
-
-                                <CardCarouselComponent
-                                    key={data.id}
-                                    info={data}
-                                    link='/detail'
-
-                                    onClick={() => goToSlide(index)}
-                                />
-
-                            </div>
+                            data.imgArray && data.imgArray.length > 0 ? (
+                                data.imgArray.map((imgSrc, imgIndex) => (
+                                    <div
+                                        key={`${index}-${imgIndex}`}
+                                        className={carouselComponentStyles.data}
+                                    >
+                                        <CardCarouselComponent
+                                            key={`${data.id}-${imgIndex}`}
+                                            info={{ ...data, img: imgSrc }}
+                                            onClick={() => goToSlide(index)}
+                                        />
+                                    </div>
+                                ))
+                            ) : null
                         ))}
                     </div>
                 </div>
