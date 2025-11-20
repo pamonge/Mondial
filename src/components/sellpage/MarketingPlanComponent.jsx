@@ -7,7 +7,7 @@ export const MarketingPlanComponent = () => {
     const list = data.list;
   return (
     <div className='flex max-lg:flex-col gap-8 justify-around items-center bg-white border-2 border-[#2D2964] rounded-2xl p-8 '>
-        <div className='flex flex-col gap-6'>
+        <div className='flex flex-col gap-1'>
             <h3 className={appStyles.title} >{info.title}</h3>
             <p className='min-lg:text-xl' >{info.text}</p>
             <ul className='min-lg:text-xl' >
@@ -17,7 +17,7 @@ export const MarketingPlanComponent = () => {
                     ))
                 }
             </ul>
-            <p>{info.close}</p>
+            <p className='font-bold ' >{info.close}</p>
         </div>
         <div>
             <LinkComponent src='/contact' desc='¡Contáctanos!' />
