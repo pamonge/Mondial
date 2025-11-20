@@ -3,7 +3,7 @@ import servicesStyle from "../../styles/servicesComponentStyle";
 
 export const ListBuySellCardComponent = ({ service, desc }) => {
     const info = service;
-    console.log(`ListBuySellcomponent ${info}`);
+    // console.log(`ListBuySellcomponent ${info}`); 
     return (
         <div className={servicesStyle.sectionContainer}>
             <div className={servicesStyle.gridContainer}>

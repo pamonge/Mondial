@@ -9,7 +9,7 @@ import appStyles from '../../styles/appStyles'
 
 export const DetailPageComponent = ({ data }) => {
     const info = data;
-    console.log(`DetailPageComp tiene: ${info.description}`)
+    // console.log(`DetailPageComp tiene: ${info.description}`)
     return (
         <div className={detailStyle.container}>
             <h2 className={detailStyle.title}>{info.location}</h2>
