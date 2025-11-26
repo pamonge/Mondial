@@ -11,7 +11,7 @@ export const DetailPageComponent = () => {
     const location = useLocation()
     const info = location.state
     return (
-        <div className={detailStyle.container}>
+        <div className={appStyles.div}>
             <h2 className={detailStyle.title}>{info.location}</h2>
             <div className={detailStyle.containerCreatorNews}>
                 <div className='flex gap-2'>

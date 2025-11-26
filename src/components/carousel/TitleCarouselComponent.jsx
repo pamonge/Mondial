@@ -1,9 +1,12 @@
 import React from 'react'
 import appStyles from '../../styles/appStyles'
+import { Dice1 } from 'lucide-react';
 
 const TitleCarouselComponent = () => {
     return (
+
         <div className={appStyles.div}>
+
             <h2 className={appStyles.mainTitle}>Espacios para vivir y disfrutar</h2>
         </div>
     )
