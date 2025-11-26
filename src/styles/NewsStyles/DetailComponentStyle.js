@@ -7,7 +7,7 @@ const detailStyle = {
     imagelg: "hidden lg:block float-right ml-32 mb-4 w-[600px] h-auto max-h-[600px] object-cover rounded-2xl shadow-md",
     imageMovile:"block lg:hidden w-full mt-6 rounded-2xl shadow-md object-cover",
     backLink: 'text-base font-medium font-poppins text-[#141230] mb-4 inline-block hover:underline',
-    container: 'w-full mx-auto py-8  lg:px-16 px-6 pr-6',
+    container: 'w-full mx-auto py-4  lg:pt-32 ',
     containerCreatorNews: 'flex justify-between items-center mb-8', 
     title: 'font-poppins text-3xl sm:text-4xl font-medium text-[#141230] mb-4 text-start',
     meta: 'text-base font-normal text-[#141230] text-start',
