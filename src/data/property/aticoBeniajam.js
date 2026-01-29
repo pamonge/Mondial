@@ -1,3 +1,24 @@
+import img1390795609 from '../../assets/property/aticoBeniajan/1390795609.jpg';
+import img1390795610 from '../../assets/property/aticoBeniajan/1390795610.jpg';
+import img1390795611 from '../../assets/property/aticoBeniajan/1390795611.jpg';
+import img1390795908 from '../../assets/property/aticoBeniajan/1390795908.jpg';
+import img1390795909 from '../../assets/property/aticoBeniajan/1390795909.jpg';
+import img1390795910 from '../../assets/property/aticoBeniajan/1390795910.jpg';
+import img1390795911 from '../../assets/property/aticoBeniajan/1390795911.jpg';
+import img1390795912 from '../../assets/property/aticoBeniajan/1390795912.jpg';
+import img1390795966 from '../../assets/property/aticoBeniajan/1390795966.jpg';
+import img1390795985 from '../../assets/property/aticoBeniajan/1390795985.jpg';
+import img1390795986 from '../../assets/property/aticoBeniajan/1390795986.jpg';
+import img1390795988 from '../../assets/property/aticoBeniajan/1390795988.jpg';
+import img1390832169 from '../../assets/property/aticoBeniajan/1390832169.jpg';
+import img1390832252 from '../../assets/property/aticoBeniajan/1390832252.jpg';
+import img1390832253 from '../../assets/property/aticoBeniajan/1390832253.jpg';
+import img1390832254 from '../../assets/property/aticoBeniajan/1390832254.jpg';
+import img1390832331 from '../../assets/property/aticoBeniajan/1390832331.jpg';
+import img1390832335 from '../../assets/property/aticoBeniajan/1390832335.jpg';
+import img1390832336 from '../../assets/property/aticoBeniajan/1390832336.jpg';
+
+
 const aticoBeniajan = {
     titulo: "¡OPORTUNIDAD ÚNICA! Ático Dúplex 3 hab. + garaje + trastero en el corazón de Beniaján!",
     
@@ -17,7 +38,7 @@ const aticoBeniajan = {
            
     precio: {
         valor: 159000,
-        moneda: "EUR",
+        moneda: "€",
         precioPorM2: 1445,
         unidadPrecioM2: "eur/m2",
         accion: "Calcular hipoteca"
@@ -71,7 +92,27 @@ const aticoBeniajan = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1390795609,
+        img1390795610,
+        img1390795611,
+        img1390795908,
+        img1390795909,
+        img1390795910,
+        img1390795911,
+        img1390795912,
+        img1390795966,
+        img1390795985,
+        img1390795986,
+        img1390795988,
+        img1390832169,
+        img1390832252,
+        img1390832253,
+        img1390832254,
+        img1390832331,
+        img1390832335,
+        img1390832336,
+    ],
     
     // Información adicional específica de esta propiedad
     tipoPropiedad: "Ático Dúplex",
@@ -80,3 +121,5 @@ const aticoBeniajan = {
     contratoAlquilerAnos: 2,
     metrosSuperficieConstruida: 110
 };
+
+export default aticoBeniajan

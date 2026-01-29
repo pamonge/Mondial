@@ -1,7 +1,20 @@
+import img1386882897 from '../../assets/property/pisoCalleMaroto/1386882897.jpg';
+import img1386882906 from '../../assets/property/pisoCalleMaroto/1386882906.jpg';
+import img1386882907 from '../../assets/property/pisoCalleMaroto/1386882907.jpg';
+import img1386882908 from '../../assets/property/pisoCalleMaroto/1386882908.jpg';
+import img1386882909 from '../../assets/property/pisoCalleMaroto/1386882909.jpg';
+import img1386882935 from '../../assets/property/pisoCalleMaroto/1386882935.jpg';
+import img1386882936 from '../../assets/property/pisoCalleMaroto/1386882936.jpg';
+import img1386882950 from '../../assets/property/pisoCalleMaroto/1386882950.jpg';
+
 const pisoCalleMaroto = {
     titulo: "¡Descubre tu nuevo hogar en el corazón de la ciudad! Piso luminoso y acogedor con todas las comodidades.",
     
-    descripcion: "¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Maestro Maroto te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana.",
+    descripcion: `"¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Maestro Maroto te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana.
+    
+    Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día.
+    
+    No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.`,
     
     caracteristicas: [
         "3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office)",
@@ -12,19 +25,7 @@ const pisoCalleMaroto = {
         "Edificio con ascensor, para mayor accesibilidad y confort",
         "Ubicación de ensueño: A menos de 1 minuto de todas las líneas de transporte público (metro, bus, cercanías), supermercados, colegios, parques y servicios esenciales"
     ],
-    
-    estado: "Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día.",
-    
-    llamadaAccion: "No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+
     precio: {
         valor: 245000,
         moneda: "EUR",
@@ -80,7 +81,16 @@ const pisoCalleMaroto = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1386882897,
+        img1386882906,
+        img1386882907,
+        img1386882908,
+        img1386882909,
+        img1386882935,
+        img1386882936,
+        img1386882950
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Piso",
@@ -88,3 +98,5 @@ const pisoCalleMaroto = {
     metrosAproximadosDescripcion: 80,
     aislamientoAcusticoTermico: true
 };
+
+export default pisoCalleMaroto;

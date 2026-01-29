@@ -1,7 +1,18 @@
+import img1377340893 from '../../assets/property/pisoCentroMurcia/1377340893.jpg';
+import img1377340894 from '../../assets/property/pisoCentroMurcia/1377340894.jpg';
+import img1377340953 from '../../assets/property/pisoCentroMurcia/1377340953.jpg';
+import img1377340954 from '../../assets/property/pisoCentroMurcia/1377340954.jpg';
+import img1377340965 from '../../assets/property/pisoCentroMurcia/1377340965.jpg';
+import img1377340966 from '../../assets/property/pisoCentroMurcia/1377340966.jpg';
+
 const pisoCentroMurcia = {
     titulo: "Piso en el centro de Murcia, en una excelente finca del año 2010.",
     
-    descripcion: "Piso en el centro de Murcia, en una excelente finca del año 2010. Cuenta con 100 m² distribuidos en 3 dormitorios, 1 baño, salón-comedor y cocina independiente. Vivienda para reformar. Ubicación inmejorable, con todos los servicios a pocos pasos. Ideal como residencia habitual o inversión. ¡Solicita tu visita!",
+    descripcion: `Piso en el centro de Murcia, en una excelente finca del año 2010. Cuenta con 100 m² distribuidos en 3 dormitorios, 1 baño, salón-comedor y cocina independiente. Vivienda para reformar. Ubicación inmejorable, con todos los servicios a pocos pasos. Ideal como residencia habitual o inversión. ¡Solicita tu visita!
+    
+    Por mandato expreso del propietario, comercializamos este inmueble en exclusiva. Uno de nuestros agentes le facilitará toda la información necesaria y le atenderá personalmente, garantizándole un servicio de calidad. Por este motivo, se ruega no molestar al propietario, a los ocupantes de la propiedad o a los vecinos. Muchas gracias por su comprensión. Y si usted es agente inmobiliario y tiene un cliente para este inmueble, llámenos, estaremos encantados de colaborar.
+    
+    ¡Solicita tu visita!`,
     
     caracteristicas: [
         "3 dormitorios",
@@ -12,19 +23,7 @@ const pisoCentroMurcia = {
         "Ubicación inmejorable, con todos los servicios a pocos pasos",
         "Ideal como residencia habitual o inversión"
     ],
-    
-    estado: "Por mandato expreso del propietario, comercializamos este inmueble en exclusiva. Uno de nuestros agentes le facilitará toda la información necesaria y le atenderá personalmente, garantizándole un servicio de calidad. Por este motivo, se ruega no molestar al propietario, a los ocupantes de la propiedad o a los vecinos. Muchas gracias por su comprensión. Y si usted es agente inmobiliario y tiene un cliente para este inmueble, llámenos, estaremos encantados de colaborar.",
-    
-    llamadaAccion: "¡Solicita tu visita!",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+ 
     precio: {
         valor: 305000,
         moneda: "EUR",
@@ -81,9 +80,18 @@ const pisoCentroMurcia = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1377340893,
+        img1377340894,
+        img1377340953,
+        img1377340954,
+        img1377340965,
+        img1377340966
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Piso",
     exclusiva: true
 };
+
+export default pisoCentroMurcia;

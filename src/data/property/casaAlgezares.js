@@ -1,7 +1,14 @@
+import img1398997387 from '../../assets/property/casaAlgezares/1398997387.jpg';
+import img1398998053 from '../../assets/property/casaAlgezares/1398998053.jpg';
+
 const casaAlgezares = {
     titulo: "¡Oportunidad única en el corazón de Algezares, Murcia!",
     
-    descripcion: "Se vende casa ubicada en una posición privilegiada en lo alto de esta encantadora pedanía, con vistas increíbles y panorámicas a la huerta, la ciudad de Murcia y el majestuoso Santuario de la Fuensanta. Esta vivienda de 180 m² construidos ofrece un gran potencial para quienes buscan un proyecto de reforma integral y crear la casa de sus sueños a medida.",
+    descripcion: `Se vende casa ubicada en una posición privilegiada en lo alto de esta encantadora pedanía, con vistas increíbles y panorámicas a la huerta, la ciudad de Murcia y el majestuoso Santuario de la Fuensanta. Esta vivienda de 180 m² construidos ofrece un gran potencial para quienes buscan un proyecto de reforma integral y crear la casa de sus sueños a medida.
+    
+    Algezares es una pedanía tranquila y bien conectada, a solo unos minutos del centro de Murcia, rodeada de naturaleza en la falda de la Cresta del Gallo, con fácil acceso a servicios, comercios y rutas de senderismo. La casa necesita reforma integral, lo que te permite adaptarla completamente a tu gusto: modernizar instalaciones, redistribuir espacios o añadir extras como más baños.
+    
+    ¡No dejes pasar esta ocasión de adquirir una propiedad con ubicación inmejorable y vistas que quitan el aliento!"`,
     
     caracteristicas: [
         "5 amplias habitaciones, perfectas para familia numerosa",
@@ -11,19 +18,7 @@ const casaAlgezares = {
         "Terraza con orientación óptima para disfrutar del paisaje",
         "Zona de barbacoa, perfecta para comidas al aire libre"
     ],
-    
-    estado: "Algezares es una pedanía tranquila y bien conectada, a solo unos minutos del centro de Murcia, rodeada de naturaleza en la falda de la Cresta del Gallo, con fácil acceso a servicios, comercios y rutas de senderismo. La casa necesita reforma integral, lo que te permite adaptarla completamente a tu gusto: modernizar instalaciones, redistribuir espacios o añadir extras como más baños.",
-    
-    llamadaAccion: "¡No dejes pasar esta ocasión de adquirir una propiedad con ubicación inmejorable y vistas que quitan el aliento!",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+       
     precio: {
         valor: 48900,
         moneda: "EUR",
@@ -79,7 +74,10 @@ const casaAlgezares = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1398997387,
+        img1398998053
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Casa",
@@ -90,3 +88,5 @@ const casaAlgezares = {
     entornoNatural: "Rodeada de naturaleza en la falda de la Cresta del Gallo",
     pedania: "Algezares"
 };
+
+export default casaAlgezares;

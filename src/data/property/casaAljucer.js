@@ -1,7 +1,15 @@
+import img1391888661 from '../../assets/property/casaAljucer/1391888661.jpg';
+import img1400527022 from '../../assets/property/casaAljucer/1400527022.jpg';
+import img1400527231 from '../../assets/property/casaAljucer/1400527231.jpg';
+
 const casaAljucer = {
     titulo: "¡Oportunidad única en el corazón de Aljucer! Casa con parcela de 350 m² lista para reformar",
     
-    descripcion: "Casa independiente de 150 m² construidos en parcela de 350 m², ubicada en el centro de Aljucer (Murcia), una pedanía tranquila y bien conectada, a solo minutos del centro de Murcia. Esta vivienda, totalmente exterior y con todas las orientaciones para máxima luminosidad natural, es ideal para quienes buscan un proyecto de reforma personalizado. Dispone de amplios espacios y grandes posibilidades para adaptarla a tu gusto.",
+    descripcion: `"Casa independiente de 150 m² construidos en parcela de 350 m², ubicada en el centro de Aljucer (Murcia), una pedanía tranquila y bien conectada, a solo minutos del centro de Murcia. Esta vivienda, totalmente exterior y con todas las orientaciones para máxima luminosidad natural, es ideal para quienes buscan un proyecto de reforma personalizado. Dispone de amplios espacios y grandes posibilidades para adaptarla a tu gusto.
+    
+    Ubicación privilegiada: Muy cerca de la autovía, con todos los servicios a mano: gasolinera, farmacia, colegio, supermercados y transporte público. ¡Vive la tranquilidad de la huerta murciana sin renunciar a la comodidad!
+    
+    ¡No dejes pasar esta oportunidad de inversión en una zona en crecimiento!`,
     
     caracteristicas: [
         "Amplio salón con chimenea de leña, perfecto para crear un ambiente cálido y acogedor",
@@ -13,19 +21,7 @@ const casaAljucer = {
         "Patio exterior de 50 m²",
         "Terreno adicional de 350 m² con potencial para jardín, huerta o ampliaciones"
     ],
-    
-    estado: "Ubicación privilegiada: Muy cerca de la autovía, con todos los servicios a mano: gasolinera, farmacia, colegio, supermercados y transporte público. ¡Vive la tranquilidad de la huerta murciana sin renunciar a la comodidad!",
-    
-    llamadaAccion: "¡No dejes pasar esta oportunidad de inversión en una zona en crecimiento!",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+        
     precio: {
         valor: 199900,
         moneda: "EUR",
@@ -85,7 +81,11 @@ const casaAljucer = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1391888661,
+        img1400527022,
+        img1400527231
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Casa Independiente",
@@ -96,3 +96,5 @@ const casaAljucer = {
     metrosParcelaDescripcion: 350,
     lavaderoIndependiente: true
 };
+
+export default casaAljucer

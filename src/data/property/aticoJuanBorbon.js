@@ -1,7 +1,17 @@
+import img1376947366 from '../../assets/property/aticoJuanBorbon/1376947366.jpg';
+import img1376947377 from '../../assets/property/aticoJuanBorbon/1376947377.jpg';
+import img1376947378 from '../../assets/property/aticoJuanBorbon/1376947378.jpg';
+import img1376947395 from '../../assets/property/aticoJuanBorbon/1376947395.jpg';
+import img1376947396 from '../../assets/property/aticoJuanBorbon/1376947396.jpg';
+
 const aticoJuanBorbon = {
     titulo: "Ático en Venta en Avenida Juan de Borbón - ¡Exclusiva Oportunidad en el Corazón de Murcia!",
     
-    descripcion: "Descubre tu nuevo hogar soñado en una de las zonas más exclusivas de Murcia! Mondial Inmobiliaria te presenta en exclusiva este bonito ático situado en la cuarta planta de un edificio moderno en Avenida Juan de Borbón, una de las áreas más demandadas de la ciudad por su encanto y comodidad. Características principales: 1 amplia terraza perfecta para disfrutar del sol murciano, almuerzos al aire libre o relajarte con vistas urbanas. Salón luminoso y acogedor, ideal para momentos familiares. 4 dormitorios espaciosos, para toda la familia o invitados. 3 cuartos de baño completamente equipados, con acabados de calidad. Cocina amueblada y equipada, lista para cocinar tus platos favoritos. Plaza de garaje incluida + amplio trastero para todo tu almacenamiento.",
+    descripcion: `Descubre tu nuevo hogar soñado en una de las zonas más exclusivas de Murcia! Mondial Inmobiliaria te presenta en exclusiva este bonito ático situado en la cuarta planta de un edificio moderno en Avenida Juan de Borbón, una de las áreas más demandadas de la ciudad por su encanto y comodidad. Características principales: 1 amplia terraza perfecta para disfrutar del sol murciano, almuerzos al aire libre o relajarte con vistas urbanas. Salón luminoso y acogedor, ideal para momentos familiares. 4 dormitorios espaciosos, para toda la familia o invitados. 3 cuartos de baño completamente equipados, con acabados de calidad. Cocina amueblada y equipada, lista para cocinar tus platos favoritos. Plaza de garaje incluida + amplio trastero para todo tu almacenamiento.
+    
+    Esta vivienda es cómoda, luminosa y llena de posibilidades: reformable a tu gusto o lista para entrar a vivir de inmediato. ¡No es solo una casa, es un estilo de vida! Ubicación inmejorable: A pasos de todos los servicios esenciales – comercios, supermercados, colegios de renombre y excelentes conexiones de transporte público. Todo lo que necesitas al alcance de tu mano, en el vibrante centro de Murcia.
+    
+    Inmueble gestionado en exclusiva por expreso mandato del propietario. Nuestro equipo de asesores te ofrecerá toda la información detallada y una atención personalizada para guiarte en cada paso.`,
     
     caracteristicas: [
         "Amplia terraza perfecta para disfrutar del sol murciano",
@@ -14,21 +24,9 @@ const aticoJuanBorbon = {
         "Ubicación inmejorable: A pasos de todos los servicios esenciales"
     ],
     
-    estado: "Esta vivienda es cómoda, luminosa y llena de posibilidades: reformable a tu gusto o lista para entrar a vivir de inmediato. ¡No es solo una casa, es un estilo de vida! Ubicación inmejorable: A pasos de todos los servicios esenciales – comercios, supermercados, colegios de renombre y excelentes conexiones de transporte público. Todo lo que necesitas al alcance de tu mano, en el vibrante centro de Murcia.",
-    
-    llamadaAccion: "Inmueble gestionado en exclusiva por expreso mandato del propietario. Nuestro equipo de asesores te ofrecerá toda la información detallada y una atención personalizada para guiarte en cada paso.",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
     precio: {
         valor: 569000,
-        moneda: "EUR",
+        moneda: "€",
         precioPorM2: 3845,
         unidadPrecioM2: "eur/m2",
         accion: "Calcular hipoteca"
@@ -85,9 +83,17 @@ const aticoJuanBorbon = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1376947366,
+        img1376947377,
+        img1376947378,
+        img1376947395,
+        img1376947396
+    ],
     
     inmobiliaria: "Mondial Inmobiliaria",
     tipoPropiedad: "Ático",
     exclusiva: true
 };
+
+export default aticoJuanBorbon;

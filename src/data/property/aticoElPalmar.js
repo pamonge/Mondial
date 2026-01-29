@@ -1,7 +1,46 @@
+import img1395205221 from '../../assets/property/aticoElPalmar/1395205221.jpg';
+import img1395205363 from '../../assets/property/aticoElPalmar/1395205363.jpg';
+import img1395205376 from '../../assets/property/aticoElPalmar/1395205376.jpg';
+import img1395205377 from '../../assets/property/aticoElPalmar/1395205377.jpg';
+import img1395205379 from '../../assets/property/aticoElPalmar/1395205379.jpg';
+import img1395205389 from '../../assets/property/aticoElPalmar/1395205389.jpg';
+import img1395205392 from '../../assets/property/aticoElPalmar/1395205392.jpg';
+import img1395205393 from '../../assets/property/aticoElPalmar/1395205393.jpg';
+import img1395205394 from '../../assets/property/aticoElPalmar/1395205394.jpg';
+import img1395205412 from '../../assets/property/aticoElPalmar/1395205412.jpg';
+import img1395205415 from '../../assets/property/aticoElPalmar/1395205415.jpg';
+import img1395205417 from '../../assets/property/aticoElPalmar/1395205417.jpg';
+import img1395205420 from '../../assets/property/aticoElPalmar/1395205420.jpg';
+import img1395205421 from '../../assets/property/aticoElPalmar/1395205421.jpg';
+import img1395205423 from '../../assets/property/aticoElPalmar/1395205423.jpg';
+import img1395205424 from '../../assets/property/aticoElPalmar/1395205424.jpg';
+import img1395205425 from '../../assets/property/aticoElPalmar/1395205425.jpg';
+import img1395205426 from '../../assets/property/aticoElPalmar/1395205426.jpg';
+import img1395205427 from '../../assets/property/aticoElPalmar/1395205427.jpg';
+import img1395205428 from '../../assets/property/aticoElPalmar/1395205428.jpg';
+import img1395205429 from '../../assets/property/aticoElPalmar/1395205429.jpg';
+import img1395205435 from '../../assets/property/aticoElPalmar/1395205435.jpg';
+import img1395205436 from '../../assets/property/aticoElPalmar/1395205436.jpg';
+import img1395205437 from '../../assets/property/aticoElPalmar/1395205437.jpg';
+import img1395205438 from '../../assets/property/aticoElPalmar/1395205438.jpg';
+import img1395205439 from '../../assets/property/aticoElPalmar/1395205439.jpg';
+import img1395205440 from '../../assets/property/aticoElPalmar/1395205440.jpg';
+import img1395205441 from '../../assets/property/aticoElPalmar/1395205441.jpg';
+import img1395205444 from '../../assets/property/aticoElPalmar/1395205444.jpg';
+import img1395205445 from '../../assets/property/aticoElPalmar/1395205445.jpg';
+import img1395205446 from '../../assets/property/aticoElPalmar/1395205446.jpg';
+import img1395205455 from '../../assets/property/aticoElPalmar/1395205455.jpg';
+import img1395205465 from '../../assets/property/aticoElPalmar/1395205465.jpg';
+import img1395241332 from '../../assets/property/aticoElPalmar/1395241332.jpg';
+
 const aticoElPalmar = {
     titulo: "Exclusivo ático en inmejorable ubicación en El Palmar, justo detrás del Hospital Universitario La Arrixaca y a 5 minutos del centro de Murcia capital.",
     
-    descripcion: "Vivienda de 121 m² construidos totalmente exterior y muy luminosa, con una distribución perfecta y acabados de alta calidad. Edificio del año 2009 impecable.",
+    descripcion: `"Vivienda de 121 m² construidos totalmente exterior y muy luminosa, con una distribución perfecta y acabados de alta calidad. Edificio del año 2009 impecable.
+    
+    Ideal para familias, profesionales del ámbito sanitario o quien busque calidad de vida sin renunciar a estar a un paso de todo (supermercados, colegios, Nueva Condomina, acceso autovía…). ¡Una auténtica oportunidad que raramente sale al mercado en esta zona!.
+    
+    Visitas ya disponibles.`,
     
     caracteristicas: [
         "Amplio y elegante salón-comedor totalmente exterior con salida a terraza",
@@ -14,18 +53,6 @@ const aticoElPalmar = {
         "Plaza de garaje amplia + trastero incluidos en el precio",
         "Vistas despejadas, mucha luz natural todo el día",
         "Distribución en esquina, ático"
-    ],
-    
-    estado: "Ideal para familias, profesionales del ámbito sanitario o quien busque calidad de vida sin renunciar a estar a un paso de todo (supermercados, colegios, Nueva Condomina, acceso autovía…). ¡Una auténtica oportunidad que raramente sale al mercado en esta zona!",
-    
-    llamadaAccion: "Visitas ya disponibles.",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
     ],
     
     precio: {
@@ -85,7 +112,42 @@ const aticoElPalmar = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1395205221,
+        img1395205363,
+        img1395205376,
+        img1395205377,
+        img1395205379,
+        img1395205389,
+        img1395205392,
+        img1395205393,
+        img1395205394,
+        img1395205412,
+        img1395205415,
+        img1395205417,
+        img1395205420,
+        img1395205421,
+        img1395205423,
+        img1395205424,
+        img1395205425,
+        img1395205426,
+        img1395205427,
+        img1395205428,
+        img1395205429,
+        img1395205435,
+        img1395205436,
+        img1395205437,
+        img1395205438,
+        img1395205439,
+        img1395205440,
+        img1395205441,
+        img1395205444,
+        img1395205445,
+        img1395205446,
+        img1395205455,
+        img1395205465,
+        img1395241332
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Ático",
@@ -95,3 +157,5 @@ const aticoElPalmar = {
     ubicacionEspecial: "Detrás del Hospital Universitario La Arrixaca",
     distanciaCentro: "5 minutos"
 };
+
+export default aticoElPalmar;

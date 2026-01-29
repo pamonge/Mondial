@@ -1,7 +1,26 @@
+import img1386861823 from '../../assets/property/pisoCehegin/1386861823.jpg';
+import img1386861867 from '../../assets/property/pisoCehegin/1386861867.jpg';
+import img1386861868 from '../../assets/property/pisoCehegin/1386861868.jpg';
+import img1386861871 from '../../assets/property/pisoCehegin/1386861871.jpg';
+import img1386861874 from '../../assets/property/pisoCehegin/1386861874.jpg';
+import img1386861881 from '../../assets/property/pisoCehegin/1386861881.jpg';
+import img1386861882 from '../../assets/property/pisoCehegin/1386861882.jpg';
+import img1386861919 from '../../assets/property/pisoCehegin/1386861919.jpg';
+import img1386861925 from '../../assets/property/pisoCehegin/1386861925.jpg';
+import img1386861926 from '../../assets/property/pisoCehegin/1386861926.jpg';
+import img1386861928 from '../../assets/property/pisoCehegin/1386861928.jpg';
+import img1386861936 from '../../assets/property/pisoCehegin/1386861936.jpg';
+import img1386861937 from '../../assets/property/pisoCehegin/1386861937.jpg';
+import img1386861955 from '../../assets/property/pisoCehegin/1386861955.jpg';
+
 const pisoCehegin = {
     titulo: "¡Descubre tu nuevo hogar en el corazón de la ciudad! Piso luminoso y acogedor con todas las comodidades.",
     
-    descripcion: "¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Vistalegre te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana.",
+    descripcion: `¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Vistalegre te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana.
+    
+    Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día.
+    
+    No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.`,
     
     caracteristicas: [
         "3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office)",
@@ -11,18 +30,6 @@ const pisoCehegin = {
         "Totalmente exterior, con orientaciones que garantizan sol todo el día y vistas agradables",
         "Edificio con ascensor, para mayor accesibilidad y confort",
         "Ubicación de ensueño: A menos de 1 minuto de todas las líneas de transporte público (metro, bus, cercanías), supermercados, colegios, parques y servicios esenciales"
-    ],
-    
-    estado: "Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día.",
-    
-    llamadaAccion: "No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
     ],
     
     precio: {
@@ -81,7 +88,22 @@ const pisoCehegin = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1386861823,
+        img1386861867,
+        img1386861868,
+        img1386861871,
+        img1386861874,
+        img1386861881,
+        img1386861882,
+        img1386861919,
+        img1386861925,
+        img1386861926,
+        img1386861928,
+        img1386861936,
+        img1386861937,
+        img1386861955
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Piso",

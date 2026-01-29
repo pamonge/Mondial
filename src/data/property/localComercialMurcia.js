@@ -1,7 +1,13 @@
+import img1383844748 from '../../assets/property/localComercialMurcia/1383844748.jpg';
+
 const localComercialMurcia = {
     titulo: "ESTE LOCAL DE 164 M2 SE SITUA JUNTO A JUAN CARLOS I, EN EL CENTRO DE MURCIA.",
     
-    descripcion: "Con esta inmejorable ubicación está preparado para convertirse en tu nuevo proyecto de futuro. Al ser una construcción totalmente nueva, el local se encuentra solo con la tabiquería, por lo que hay que hacerlo todo desde el principio, a tu gusto.",
+    descripcion: `Con esta inmejorable ubicación está preparado para convertirse en tu nuevo proyecto de futuro. Al ser una construcción totalmente nueva, el local se encuentra solo con la tabiquería, por lo que hay que hacerlo todo desde el principio, a tu gusto.
+    
+    Cuando uno comienza a darle vida a una idea, la emoción y a veces el miedo nos invade a partes iguales, pero cuando ves que va funcionando te sientes de maravilla y esa sensación te impulsa a seguir adelante con mas fuerza y decisión todavía.
+    
+    Contáctanos y te llevamos a verlo."`,
     
     caracteristicas: [
         "Local de 164 m2 junto a Juan Carlos I, en el centro de Murcia",
@@ -9,19 +15,7 @@ const localComercialMurcia = {
         "Preparado para hacer todo desde el principio, a tu gusto",
         "Espectacular fachada de 30 metros y toda la fachada es escaparate"
     ],
-    
-    estado: "Cuando uno comienza a darle vida a una idea, la emoción y a veces el miedo nos invade a partes iguales, pero cuando ves que va funcionando te sientes de maravilla y esa sensación te impulsa a seguir adelante con mas fuerza y decisión todavía.",
-    
-    llamadaAccion: "Contáctanos y te llevamos a verlo.",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+
     precio: {
         valor: 299000,
         moneda: "EUR",
@@ -81,7 +75,9 @@ const localComercialMurcia = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1383844748,
+    ],
     
     // Campos adicionales específicos para local comercial
     tipoPropiedad: "Local Comercial",
@@ -89,3 +85,5 @@ const localComercialMurcia = {
     metrosFachada: 30,
     estadoConstruccion: "A reformar"
 };
+
+export default localComercialMurcia;

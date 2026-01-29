@@ -1,7 +1,18 @@
+import img1378881190 from '../../assets/property/pisoSanPíoX/1378881190.jpg';
+import img1378881208 from '../../assets/property/pisoSanPíoX/1378881208.jpg';
+import img1378881212 from '../../assets/property/pisoSanPíoX/1378881212.jpg';
+import img1378881215 from '../../assets/property/pisoSanPíoX/1378881215.jpg';
+import img1378881225 from '../../assets/property/pisoSanPíoX/1378881225.jpg';
+import img1378881227 from '../../assets/property/pisoSanPíoX/1378881227.jpg';
+
 const pisoSanPioX = {
     titulo: "¡Espectacular piso en la innovadora zona de San Pío X!",
     
-    descripcion: "Totalmente exterior y frente a jardines¡ Descubre tu nuevo hogar en un entorno único y lleno de vida! En el corazón de la vibrante y moderna zona de San Pío X, te presentamos este piso espectacular de 2 dormitorios, diseñado para disfrutar de la comodidad y la tranquilidad que mereces. Totalmente exterior, con vistas privilegiadas a zonas ajardinadas que invitan a la relajación diaria, este inmueble es un oasis urbano perfecto para familias o parejas.",
+    descripcion: `Totalmente exterior y frente a jardines¡ Descubre tu nuevo hogar en un entorno único y lleno de vida! En el corazón de la vibrante y moderna zona de San Pío X, te presentamos este piso espectacular de 2 dormitorios, diseñado para disfrutar de la comodidad y la tranquilidad que mereces. Totalmente exterior, con vistas privilegiadas a zonas ajardinadas que invitan a la relajación diaria, este inmueble es un oasis urbano perfecto para familias o parejas.
+    
+    ¡Y todo ello en un ambiente muy tranquilo, rodeado de naturaleza pero sin renunciar a la ciudad! A solo unos minutos a pie de todos los servicios esenciales: supermercados, colegios, centros médicos y ocio. Además, con excelente conexión de transporte público (metro, bus y cercanías), llegar al centro de la ciudad o a cualquier parte será pan comido.
+    
+    ¿Te imaginas despertando cada día en este paraíso urbano? ¡Contacta ahora y agenda tu visita!`,
     
     caracteristicas: [
         "2 dormitorios amplios y luminosos, ideales para el descanso",
@@ -13,19 +24,7 @@ const pisoSanPioX = {
         "Totalmente exterior, con vistas privilegiadas a zonas ajardinadas",
         "Ambiente muy tranquilo, rodeado de naturaleza pero sin renunciar a la ciudad"
     ],
-    
-    estado: "¡Y todo ello en un ambiente muy tranquilo, rodeado de naturaleza pero sin renunciar a la ciudad! A solo unos minutos a pie de todos los servicios esenciales: supermercados, colegios, centros médicos y ocio. Además, con excelente conexión de transporte público (metro, bus y cercanías), llegar al centro de la ciudad o a cualquier parte será pan comido.",
-    
-    llamadaAccion: "¿Te imaginas despertando cada día en este paraíso urbano? ¡Contacta ahora y agenda tu visita!",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+ 
     precio: {
         valor: 149000,
         moneda: "EUR",
@@ -84,9 +83,18 @@ const pisoSanPioX = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1378881190,
+        img1378881208,
+        img1378881212,
+        img1378881215,
+        img1378881225,
+        img1378881227
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Piso",
     vistas: "Vistas privilegiadas a zonas ajardinadas"
 };
+
+export default pisoSanPioX;

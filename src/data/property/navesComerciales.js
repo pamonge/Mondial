@@ -1,7 +1,20 @@
+import img1403804760 from '../../assets/property/navesComerciales/1403804760.jpg';
+import img1403804969 from '../../assets/property/navesComerciales/1403804969.jpg';
+import img1403804970 from '../../assets/property/navesComerciales/1403804970.jpg';
+import img1403804979 from '../../assets/property/navesComerciales/1403804979.jpg';
+import img1403804980 from '../../assets/property/navesComerciales/1403804980.jpg';
+import img1403805182 from '../../assets/property/navesComerciales/1403805182.jpg';
+import img1403805300 from '../../assets/property/navesComerciales/1403805300.jpg';
+import img1403805301 from '../../assets/property/navesComerciales/1403805301.jpg';
+
 const navesComerciales = {
     titulo: "¡Oportunidad Única! Naves Comerciales en Venta en Ubicación Estratégica y de Alto Potencial",
     
-    descripcion: "¿Buscas una inversión rentable o el espacio perfecto para tu negocio? Te presentamos dos naves industriales contiguas, cada una con 325 m² construidos, ubicadas en una zona industrial consolidada y en pleno auge de desarrollo. Visibilidad inmejorable: Fachada principal a una gran avenida, con doble acceso desde dos calles, facilitando la logística, el tráfico de clientes y la accesibilidad para vehículos pesados. Ubicación premiúm: En el corazón de la zona Flota, rodeada de nuevas promociones residenciales y urbanísticas que impulsan el crecimiento económico. ¡Cerca de todo lo que tu negocio necesita! Versatilidad total: Espacios amplios y adaptables, ideales para almacenes, talleres, oficinas comerciales, logística o cualquier actividad empresarial. ¡Potencial ilimitado para inversores! Flexibilidad en la compra: Adquiere una sola nave por separado o ambas juntas para un total de 650 m². Precio negociable según opción.",
+    descripcion: `¿Buscas una inversión rentable o el espacio perfecto para tu negocio? Te presentamos dos naves industriales contiguas, cada una con 325 m² construidos, ubicadas en una zona industrial consolidada y en pleno auge de desarrollo. Visibilidad inmejorable: Fachada principal a una gran avenida, con doble acceso desde dos calles, facilitando la logística, el tráfico de clientes y la accesibilidad para vehículos pesados. Ubicación premiúm: En el corazón de la zona Flota, rodeada de nuevas promociones residenciales y urbanísticas que impulsan el crecimiento económico. ¡Cerca de todo lo que tu negocio necesita! Versatilidad total: Espacios amplios y adaptables, ideales para almacenes, talleres, oficinas comerciales, logística o cualquier actividad empresarial. ¡Potencial ilimitado para inversores! Flexibilidad en la compra: Adquiere una sola nave por separado o ambas juntas para un total de 650 m². Precio negociable según opción.
+    
+    Esta es tu chance de invertir en un área con proyección ascendente, donde el valor se multiplica rápidamente.
+    
+    ¡No dejes pasar esta oportunidad en Idealista! Contacta ahora para más detalles, visitas o información adicional. ¡Tu futuro negocio te espera!"`,
     
     caracteristicas: [
         "Dos naves industriales contiguas de 325 m² cada una (total 650 m²)",
@@ -15,19 +28,7 @@ const navesComerciales = {
         "Flexibilidad: compra de una nave o ambas juntas",
         "Precio negociable según opción elegida"
     ],
-    
-    estado: "Esta es tu chance de invertir en un área con proyección ascendente, donde el valor se multiplica rápidamente.",
-    
-    llamadaAccion: "¡No dejes pasar esta oportunidad en Idealista! Contacta ahora para más detalles, visitas o información adicional. ¡Tu futuro negocio te espera!",
-    
-    acciones: [
-        {
-            tipo: "descarga",
-            texto: "Descargar folleto",
-            url: "#"
-        }
-    ],
-    
+
     precio: {
         valor: 550000,
         moneda: "EUR",
@@ -83,5 +84,16 @@ const navesComerciales = {
         }
     },
     
-    imagenes: []
+    imagenes: [
+        img1403804760,
+        img1403804969,
+        img1403804970,
+        img1403804979,
+        img1403804980,
+        img1403805182,
+        img1403805300,
+        img1403805301
+    ]
 };
+
+export default navesComerciales;

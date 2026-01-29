@@ -1,15 +1,11 @@
+import img1396598466 from '../../assets/property/localSanLorenzo/1396598466.jpg';
+
 const localSanLorenzo = {
     titulo: "",
     
     descripcion: "",
     
     caracteristicas: [],
-    
-    estado: "",
-    
-    llamadaAccion: "",
-    
-    acciones: [],
     
     precio: {
         valor: 159900,
@@ -68,10 +64,14 @@ const localSanLorenzo = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1396598466,
+    ],
     
     // Campos adicionales específicos
     tipoPropiedad: "Local Comercial",
     usoComercial: true,
     metrosFachada: 25
 };
+
+export default localSanLorenzo;

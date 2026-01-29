@@ -1,3 +1,24 @@
+import img1405526317 from '../../assets/property/aticoAvileses/1405526317.jpg';
+import img1405526318 from '../../assets/property/aticoAvileses/1405526318.jpg';
+import img1405526319 from '../../assets/property/aticoAvileses/1405526319.jpg';
+import img1405526320 from '../../assets/property/aticoAvileses/1405526320.jpg';
+import img1405526321 from '../../assets/property/aticoAvileses/1405526321.jpg';
+import img1405526531 from '../../assets/property/aticoAvileses/1405526531.jpg';
+import img1405526533 from '../../assets/property/aticoAvileses/1405526533.jpg';
+import img1405526534 from '../../assets/property/aticoAvileses/1405526534.jpg';
+import img1405526558 from '../../assets/property/aticoAvileses/1405526558.jpg';
+import img1405526565 from '../../assets/property/aticoAvileses/1405526565.jpg';
+import img1405526566 from '../../assets/property/aticoAvileses/1405526566.jpg';
+import img1405526567 from '../../assets/property/aticoAvileses/1405526567.jpg';
+import img1405526568 from '../../assets/property/aticoAvileses/1405526568.jpg';
+import img1405526569 from '../../assets/property/aticoAvileses/1405526569.jpg';
+import img1405526571 from '../../assets/property/aticoAvileses/1405526571.jpg';
+import img1405526572 from '../../assets/property/aticoAvileses/1405526572.jpg';
+import img1405526573 from '../../assets/property/aticoAvileses/1405526573.jpg';
+import img1405526574 from '../../assets/property/aticoAvileses/1405526574.jpg';
+import img1405526585 from '../../assets/property/aticoAvileses/1405526585.jpg';
+import img1405526587 from '../../assets/property/aticoAvileses/1405526587.jpg';
+
 const aticoAvileses = {
     titulo: "Espectacular ático dúplex en la Plaza de la Iglesia, Avileses.",
     
@@ -71,7 +92,28 @@ const aticoAvileses = {
         }
     },
     
-    imagenes: [],
+    imagenes: [
+        img1405526317,
+        img1405526318,
+        img1405526319,
+        img1405526320,
+        img1405526321,
+        img1405526531,
+        img1405526533,
+        img1405526534,
+        img1405526558,
+        img1405526565,
+        img1405526566,
+        img1405526567,
+        img1405526568,
+        img1405526569,
+        img1405526571,
+        img1405526572,
+        img1405526573,
+        img1405526574,
+        img1405526585,
+        img1405526587,
+    ],
     
     // Campos adicionales específicos de este tipo de propiedad
     tipoPropiedad: "Ático dúplex",
@@ -80,3 +122,5 @@ const aticoAvileses = {
     zonaComunitaria: null,
     
 };
+
+export default aticoAvileses;
