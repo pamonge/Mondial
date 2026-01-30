@@ -11,7 +11,7 @@ export const DetailPageComponent = ({ data }) => {
     const info = data;
     // console.log(`DetailPageComp tiene: ${info.description}`)
     return (
-        <div className={appStyles.div}>
+        <div >
             <h2 className={detailStyle.title}>{info.location}</h2>
             <div className={detailStyle.containerCreatorNews}>
                 <div className='flex gap-2'>
@@ -27,9 +27,9 @@ export const DetailPageComponent = ({ data }) => {
             <CarouselComponent />
             <DescriptionDetailCardComponent data={info} />
             <CaracteristicsDetailCardComponent data={info.caracteristics} />
-            
+
             {/* Faltan propiedades Similares */}
-    
+
 
         </div>
     )

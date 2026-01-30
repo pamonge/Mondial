@@ -15,7 +15,7 @@
 const carouselComponentStyles = {
     componentContainer: "relative",
 
-    mainContainer: "container mx-auto py-8 px-4",
+    mainContainer: "container mx-auto py-8 ",
 
     overflowContainer: "overflow-hidden",
     card: "flex transition-transform duration-500 ease-in-out space-x-1",
