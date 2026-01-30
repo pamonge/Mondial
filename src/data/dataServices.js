@@ -20,8 +20,8 @@ const dataServices = {
         satisfy: '¡Tu futuro comienza aquí!',
         cards: [
             {
-                id: 1,
-                img: img1403144917,
+                id:1,
+                img:img1403144917,
                 imgArray: [
                     img1403144917,
                     img1403144918,
@@ -35,30 +35,52 @@ const dataServices = {
                     img1403144966,
                     img1403144967,
                 ],
-                price: '545.000 €',
-                location: 'Piso en Murcia centro',
-                address: 'C. San Anton',
-                sup: '55 m2',
-                rooms: '2',
-                bath: '1',
-                description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel. 
-
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
                 
-                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+                price: '€ 129.000',
+                priceM2: "€/m² 2.481 ", 
+                resume: 'Piso en Murcia centro',
+                address: "Avenida Ciudad de Almería 10, El Carmen, Sur, Murcia",
                 
+                description: `¡OPORTUNIDAD ÚNICA! Piso en venta en Murcia capital con excelente ubicación. Magnífico piso en venta en el corazón de Murcia, en una zona privilegiada, tranquila y bien comunicada, cerca de todos los servicios: comercios, colegios, transporte público y a pocos minutos del centro y la playa. La vivienda es totalmente exterior, muy luminosa y ventilada, con orientación ideal que garantiza luz natural durante todo el día.
+                
+                El inmueble se encuentra en perfecto estado de conservación, listo para entrar a vivir. Edificio con vecinos tranquilos y zona comunitaria bien mantenida. Perfecto tanto para vivienda habitual como para inversión.
+                
+                ¡No dejes escapar esta oportunidad!`,
+            
+                general: [
+                    "2 habitaciones amplias con armarios empotrados",
+                    "1 baño completo",
+                    "Salón-comedor amplio con salida a terraza y balcón",
+                    "Cocina independiente equipada",
+                    "2 trasteros incluidos (ideal para almacenamiento extra)",
+                    "Calefacción y aire acondicionado"
+                ],
+            
                 caracteristics: [
-                    'Aire acondicionado',
-                    'Ascensor',
-                    'Balcon',
-                    'Conserje',
-                    'Terraza',
+                    'superficie: 52 m²',
+                    'dormitorios: 2',
+                    'baños: 1',
+                    'terraza: 1',
+                    'condicion: Segunda mano/Buen estado',
                     'Armarios empotrados',
-                    'Calefacción',
-                    'Planta (2)',
-                    'Reformado',
-                    'Ano de construcción (1957)'
-                ]
+                    'Trastero',
+                ],
+            
+                energyCertification: [
+                    'consumo: 0.1 kWh/m² año',
+                    'emisiones: 0.1m C02/m² año',
+                ],
+            
+                building: [
+                    'Planta: 1, Exterior',
+                    'Con ascensor'
+                ],
+            
+                equipment: [
+                    'calefaccion: Individual',
+                    'combustible calefacción: Gas natural',
+                    'Aire Acondicionado'
+                ],
             },{
                 id: 2,
                 img: img,
