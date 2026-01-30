@@ -1,5 +1,3 @@
-import React from 'react'
-
 // Componente que se renderiza en /pages/HomePage.jsx
 
 export const CardHomeComponent = ({ info }) => {

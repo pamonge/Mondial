@@ -1,5 +1,5 @@
 const navBarStyles = {
-  navBarContainer: "p-2 flex justify-between items-center relative",
+  navBarContainer: "p-2 flex justify-between items-center bg-[#EBEBF5]",
   logo: "h-15 w-auto cursor-pointer hover:opacity-80 transition-all duration-500 px-6",
   hamburgerButton: "lg:hidden flex flex-col w-8 h-8 justify-center items-end space-y-1.5 z-50 px-5", 
   hamburgerLine: "block w-6 h-0.5 bg-[#2D2964] rounded transition-all duration-300",

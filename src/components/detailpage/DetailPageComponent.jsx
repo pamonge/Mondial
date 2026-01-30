@@ -6,10 +6,10 @@ import locationIcon from '../../assets/icons/placeMarker.png'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
 import { CarouselComponent } from '../../components/carouselDetail/CarouselComponent'
 import appStyles from '../../styles/appStyles'
-import { ListBuySellCardComponent } from '../../components/buysellservices/ListBuySellCardComponent'
-export const DetailPageComponent = () => {
-    const location = useLocation()
-    const info = location.state
+
+export const DetailPageComponent = ({ data }) => {
+    const info = data;
+    // console.log(`DetailPageComp tiene: ${info.description}`)
     return (
         <div className={appStyles.div}>
             <h2 className={detailStyle.title}>{info.location}</h2>
@@ -25,10 +25,11 @@ export const DetailPageComponent = () => {
             </div>
             {/* Carousel provisorio */}
             <CarouselComponent />
-            <DescriptionDetailCardComponent data={info.description} />
+            <DescriptionDetailCardComponent data={info} />
             <CaracteristicsDetailCardComponent data={info.caracteristics} />
+            
             {/* Faltan propiedades Similares */}
-            <h2 className={appStyles.mainTitle}>Propiedades Similares</h2>
+    
 
         </div>
     )

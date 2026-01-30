@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { LinkComponent } from '../navigation/LinkComponent';
 import clients from '../../data/dataForm';
 import formStyles from '../../styles/footer/formComponentStyles';

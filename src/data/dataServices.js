@@ -1,44 +1,53 @@
+import img1403144917 from '../assets/property/almeria10/1403144917.jpg';
+import img1403144918 from '../assets/property/almeria10/1403144918.jpg';
+import img1403144927 from '../assets/property/almeria10/1403144927.jpg';
+import img1403144943 from '../assets/property/almeria10/1403144943.jpg';
+import img1403144944 from '../assets/property/almeria10/1403144944.jpg';
+import img1403144952 from '../assets/property/almeria10/1403144952.jpg';
+import img1403144953 from '../assets/property/almeria10/1403144953.jpg';
+import img1403144954 from '../assets/property/almeria10/1403144954.jpg';
+import img1403144965 from '../assets/property/almeria10/1403144965.jpg';
+import img1403144966 from '../assets/property/almeria10/1403144966.jpg';
+import img1403144967 from '../assets/property/almeria10/1403144967.jpg';
+
 import img from '../assets/img.jpg'
-import imageNews1 from '../../src/assets/blogNews/image-news1.png';
-import imageNews2 from '../../src/assets/blogNews/image-news2.png';
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
 const dataServices = {
     buy: {
+        verbous: 'Comprar',
         title: 'Encuentra el hogar que siempre soñaste',
         text: `En Mondial inmobiliaria te acompañamos en cada paso para que adquieras la propiedad ideal: segura, bien ubicada y ajustada a tu presupuesto. Ya sea tu primera vivienda, un departamento moderno en el centro o una casa espaciosa en un barrio tranquilo, tenemos las mejores opciones en la región.`,
         satisfy: '¡Tu futuro comienza aquí!',
         cards: [
             {
                 id: 1,
-                img: img,
-                imgArray: [img, imageNews1, imageNews2],
+                img: img1403144917,
+                imgArray: [
+                    img1403144917,
+                    img1403144918,
+                    img1403144927,
+                    img1403144943,
+                    img1403144944,
+                    img1403144952,
+                    img1403144953,
+                    img1403144954,
+                    img1403144965,
+                    img1403144966,
+                    img1403144967,
+                ],
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
                 sup: '55 m2',
                 rooms: '2',
                 bath: '1',
-                description: [
-        {
-            type: 'paragraph',
-            content: [
-                { type: 'text', text: 'Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel. ' },
-             
-            ]
-        },{
-            // Párrafo 2
-            type: 'paragraph',
-            content: [
-                { type: 'text', text: 'Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora. ' },
-                ]
-        },{
-             type: 'paragraph',
-            content: [
-                { type: 'text', text: ' No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad.' },
-                 { type: 'bold', text: '¡Contáctanos para más información y para concertar una visita!' }
-        ]}],
+                description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel. 
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
                 
-                  caracteristics: [
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+                
+                caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
                     'Balcon',
@@ -52,7 +61,7 @@ const dataServices = {
                 ]
             },{
                 id: 2,
-                img: `${img}`,
+                img: img,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -60,7 +69,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
@@ -75,7 +87,7 @@ const dataServices = {
                 ]
             },{
                 id: 3,
-                img: `${img}`,
+                img: img,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
@@ -83,7 +95,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
@@ -101,6 +116,7 @@ const dataServices = {
     },
 
     sell: {
+        verbous: 'Vender',
         title: 'Oportunidades reales, confianza y resultados que cuentan.',
         text: `En Mondial Inmobiliaria, sabemos que una vivienda es solo estructura, pero un hogar es donde late el corazón. Con 25 años de experiencia en el sector inmobiliario, colocamos tu hogar y tus intereses  en el epicentro de todo lo que hacemos.
         Gracias a nuestra exclusiva red de compradores cualificados, estrategias de marketing de alto impacto y un enfoque 100% personalizado, transformamos la venta de tu propiedad en una experiencia fluida, transparente y, sobre todo, exitosa.`,
@@ -126,6 +142,7 @@ const dataServices = {
     },
 
     rent: {
+        verbous: 'Alquilar',
         title: 'Encuentra el hogar que siempre soñaste',
         text: `En Mondial inmobiliaria te acompañamos en cada paso para que adquieras la propiedad ideal: segura, bien ubicada y ajustada a tu presupuesto. Ya sea tu primera vivienda, un departamento moderno en el centro o una casa espaciosa en un barrio tranquilo, tenemos las mejores opciones en la región.`,
         satisfy: '¡Tu futuro comienza aquí!',
@@ -140,7 +157,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',
@@ -163,7 +183,10 @@ const dataServices = {
                 rooms: '2',
                 bath: '1',
                 description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+                
+                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
+                
+                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
                 caracteristics: [
                     'Aire acondicionado',
                     'Ascensor',

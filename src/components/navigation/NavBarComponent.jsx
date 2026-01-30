@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { MenuLinksComponent } from "./MenuLinksComponent";
 import logo from "../../assets/logo/isologo.png";
@@ -11,7 +11,7 @@ export const NavBarComponent = () => {
   const closeMenu = () => setIsOpen(false);
 
   return (
-    <div className={`${navBarStyles.navBarContainer} shadow-md`}>
+    <div className={`${navBarStyles.navBarContainer} shadow-md fixed top-0 left-0 w-full z-50`}>
       {/* Logo */}
       <div>
         <Link to="/">
@@ -25,7 +25,7 @@ export const NavBarComponent = () => {
 
       {/* Navbar de escritorio */}
       <div className="hidden lg:flex">
-        <MenuLinksComponent />
+        <MenuLinksComponent func={closeMenu} />
       </div>
 
       {/* Botón hamburguesa (visible solo en móvil) */}
@@ -67,3 +67,4 @@ export const NavBarComponent = () => {
     </div>
   );
 };
+

@@ -1,10 +1,9 @@
-import React from "react";
 import { useParams } from "react-router-dom";
-import { BlogTitleComponent } from "../components/newsBlog/BlogTitleComponent.jsx";
 import dataBlog from "../data/dataBlog.js";
 import detailStyle from "../styles/NewsStyles/DetailComponentStyle";
 import NewsDetailComponents from "../components/newsBlog/NewsDetailComponent";
 import { LinkComponent } from "../components/navigation/LinkComponent.jsx";
+import appStyles from "../styles/appStyles.js";
 
 //BUSQUEDA DE NOTICIA POR ID DE RUTA Y RENDERIZADO DE DETALLES
 export const NewsDetailPage = () => {
@@ -28,7 +27,7 @@ export const NewsDetailPage = () => {
     }
     return (
         //si se encuentra la noticia mostrar detalles de la noticia
-        <div>
+        <div className={appStyles.div}>
 
             <NewsDetailComponents info={noticiaEncontrada} />
         </div>

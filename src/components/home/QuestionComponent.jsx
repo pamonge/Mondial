@@ -1,4 +1,3 @@
-import React from 'react'
 import { LinkComponent } from '../navigation/LinkComponent'
 
 export const QuestionComponent = () => {

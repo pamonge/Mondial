@@ -1,4 +1,3 @@
-import React from 'react'
 
 import appStyles from '../styles/appStyles'
 import { ContactComponent } from '../components/contact/ContactComponent'

@@ -1,4 +1,3 @@
-import React from 'react'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
 import { Link } from 'react-router-dom'
 

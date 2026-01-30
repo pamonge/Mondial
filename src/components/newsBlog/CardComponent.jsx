@@ -1,4 +1,3 @@
-import React from "react";
 import cardStyle from "../../styles/NewsStyles/CardComponentStyle";
 import { LinkComponent } from "../navigation/LinkComponent";
 

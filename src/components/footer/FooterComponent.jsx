@@ -1,4 +1,3 @@
-import React from 'react'
 import { FormComponent } from './FormComponent'
 import { SocialMediaComponent } from './SocialMediaComponent'
 import { MapComponent } from '../contact/MapComponent'
@@ -34,7 +33,7 @@ export const FooterComponent = () => {
           <div className='bg-[#EBEBF5] h-2/3'>
             <MapComponent />
           </div >
-          <div className='bg-[#EBEBF5] rounded-2xl overflow-auto '>
+          <div className='bg-[#EBEBF5] rounded-2xl overflow-hidden '>
             <SocialMediaComponent />
           </div>
         </div>

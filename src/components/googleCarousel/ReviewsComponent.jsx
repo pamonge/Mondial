@@ -1,4 +1,3 @@
-import React from 'react'
 import { GoogleCarouselComponent } from './GoogleCarouselComponent'
 import appStyles from '../../styles/appStyles'
 

@@ -1,13 +1,16 @@
 import { DetailPageComponent } from '../components/detailpage/DetailPageComponent'
 import detailStyle from '../styles/NewsStyles/DetailComponentStyle'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
+import appStyles from '../styles/appStyles'
 
 // Renderiza los detalles de las propiedades cuando uno clickea 'Comprar' o 'Alquilar' en BuyPage o RentPage
 export const DetailPage = () => {
+  const location = useLocation();
+  const info = location.state;
   return (
-    <div>
+    <div className={appStyles.div}>
       <Link to="/buy" className={detailStyle.backLink}>&lt; Volver</Link>
-      <DetailPageComponent />
+      <DetailPageComponent data={info} />
     </div>
   )
 }

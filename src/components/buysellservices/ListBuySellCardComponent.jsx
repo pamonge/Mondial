@@ -1,7 +1,9 @@
 import { CardBuySellComponent } from "./CardBuySellComponent";
 import servicesStyle from "../../styles/servicesComponentStyle";
 
-export const ListBuySellCardComponent = ({ service }) => {
+export const ListBuySellCardComponent = ({ service, desc }) => {
+    const info = service;
+    // console.log(`ListBuySellcomponent ${info}`); 
     return (
         <div className={servicesStyle.sectionContainer}>
             <div className={servicesStyle.gridContainer}>
@@ -12,7 +14,7 @@ export const ListBuySellCardComponent = ({ service }) => {
                             key={prop.id} 
                             info={prop}  // se le pasa por parametro al elemento todos los datos dentro del arreglo cards
                             link='/detail'
-                            desc='Comprar'
+                            desc={desc}
                         />
                     ))
                 }
