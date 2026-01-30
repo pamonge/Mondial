@@ -1,12 +1,13 @@
 import { ServicesComponent } from '../components/buysellservices/ServicesComponent'
 import { ListBuySellCardComponent } from '../components/buysellservices/ListBuySellCardComponent'
 import data from '../data/dataServices'
+import appStyles from '../styles/appStyles'
 
 export const BuyPage = () => {
   const buyInfo = data.buy;
   const cards = buyInfo.cards;
   return (
-    <div>
+    <div className={appStyles.div} >
       <ServicesComponent 
         title={buyInfo.title} 
         text={buyInfo.text} 

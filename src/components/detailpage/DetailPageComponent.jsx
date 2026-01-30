@@ -27,8 +27,9 @@ export const DetailPageComponent = ({ data }) => {
             <CarouselComponent />
             <DescriptionDetailCardComponent data={info} />
             <CaracteristicsDetailCardComponent data={info.caracteristics} />
+            
             {/* Faltan propiedades Similares */}
-            <h2 className={appStyles.mainTitle}>Propiedades Similares</h2>
+    
 
         </div>
     )

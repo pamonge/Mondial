@@ -11,9 +11,8 @@ import img1403144966 from '../../assets/property/almeria10/1403144966.jpg';
 import img1403144967 from '../../assets/property/almeria10/1403144967.jpg';
 
 const almeria10 = {
-    titulo: "¡OPORTUNIDAD ÚNICA! Piso en venta en Murcia capital con excelente ubicación",
-
-    descripcion: `Magnífico piso en venta en el corazón de Murcia, en una zona privilegiada, tranquila y bien comunicada, cerca de todos los servicios: comercios, colegios, transporte público y a pocos minutos del centro y la playa. La vivienda es totalmente exterior, muy luminosa y ventilada, con orientación ideal que garantiza luz natural durante todo el día.
+    id:1,
+    descripcion: `¡OPORTUNIDAD ÚNICA! Piso en venta en Murcia capital con excelente ubicación. Magnífico piso en venta en el corazón de Murcia, en una zona privilegiada, tranquila y bien comunicada, cerca de todos los servicios: comercios, colegios, transporte público y a pocos minutos del centro y la playa. La vivienda es totalmente exterior, muy luminosa y ventilada, con orientación ideal que garantiza luz natural durante todo el día.
     
     El inmueble se encuentra en perfecto estado de conservación, listo para entrar a vivir. Edificio con vecinos tranquilos y zona comunitaria bien mantenida. Perfecto tanto para vivienda habitual como para inversión.
     
@@ -61,11 +60,9 @@ const almeria10 = {
         ascensor: true
     },
 
-    equipamientoTecnico: {
-        calefaccion: {
-        tipo: "Individual",
-        combustible: "Gas natural"
-        },
+    equipamiento: {
+        calefaccion: "Individual",
+        combustible: "Gas natural",
         aireAcondicionado: true
     },
 
@@ -76,10 +73,6 @@ const almeria10 = {
         distrito: "Sur",
         ciudad: "Murcia",
         provincia: "Murcia",
-        coordenadas: {
-        lat: null,
-        lng: null
-        }
     },
 
     imagenes: [

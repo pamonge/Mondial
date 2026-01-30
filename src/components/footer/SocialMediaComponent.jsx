@@ -25,7 +25,7 @@ export const SocialMediaComponent = () => {
             }
         </div>
       </div>
-      <div className='flex flex-col min-md:justify-center xs:w-full min-lg:w-2/3 h-full md:min-h-[30vh]'>
+      <div className='flex flex-col min-md:justify-center xs:w-full min-lg:w-2/3 h-full md:min-h-[30vh] gap-5'>
         <a href={`tel:${dataMondial.phone}`} className='flex items-center gap-3 md:text-base lg:text-lg'>
           <img className='w-8' src={iconPhone} alt="Celular" /> 
           <span className='max-xl:text-base '>{dataMondial.phone}</span>

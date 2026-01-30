@@ -2,7 +2,6 @@ import { HeroComponent } from '../components/header/HeroComponent'
 import { MondialSlogan } from '../components/home/MondialSlogan'
 //es la lista de servicios que se muestra en la home
 import { ListCardComponent } from '../components/services/ListCardComponent'
-
 import TitleCarouselComponent from '../components/carousel/TitleCarouselComponent'
 import { QuestionComponent } from '../components/home/QuestionComponent'
 import { CarouselComponent } from '../components/carousel/CarouselComponent'

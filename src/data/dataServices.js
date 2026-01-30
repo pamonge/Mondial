@@ -1,6 +1,16 @@
+import img1403144917 from '../assets/property/almeria10/1403144917.jpg';
+import img1403144918 from '../assets/property/almeria10/1403144918.jpg';
+import img1403144927 from '../assets/property/almeria10/1403144927.jpg';
+import img1403144943 from '../assets/property/almeria10/1403144943.jpg';
+import img1403144944 from '../assets/property/almeria10/1403144944.jpg';
+import img1403144952 from '../assets/property/almeria10/1403144952.jpg';
+import img1403144953 from '../assets/property/almeria10/1403144953.jpg';
+import img1403144954 from '../assets/property/almeria10/1403144954.jpg';
+import img1403144965 from '../assets/property/almeria10/1403144965.jpg';
+import img1403144966 from '../assets/property/almeria10/1403144966.jpg';
+import img1403144967 from '../assets/property/almeria10/1403144967.jpg';
+
 import img from '../assets/img.jpg'
-import imageNews1 from '../../src/assets/blogNews/image-news1.png';
-import imageNews2 from '../../src/assets/blogNews/image-news2.png';
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
 const dataServices = {
     buy: {
@@ -11,8 +21,20 @@ const dataServices = {
         cards: [
             {
                 id: 1,
-                img: img,
-                imgArray: [img, imageNews1, imageNews2],
+                img: img1403144917,
+                imgArray: [
+                    img1403144917,
+                    img1403144918,
+                    img1403144927,
+                    img1403144943,
+                    img1403144944,
+                    img1403144952,
+                    img1403144953,
+                    img1403144954,
+                    img1403144965,
+                    img1403144966,
+                    img1403144967,
+                ],
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
                 address: 'C. San Anton',
