@@ -13,7 +13,7 @@ export const CardBuySellComponent = ({ info, link, desc }) => {
             <div className={servicesStyle.imgContainer}>
                 <img
                     src={`${info.img}`}
-                    alt={info.location}
+                    alt={info.resume}
                     className={servicesStyle.imgCard}
                 />
                 <p>{info.price}</p>
@@ -21,7 +21,7 @@ export const CardBuySellComponent = ({ info, link, desc }) => {
             <div className="flex">
                 <div className={`${servicesStyle.textContainer} pb-6 gap-8`}>
                     <h3 className={`${servicesStyle.h3Styles} text-left`}>
-                        {info.location}
+                        {info.resume}
                     </h3>
                     <div className={cardStyle.cardDesc}>
                         <div className={cardStyle.divDesc}>

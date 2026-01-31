@@ -21,7 +21,7 @@ export const CardCarouselComponent = ({ info, link }) => {
 
             <div className="absolute bottom-4 left-4 p-4 w-[calc(100%-2rem)] z-20">
               <h3 className="font-semibold text-lg text-white">
-                {info.location}
+                {info.resume}
               </h3>
               <p className="text-base text-white">
                 {info.address}

@@ -13,26 +13,67 @@ import img1403144967 from '../assets/property/almeria10/1403144967.jpg';
 //aticoAvileses images
 
 //aticoBeniajam
-import img1390795609 from '../assets/property/aticoBeniajan/1390795609.jpg';
-import img1390795610 from '../assets/property/aticoBeniajan/1390795610.jpg';
-import img1390795611 from '../assets/property/aticoBeniajan/1390795611.jpg';
-import img1390795908 from '../assets/property/aticoBeniajan/1390795908.jpg';
-import img1390795909 from '../assets/property/aticoBeniajan/1390795909.jpg';
-import img1390795910 from '../assets/property/aticoBeniajan/1390795910.jpg';
-import img1390795911 from '../assets/property/aticoBeniajan/1390795911.jpg';
-import img1390795912 from '../assets/property/aticoBeniajan/1390795912.jpg';
-import img1390795966 from '../assets/property/aticoBeniajan/1390795966.jpg';
-import img1390795985 from '../assets/property/aticoBeniajan/1390795985.jpg';
-import img1390795986 from '../assets/property/aticoBeniajan/1390795986.jpg';
-import img1390795988 from '../assets/property/aticoBeniajan/1390795988.jpg';
-import img1390832169 from '../assets/property/aticoBeniajan/1390832169.jpg';
-import img1390832252 from '../assets/property/aticoBeniajan/1390832252.jpg';
-import img1390832253 from '../assets/property/aticoBeniajan/1390832253.jpg';
-import img1390832254 from '../assets/property/aticoBeniajan/1390832254.jpg';
-import img1390832331 from '../assets/property/aticoBeniajan/1390832331.jpg';
-import img1390832335 from '../assets/property/aticoBeniajan/1390832335.jpg';
-import img1390832336 from '../assets/property/aticoBeniajan/1390832336.jpg';
-
+import img1390795609 from "../assets/property/aticoBeniajan/1390795609.jpg";
+import img1390795610 from "../assets/property/aticoBeniajan/1390795610.jpg";
+import img1390795611 from "../assets/property/aticoBeniajan/1390795611.jpg";
+import img1390795908 from "../assets/property/aticoBeniajan/1390795908.jpg";
+import img1390795909 from "../assets/property/aticoBeniajan/1390795909.jpg";
+import img1390795910 from "../assets/property/aticoBeniajan/1390795910.jpg";
+import img1390795911 from "../assets/property/aticoBeniajan/1390795911.jpg";
+import img1390795912 from "../assets/property/aticoBeniajan/1390795912.jpg";
+import img1390795966 from "../assets/property/aticoBeniajan/1390795966.jpg";
+import img1390795985 from "../assets/property/aticoBeniajan/1390795985.jpg";
+import img1390795986 from "../assets/property/aticoBeniajan/1390795986.jpg";
+import img1390795988 from "../assets/property/aticoBeniajan/1390795988.jpg";
+import img1390832169 from "../assets/property/aticoBeniajan/1390832169.jpg";
+import img1390832252 from "../assets/property/aticoBeniajan/1390832252.jpg";
+import img1390832253 from "../assets/property/aticoBeniajan/1390832253.jpg";
+import img1390832254 from "../assets/property/aticoBeniajan/1390832254.jpg";
+import img1390832331 from "../assets/property/aticoBeniajan/1390832331.jpg";
+import img1390832335 from "../assets/property/aticoBeniajan/1390832335.jpg";
+import img1390832336 from "../assets/property/aticoBeniajan/1390832336.jpg"; 
+//aticoElPalmar
+import img1395205221 from '../assets/property/aticoElPalmar/1395205221.jpg';
+import img1395205363 from '../assets/property/aticoElPalmar/1395205363.jpg';
+import img1395205376 from '../assets/property/aticoElPalmar/1395205376.jpg';
+import img1395205377 from '../assets/property/aticoElPalmar/1395205377.jpg';
+import img1395205379 from '../assets/property/aticoElPalmar/1395205379.jpg';
+import img1395205389 from '../assets/property/aticoElPalmar/1395205389.jpg';
+import img1395205392 from '../assets/property/aticoElPalmar/1395205392.jpg';
+import img1395205393 from '../assets/property/aticoElPalmar/1395205393.jpg';
+import img1395205394 from '../assets/property/aticoElPalmar/1395205394.jpg';
+import img1395205412 from '../assets/property/aticoElPalmar/1395205412.jpg';
+import img1395205415 from '../assets/property/aticoElPalmar/1395205415.jpg';
+import img1395205417 from '../assets/property/aticoElPalmar/1395205417.jpg';
+import img1395205420 from '../assets/property/aticoElPalmar/1395205420.jpg';
+import img1395205421 from '../assets/property/aticoElPalmar/1395205421.jpg';
+import img1395205423 from '../assets/property/aticoElPalmar/1395205423.jpg';
+import img1395205424 from '../assets/property/aticoElPalmar/1395205424.jpg';
+import img1395205425 from '../assets/property/aticoElPalmar/1395205425.jpg';
+import img1395205426 from '../assets/property/aticoElPalmar/1395205426.jpg';
+import img1395205427 from '../assets/property/aticoElPalmar/1395205427.jpg';
+import img1395205428 from '../assets/property/aticoElPalmar/1395205428.jpg';
+import img1395205429 from '../assets/property/aticoElPalmar/1395205429.jpg';
+import img1395205435 from '../assets/property/aticoElPalmar/1395205435.jpg';
+import img1395205436 from '../assets/property/aticoElPalmar/1395205436.jpg';
+import img1395205437 from '../assets/property/aticoElPalmar/1395205437.jpg';
+import img1395205438 from '../assets/property/aticoElPalmar/1395205438.jpg';
+import img1395205439 from '../assets/property/aticoElPalmar/1395205439.jpg';
+import img1395205440 from '../assets/property/aticoElPalmar/1395205440.jpg';
+import img1395205441 from '../assets/property/aticoElPalmar/1395205441.jpg';
+import img1395205444 from '../assets/property/aticoElPalmar/1395205444.jpg';
+import img1395205445 from '../assets/property/aticoElPalmar/1395205445.jpg';
+import img1395205446 from '../assets/property/aticoElPalmar/1395205446.jpg';
+import img1395205455 from '../assets/property/aticoElPalmar/1395205455.jpg';
+import img1395205465 from '../assets/property/aticoElPalmar/1395205465.jpg';
+import img1395241332 from '../assets/property/aticoElPalmar/1395241332.jpg';
+//Atico Juan Borbon
+import img1376947366 from '../assets/property/aticoJuanBorbon/1376947366.jpg';
+import img1376947377 from '../assets/property/aticoJuanBorbon/1376947377.jpg';
+import img1376947378 from '../assets/property/aticoJuanBorbon/1376947378.jpg';
+import img1376947395 from '../assets/property/aticoJuanBorbon/1376947395.jpg';
+import img1376947396 from '../assets/property/aticoJuanBorbon/1376947396.jpg';
+ 
 
 import img from '../assets/img.jpg'
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
@@ -44,7 +85,7 @@ const dataServices = {
         satisfy: '¡Tu futuro comienza aquí!',
         cards: [
             {
-                id:1,
+                id:0,
                 img:img1403144917,
                 imgArray: [
                     img1403144917,
@@ -59,7 +100,9 @@ const dataServices = {
                     img1403144966,
                     img1403144967,
                 ],
-                
+                sup:'52 m2',
+                rooms:'2',
+                bath:'1',
                 price: '€ 129.000',
                 priceM2: "€/m² 2.481 ", 
                 resume: 'Piso en Murcia centro',
@@ -105,8 +148,8 @@ const dataServices = {
                     'combustible calefacción: Gas natural',
                     'Aire Acondicionado'
                 ],
-            },{
-                id: 2,
+            } ,{
+                id: 1,
                 img: img,
                 price: '545.000 €',
                 location: 'Piso en Murcia centro',
@@ -132,7 +175,7 @@ const dataServices = {
                     'Ano de construcción (1957)'
                 ]
             },{
-                id: 3,
+                id: 2,
                 img: img1390795609,
                 imgArray: [
                         img1390795609,
@@ -155,6 +198,9 @@ const dataServices = {
                         img1390832335,
                         img1390832336,
                     ],
+                     sup:'52 m2',
+                rooms:'2',
+                bath:'1',
                  price: '€ 159.000',
                 priceM2: "€/m² 2.481 ", 
                 resume: 'Atico Beniaján',
@@ -199,6 +245,157 @@ const dataServices = {
                     'Aire Acondicionado'
                 ],
             }
+            ,{
+                id: 3,
+                img: img1395205221,
+                imgArray: [
+                        img1395205221,
+                        img1395205363,
+                        img1395205376,
+                        img1395205377,
+                        img1395205379,
+                        img1395205389,
+                        img1395205392,
+                        img1395205393,
+                        img1395205394,
+                        img1395205412,
+                        img1395205415,
+                        img1395205417,
+                        img1395205420,
+                        img1395205421,
+                        img1395205423,
+                        img1395205424,
+                        img1395205425,
+                        img1395205426,
+                        img1395205427,
+                        img1395205428,
+                        img1395205429,
+                        img1395205435,
+                        img1395205436,
+                        img1395205437,
+                        img1395205438,
+                        img1395205439,
+                        img1395205440,
+                        img1395205441,
+                        img1395205444,
+                        img1395205445,
+                        img1395205446,
+                        img1395205455,
+                        img1395205465,
+                        img1395241332
+                    ],
+                     sup:'52 m2',
+                rooms:'2',
+                bath:'1',
+                 price: '€ 179.999',
+                priceM2: "€/m² 1.488 ", 
+                resume: 'Ático EL Palmar',
+                address: "Calle Rambla 2, El Palmar, Pedanías Oeste, Murcia",
+                
+                description: `"Vivienda de 121 m² construidos totalmente exterior y muy luminosa, con una distribución perfecta y acabados de alta calidad. Edificio del año 2009 impecable.
+    
+    Ideal para familias, profesionales del ámbito sanitario o quien busque calidad de vida sin renunciar a estar a un paso de todo (supermercados, colegios, Nueva Condomina, acceso autovía…). ¡Una auténtica oportunidad que raramente sale al mercado en esta zona!.
+    
+    Visitas ya disponibles.`,
+                general: [
+        "Amplio y elegante salón-comedor totalmente exterior con salida a terraza",
+        "3 dormitorios espaciosos: → Dormitorio principal con baño en suite y terraza privada → Los otros dos dormitorios también con salida a terraza",
+        "Gran cocina independiente completamente equipada",
+        "2 baños completos (uno en suite)",
+        "Suelo de parquet natural en toda la vivienda",
+        "Aire acondicionado centralizado (frío-calor) por conductos",
+        "2 terrazas grandes a ambas orientaciones (mañana y tarde de sol) + balcón",
+        "Plaza de garaje amplia + trastero incluidos en el precio",
+        "Vistas despejadas, mucha luz natural todo el día",
+        "Distribución en esquina, ático"
+    ],
+            
+                caracteristics: [
+           "metrosCuadradosConstruidos: 121",
+        "dormitorios: 3",
+        "banos: 2",
+        "terrazas: 2",
+        "estado Vivienda: 'Segunda mano/Buen estado'",
+        "equipamiento: Armarios empotrados, Trastero, Balcón, Plaza de garaje incluida en el precio",
+        "anoConstruccion: 2009",
+        "orientacion: Este, Oeste " ],
+            
+                energyCertification: [
+                    'consumo: 0.1 kWh/m² año',
+                    'emisiones: 0.1m C02/m² año',
+                ],
+            
+                building: [
+                    'Planta: 3, Exterior',
+                    'Con ascensor'
+                ],
+            
+                equipment: [
+                    'calefaccion: Centralizada',
+                    'combustible calefacción: Otro',
+                    'Aire Acondicionado'
+                ],
+            },{
+                id:4,
+                img: img1376947366,
+                imgArray: [
+                    img1376947366,
+                           img1376947377,
+                           img1376947378,
+                           img1376947395,
+                           img1376947396,
+                ],
+                sup:'52 m2',
+                rooms:'4',
+                bath:'3',
+                price: '€ 569.000',
+                priceM2: "€/m² 3845 ", 
+                resume: 'Atico Juan Borbon',
+                address: "Avenida Ciudad de Almería 10, El Carmen, Sur, Murcia",
+                
+                description: `Descubre tu nuevo hogar soñado en una de las zonas más exclusivas de Murcia! Mondial Inmobiliaria te presenta en exclusiva este bonito ático situado en la cuarta planta de un edificio moderno en Avenida Juan de Borbón, una de las áreas más demandadas de la ciudad por su encanto y comodidad. Características principales: 1 amplia terraza perfecta para disfrutar del sol murciano, almuerzos al aire libre o relajarte con vistas urbanas. Salón luminoso y acogedor, ideal para momentos familiares. 4 dormitorios espaciosos, para toda la familia o invitados. 3 cuartos de baño completamente equipados, con acabados de calidad. Cocina amueblada y equipada, lista para cocinar tus platos favoritos. Plaza de garaje incluida + amplio trastero para todo tu almacenamiento.
+    
+    Esta vivienda es cómoda, luminosa y llena de posibilidades: reformable a tu gusto o lista para entrar a vivir de inmediato. ¡No es solo una casa, es un estilo de vida! Ubicación inmejorable: A pasos de todos los servicios esenciales – comercios, supermercados, colegios de renombre y excelentes conexiones de transporte público. Todo lo que necesitas al alcance de tu mano, en el vibrante centro de Murcia.
+    
+    Inmueble gestionado en exclusiva por expreso mandato del propietario. Nuestro equipo de asesores te ofrecerá toda la información detallada y una atención personalizada para guiarte en cada paso.`,
+          general: [
+        "Amplia terraza perfecta para disfrutar del sol murciano",
+        "Salón luminoso y acogedor, ideal para momentos familiares",
+        "4 dormitorios espaciosos, para toda la familia o invitados",
+        "3 cuartos de baño completamente equipados, con acabados de calidad",
+        "Cocina amueblada y equipada, lista para cocinar tus platos favoritos",
+        "Plaza de garaje incluida",
+        "Amplio trastero para todo tu almacenamiento",
+        "Ubicación inmejorable: A pasos de todos los servicios esenciales"
+    ],
+            
+                caracteristics: [
+                       " metrosCuadradosConstruidos: 148",
+        "metrosUtiles: 115",
+        "dormitorios: 4",
+        "banos: 3",
+        "terrazas: 1",
+        "estado Vivienda: 'Segunda mano/Buen estado'",
+        "equipamiento: Armarios empotrados, Trastero, Balcón, Plaza de garaje incluida en el precio",
+        "año Construccion: 2005"
+                ],
+            
+                energyCertification: [
+                    'consumo: 0.1 kWh/m² año',
+                    'emisiones: 0.1m C02/m² año',
+                ],
+            
+                building: [
+                    'Planta: 1, Exterior',
+                    'Con ascensor'
+                ],
+            
+                equipment: [
+                    'calefaccion: Individual',
+                    'combustible calefacción: Gas natural',
+                    'Aire Acondicionado'
+                ],
+            } 
         ]
     },
 

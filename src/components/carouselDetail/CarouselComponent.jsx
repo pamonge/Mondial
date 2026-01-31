@@ -9,7 +9,7 @@ export const CarouselComponent = () => {
     const [isPaused, setIsPaused] = useState(false);
     const [selectedImage, setSelectedImage] = useState(null);
     const cardsArray = dataServices.buy.cards;
-    
+
     // Crear array plano de todas las imágenes
     const allImages = [];
     cardsArray.forEach((card) => {
@@ -119,9 +119,8 @@ export const CarouselComponent = () => {
                         <button
                             key={index}
                             onClick={() => goToSlide(index)}
-                            className={`w-3 h-3 rounded-full transition-all ${
-                                index === currentIndex ? 'bg-blue-600' : 'bg-gray-300'
-                            }`}
+                            className={`w-3 h-3 rounded-full transition-all ${index === currentIndex ? 'bg-blue-600' : 'bg-gray-300'
+                                }`}
                         />
                     ))}
                 </div>
@@ -141,12 +140,12 @@ export const CarouselComponent = () => {
                     </button>
                     <img
                         src={selectedImage.img}
-                        alt={selectedImage.location}
+                        alt={selectedImage.resume}
                         className="max-w-full max-h-full object-contain"
                         onClick={(e) => e.stopPropagation()}
                     />
                     <div className="absolute bottom-4 left-4 right-4 text-white text-center">
-                        <h3 className="text-2xl font-bold mb-2">{selectedImage.location}</h3>
+                        <h3 className="text-2xl font-bold mb-2">{selectedImage.resume}</h3>
                         <p className="text-lg">{selectedImage.price}</p>
                     </div>
                 </div>

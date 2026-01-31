@@ -5,7 +5,7 @@ import cardCarouselStyles from '../../styles/carouselStyles/cardCarouselComponen
 // card carousel de detalle de propiedades
 export const CardCarouselComponent = ({ info, onClick }) => {
     return (
-        <div 
+        <div
             className={`${cardCarouselStyles.cardContainer}`}
             style={{ display: 'block' }}
             onClick={onClick}
@@ -13,7 +13,7 @@ export const CardCarouselComponent = ({ info, onClick }) => {
             <div className={`${cardCarouselStyles.imgContainer} group cursor-pointer`}>
                 <img
                     src={`${info.img}`}
-                    alt={info.location}
+                    alt={info.resume}
                     className={cardCarouselStyles.imgCard}
                 />
                 <div className={cardCarouselStyles.bottomGradient}></div>
