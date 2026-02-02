@@ -12,7 +12,7 @@ export const CarouselComponent = ({ card }) => {
     // Crear array plano de todas las imágenes
     const allImages = [];
     cardsArray.forEach((card) => {
-        if (cardsArray.length > 0) {
+        if (cardsArray.length >= 0) {
             cardsArray.forEach((img) => {
                 allImages.push({ ...card, img });
             });
@@ -113,7 +113,7 @@ export const CarouselComponent = ({ card }) => {
                 </button>
 
                 {/* Indicadores */}
-                <div className={carouselComponentStyles.indicators}>
+                {/* <div className={carouselComponentStyles.indicators}>
                     {allImages.map((_, index) => (
                         <button
                             key={index}
@@ -122,7 +122,7 @@ export const CarouselComponent = ({ card }) => {
                                 }`}
                         />
                     ))}
-                </div>
+                </div> */}
             </div>
 
             {/* Modal para imagen ampliada */}

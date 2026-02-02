@@ -10,11 +10,12 @@ import img1386882950 from '../../assets/property/pisoCalleMaroto/1386882950.jpg'
 const pisoCalleMaroto = {
     titulo: "¡Descubre tu nuevo hogar en el corazón de la ciudad! Piso luminoso y acogedor con todas las comodidades.",
     
-    descripcion: `"¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Maestro Maroto te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana.
-    
-    Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día.
-    
-    No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.`,
+    descripcion: `¡Descubre tu nuevo hogar en el corazón de la ciudad! Piso luminoso y acogedor con todas las comodidades. ¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Maestro Maroto te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana. Características principales: Distribución: 3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office), salón espacioso para momentos de relax o reuniones familiares, cocina independiente y funcional con espacio para comedor, y baño completo.
+Luz natural a raudales: Totalmente exterior, con orientaciones que garantizan sol todo el día y vistas agradables.
+Comodidades modernas: Edificio con ascensor, para mayor accesibilidad y confort.
+Ubicación de ensueño: A menos de 1 minuto de todas las líneas de transporte público (metro, bus, cercanías), supermercados, colegios, parques y servicios esenciales. Todo al alcance de la mano, sin complicaciones.
+
+Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día. No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.`,
     
     caracteristicas: [
         "3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office)",

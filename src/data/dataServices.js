@@ -1,3 +1,4 @@
+// Almeria 10 - 0
 import img1403144917 from "../assets/property/almeria10/1403144917.jpg";
 import img1403144918 from "../assets/property/almeria10/1403144918.jpg";
 import img1403144927 from "../assets/property/almeria10/1403144927.jpg";
@@ -10,7 +11,7 @@ import img1403144965 from "../assets/property/almeria10/1403144965.jpg";
 import img1403144966 from "../assets/property/almeria10/1403144966.jpg";
 import img1403144967 from "../assets/property/almeria10/1403144967.jpg";
 
-//aticoAvileses images
+//aticoAvileses images - 1
 import img1405526317 from '../assets/property/aticoAvileses/1405526317.jpg';
 import img1405526318 from '../assets/property/aticoAvileses/1405526318.jpg';
 import img1405526319 from '../assets/property/aticoAvileses/1405526319.jpg';
@@ -31,7 +32,8 @@ import img1405526573 from '../assets/property/aticoAvileses/1405526573.jpg';
 import img1405526574 from '../assets/property/aticoAvileses/1405526574.jpg';
 import img1405526585 from '../assets/property/aticoAvileses/1405526585.jpg';
 import img1405526587 from '../assets/property/aticoAvileses/1405526587.jpg';
-//aticoBeniajam
+
+//aticoBeniajam - 2
 import img1390795609 from "../assets/property/aticoBeniajan/1390795609.jpg";
 import img1390795610 from "../assets/property/aticoBeniajan/1390795610.jpg";
 import img1390795611 from "../assets/property/aticoBeniajan/1390795611.jpg";
@@ -51,7 +53,7 @@ import img1390832254 from "../assets/property/aticoBeniajan/1390832254.jpg";
 import img1390832331 from "../assets/property/aticoBeniajan/1390832331.jpg";
 import img1390832335 from "../assets/property/aticoBeniajan/1390832335.jpg";
 import img1390832336 from "../assets/property/aticoBeniajan/1390832336.jpg";
-//aticoElPalmar
+//aticoElPalmar - 3
 import img1395205221 from "../assets/property/aticoElPalmar/1395205221.jpg";
 import img1395205363 from "../assets/property/aticoElPalmar/1395205363.jpg";
 import img1395205376 from "../assets/property/aticoElPalmar/1395205376.jpg";
@@ -86,13 +88,13 @@ import img1395205446 from "../assets/property/aticoElPalmar/1395205446.jpg";
 import img1395205455 from "../assets/property/aticoElPalmar/1395205455.jpg";
 import img1395205465 from "../assets/property/aticoElPalmar/1395205465.jpg";
 import img1395241332 from "../assets/property/aticoElPalmar/1395241332.jpg";
-//Atico Juan Borbon
+//Atico Juan Borbon - 4
 import img1376947366 from "../assets/property/aticoJuanBorbon/1376947366.jpg";
 import img1376947377 from "../assets/property/aticoJuanBorbon/1376947377.jpg";
 import img1376947378 from "../assets/property/aticoJuanBorbon/1376947378.jpg";
 import img1376947395 from "../assets/property/aticoJuanBorbon/1376947395.jpg";
 import img1376947396 from "../assets/property/aticoJuanBorbon/1376947396.jpg";
-//Atico juan borbon 2
+//Atico juan borbon 2 - 5
 import img1386156465 from "../assets/property/aticoJuanBorbón2/1386156465.jpg";
 import img1387027070 from "../assets/property/aticoJuanBorbón2/1387027070.jpg";
 import img1387027071 from "../assets/property/aticoJuanBorbón2/1387027071.jpg";
@@ -129,14 +131,14 @@ import img1387027245 from "../assets/property/aticoJuanBorbón2/1387027245.jpg";
 import img1387027246 from "../assets/property/aticoJuanBorbón2/1387027246.jpg";
 import img1387027247 from "../assets/property/aticoJuanBorbón2/1387027247.jpg";
 import img1387028485 from "../assets/property/aticoJuanBorbón2/1387028485.jpg";
-//Casa algezares
+//Casa algezares - 6
 import img1398997387 from "../assets/property/casaAlgezares/1398997387.jpg";
 import img1398998053 from "../assets/property/casaAlgezares/1398998053.jpg";
-//Casa alijucer
+//Casa alijucer - 7
 import img1391888661 from "../assets/property/casaAljucer/1391888661.jpg";
 import img1400527022 from "../assets/property/casaAljucer/1400527022.jpg";
 import img1400527231 from "../assets/property/casaAljucer/1400527231.jpg";
-//Chalet Adosado
+//Chalet Adosado - 8
 import img1403802730 from "../assets/property/chaletAdosado/1403802730.jpg";
 import img1403802823 from "../assets/property/chaletAdosado/1403802823.jpg";
 import img1403802824 from "../assets/property/chaletAdosado/1403802824.jpg";
@@ -171,7 +173,7 @@ import img1403802933 from "../assets/property/chaletAdosado/1403802933.jpg";
 import img1403802934 from "../assets/property/chaletAdosado/1403802934.jpg";
 import img1403802968 from "../assets/property/chaletAdosado/1403802968.jpg";
 import img1403802975 from "../assets/property/chaletAdosado/1403802975.jpg";
-// Chalet Rustico Mula
+// Chalet Rustico Mula - 9
 import img1393172752 from "../assets/property/chaletRusticoMula/1393172752.jpg";
 import img1393172753 from "../assets/property/chaletRusticoMula/1393172753.jpg";
 import img1393172806 from "../assets/property/chaletRusticoMula/1393172806.jpg";
@@ -210,11 +212,11 @@ import img1393172901 from "../assets/property/chaletRusticoMula/1393172901.jpg";
 import img1393172902 from "../assets/property/chaletRusticoMula/1393172902.jpg";
 import img1393172905 from "../assets/property/chaletRusticoMula/1393172905.jpg";
 import img1393172915 from "../assets/property/chaletRusticoMula/1393172915.jpg";
-//local comercial murcia
+//local comercial murcia - 10
 import img1383844748 from "../assets/property/localComercialMurcia/1383844748.jpg";
-//local san lorenzo
+//local san lorenzo - 11
 import img1396598466 from "../assets/property/localSanLorenzo/1396598466.jpg";
-//naves comerciales
+//naves comerciales - 12
 import img1403804760 from "../assets/property/navesComerciales/1403804760.jpg";
 import img1403804969 from "../assets/property/navesComerciales/1403804969.jpg";
 import img1403804970 from "../assets/property/navesComerciales/1403804970.jpg";
@@ -223,6 +225,144 @@ import img1403804980 from "../assets/property/navesComerciales/1403804980.jpg";
 import img1403805182 from "../assets/property/navesComerciales/1403805182.jpg";
 import img1403805300 from "../assets/property/navesComerciales/1403805300.jpg";
 import img1403805301 from "../assets/property/navesComerciales/1403805301.jpg";
+// Naves comerciales - 13
+import img1404713007 from '../assets/property/parcelaRustica/1404713007.jpg';
+// Piso Alquiler Corvera - 14
+import img1404460974 from '../assets/property/pisoAlquilerCorvera/1404460974.jpg';
+import img1404460979 from '../assets/property/pisoAlquilerCorvera/1404460979.jpg';
+import img1404460996 from '../assets/property/pisoAlquilerCorvera/1404460996.jpg';
+import img1404460997 from '../assets/property/pisoAlquilerCorvera/1404460997.jpg';
+import img1404460998 from '../assets/property/pisoAlquilerCorvera/1404460998.jpg';
+import img1404461000 from '../assets/property/pisoAlquilerCorvera/1404461000.jpg';
+import img1404461001 from '../assets/property/pisoAlquilerCorvera/1404461001.jpg';
+import img1404461007 from '../assets/property/pisoAlquilerCorvera/1404461007.jpg';
+import img1404461008 from '../assets/property/pisoAlquilerCorvera/1404461008.jpg';
+import img1404461009 from '../assets/property/pisoAlquilerCorvera/1404461009.jpg';
+import img1404461029 from '../assets/property/pisoAlquilerCorvera/1404461029.jpg';
+import img1404461037 from '../assets/property/pisoAlquilerCorvera/1404461037.jpg';
+import img1404461045 from '../assets/property/pisoAlquilerCorvera/1404461045.jpg';
+import img1404461046 from '../assets/property/pisoAlquilerCorvera/1404461046.jpg';
+import img1404461047 from '../assets/property/pisoAlquilerCorvera/1404461047.jpg';
+import img1404461048 from '../assets/property/pisoAlquilerCorvera/1404461048.jpg';
+// Piso Cahegins - 15
+import img1386861823 from '../assets/property/pisoCehegin/1386861823.jpg';
+import img1386861867 from '../assets/property/pisoCehegin/1386861867.jpg';
+import img1386861868 from '../assets/property/pisoCehegin/1386861868.jpg';
+import img1386861871 from '../assets/property/pisoCehegin/1386861871.jpg';
+import img1386861874 from '../assets/property/pisoCehegin/1386861874.jpg';
+import img1386861881 from '../assets/property/pisoCehegin/1386861881.jpg';
+import img1386861882 from '../assets/property/pisoCehegin/1386861882.jpg';
+import img1386861919 from '../assets/property/pisoCehegin/1386861919.jpg';
+import img1386861925 from '../assets/property/pisoCehegin/1386861925.jpg';
+import img1386861926 from '../assets/property/pisoCehegin/1386861926.jpg';
+import img1386861928 from '../assets/property/pisoCehegin/1386861928.jpg';
+import img1386861936 from '../assets/property/pisoCehegin/1386861936.jpg';
+import img1386861937 from '../assets/property/pisoCehegin/1386861937.jpg';
+import img1386861955 from '../assets/property/pisoCehegin/1386861955.jpg';
+// Piso Calle Maroto - 16
+import img1386882897 from '../assets/property/pisoCalleMaroto/1386882897.jpg';
+import img1386882906 from '../assets/property/pisoCalleMaroto/1386882906.jpg';
+import img1386882907 from '../assets/property/pisoCalleMaroto/1386882907.jpg';
+import img1386882908 from '../assets/property/pisoCalleMaroto/1386882908.jpg';
+import img1386882909 from '../assets/property/pisoCalleMaroto/1386882909.jpg';
+import img1386882935 from '../assets/property/pisoCalleMaroto/1386882935.jpg';
+import img1386882936 from '../assets/property/pisoCalleMaroto/1386882936.jpg';
+import img1386882950 from '../assets/property/pisoCalleMaroto/1386882950.jpg';
+// Piso en Murcia - 17
+import img1377340893 from '../assets/property/pisoCentroMurcia/1377340893.jpg';
+import img1377340894 from '../assets/property/pisoCentroMurcia/1377340894.jpg';
+import img1377340953 from '../assets/property/pisoCentroMurcia/1377340953.jpg';
+import img1377340954 from '../assets/property/pisoCentroMurcia/1377340954.jpg';
+import img1377340965 from '../assets/property/pisoCentroMurcia/1377340965.jpg';
+import img1377340966 from '../assets/property/pisoCentroMurcia/1377340966.jpg';
+// Piso Princ Asturias - 18
+import img1383369873 from '../assets/property/pisoPrincAsturias/1383369873.jpg';
+import img1383370993 from '../assets/property/pisoPrincAsturias/1383370993.jpg';
+import img1383370994 from '../assets/property/pisoPrincAsturias/1383370994.jpg';
+import img1383371011 from '../assets/property/pisoPrincAsturias/1383371011.jpg';
+import img1383371060 from '../assets/property/pisoPrincAsturias/1383371060.jpg';
+import img1383371061 from '../assets/property/pisoPrincAsturias/1383371061.jpg';
+import img1383371062 from '../assets/property/pisoPrincAsturias/1383371062.jpg';
+import img1383371072 from '../assets/property/pisoPrincAsturias/1383371072.jpg';
+import img1383371075 from '../assets/property/pisoPrincAsturias/1383371075.jpg';
+import img1383371076 from '../assets/property/pisoPrincAsturias/1383371076.jpg';
+import img1383371077 from '../assets/property/pisoPrincAsturias/1383371077.jpg';
+import img1383371078 from '../assets/property/pisoPrincAsturias/1383371078.jpg';
+import img1383371079 from '../assets/property/pisoPrincAsturias/1383371079.jpg';
+import img1383371080 from '../assets/property/pisoPrincAsturias/1383371080.jpg';
+import img1383371082 from '../assets/property/pisoPrincAsturias/1383371082.jpg';
+import img1383371085 from '../assets/property/pisoPrincAsturias/1383371085.jpg';
+import img1383371086 from '../assets/property/pisoPrincAsturias/1383371086.jpg';
+import img1383371087 from '../assets/property/pisoPrincAsturias/1383371087.jpg';
+import img1383371088 from '../assets/property/pisoPrincAsturias/1383371088.jpg';
+// Piso SanPio - 19
+import img1378881190 from '../assets/property/pisoSanPíoX/1378881190.jpg';
+import img1378881208 from '../assets/property/pisoSanPíoX/1378881208.jpg';
+import img1378881212 from '../assets/property/pisoSanPíoX/1378881212.jpg';
+import img1378881215 from '../assets/property/pisoSanPíoX/1378881215.jpg';
+import img1378881225 from '../assets/property/pisoSanPíoX/1378881225.jpg';
+import img1378881227 from '../assets/property/pisoSanPíoX/1378881227.jpg';
+// Piso Sra Lourdes - 20
+import img1405337152 from '../assets/property/pisoSraLourdes/1405337152.jpg';
+import img1405337153 from '../assets/property/pisoSraLourdes/1405337153.jpg';
+import img1405337154 from '../assets/property/pisoSraLourdes/1405337154.jpg';
+import img1405337181 from '../assets/property/pisoSraLourdes/1405337181.jpg';
+import img1405337201 from '../assets/property/pisoSraLourdes/1405337201.jpg';
+import img1405337202 from '../assets/property/pisoSraLourdes/1405337202.jpg';
+import img1405337203 from '../assets/property/pisoSraLourdes/1405337203.jpg';
+import img1405337204 from '../assets/property/pisoSraLourdes/1405337204.jpg';
+import img1405337205 from '../assets/property/pisoSraLourdes/1405337205.jpg';
+import img1405337206 from '../assets/property/pisoSraLourdes/1405337206.jpg';
+import img1405337207 from '../assets/property/pisoSraLourdes/1405337207.jpg';
+import img1405337215 from '../assets/property/pisoSraLourdes/1405337215.jpg';
+import img1405337225 from '../assets/property/pisoSraLourdes/1405337225.jpg';
+import img1405337226 from '../assets/property/pisoSraLourdes/1405337226.jpg';
+import img1405337227 from '../assets/property/pisoSraLourdes/1405337227.jpg';
+import img1405337228 from '../assets/property/pisoSraLourdes/1405337228.jpg';
+import img1405337235 from '../assets/property/pisoSraLourdes/1405337235.jpg';
+import img1405337236 from '../assets/property/pisoSraLourdes/1405337236.jpg';
+import img1405337291 from '../assets/property/pisoSraLourdes/1405337291.jpg';
+// Residencia Sierra Nevada - 21
+import img1382377116 from '../assets/property/residenciaSierraNevada/1382377116.jpg';
+import img1382377294 from '../assets/property/residenciaSierraNevada/1382377294.jpg';
+import img1382377358 from '../assets/property/residenciaSierraNevada/1382377358.jpg';
+import img1382377359 from '../assets/property/residenciaSierraNevada/1382377359.jpg';
+import img1382377360 from '../assets/property/residenciaSierraNevada/1382377360.jpg';
+import img1382377361 from '../assets/property/residenciaSierraNevada/1382377361.jpg';
+import img1382377362 from '../assets/property/residenciaSierraNevada/1382377362.jpg';
+import img1382377363 from '../assets/property/residenciaSierraNevada/1382377363.jpg';
+import img1382377364 from '../assets/property/residenciaSierraNevada/1382377364.jpg';
+import img1382377395 from '../assets/property/residenciaSierraNevada/1382377395.jpg';
+import img1382377396 from '../assets/property/residenciaSierraNevada/1382377396.jpg';
+import img1382377397 from '../assets/property/residenciaSierraNevada/1382377397.jpg';
+import img1382377398 from '../assets/property/residenciaSierraNevada/1382377398.jpg';
+import img1382377399 from '../assets/property/residenciaSierraNevada/1382377399.jpg';
+import img1382377405 from '../assets/property/residenciaSierraNevada/1382377405.jpg';
+import img1382377406 from '../assets/property/residenciaSierraNevada/1382377406.jpg';
+import img1382377407 from '../assets/property/residenciaSierraNevada/1382377407.jpg';
+import img1382377408 from '../assets/property/residenciaSierraNevada/1382377408.jpg';
+import img1382377409 from '../assets/property/residenciaSierraNevada/1382377409.jpg';
+import img1382377410 from '../assets/property/residenciaSierraNevada/1382377410.jpg';
+import img1382377411 from '../assets/property/residenciaSierraNevada/1382377411.jpg';
+import img1382377416 from '../assets/property/residenciaSierraNevada/1382377416.jpg';
+import img1382377417 from '../assets/property/residenciaSierraNevada/1382377417.jpg';
+import img1382377425 from '../assets/property/residenciaSierraNevada/1382377425.jpg';
+import img1382377428 from '../assets/property/residenciaSierraNevada/1382377428.jpg';
+import img1382377429 from '../assets/property/residenciaSierraNevada/1382377429.jpg';
+import img1382377435 from '../assets/property/residenciaSierraNevada/1382377435.jpg';
+import img1382377436 from '../assets/property/residenciaSierraNevada/1382377436.jpg';
+import img1382377437 from '../assets/property/residenciaSierraNevada/1382377437.jpg';
+import img1382377438 from '../assets/property/residenciaSierraNevada/1382377438.jpg';
+import img1382377439 from '../assets/property/residenciaSierraNevada/1382377439.jpg';
+import img1382377441 from '../assets/property/residenciaSierraNevada/1382377441.jpg';
+import img1382377448 from '../assets/property/residenciaSierraNevada/1382377448.jpg';
+import img1382377450 from '../assets/property/residenciaSierraNevada/1382377450.jpg';
+import img1382377451 from '../assets/property/residenciaSierraNevada/1382377451.jpg';
+import img1382377457 from '../assets/property/residenciaSierraNevada/1382377457.jpg';
+import img1382377459 from '../assets/property/residenciaSierraNevada/1382377459.jpg';
+import img1382377461 from '../assets/property/residenciaSierraNevada/1382377461.jpg';
+import img1382377463 from '../assets/property/residenciaSierraNevada/1382377463.jpg';
+import img1382377466 from '../assets/property/residenciaSierraNevada/1382377466.jpg';
 
 import img from "../assets/img.jpg";
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
@@ -249,7 +389,7 @@ const dataServices = {
           img1403144966,
           img1403144967,
         ],
-        sup: "52 m2",
+        sup: "52 m²",
         rooms: "2",
         bath: "1",
         price: "€ 129.000",
@@ -259,9 +399,9 @@ const dataServices = {
 
         description: `¡OPORTUNIDAD ÚNICA! Piso en venta en Murcia capital con excelente ubicación. Magnífico piso en venta en el corazón de Murcia, en una zona privilegiada, tranquila y bien comunicada, cerca de todos los servicios: comercios, colegios, transporte público y a pocos minutos del centro y la playa. La vivienda es totalmente exterior, muy luminosa y ventilada, con orientación ideal que garantiza luz natural durante todo el día.
                 
-                El inmueble se encuentra en perfecto estado de conservación, listo para entrar a vivir. Edificio con vecinos tranquilos y zona comunitaria bien mantenida. Perfecto tanto para vivienda habitual como para inversión.
-                
-                ¡No dejes escapar esta oportunidad!`,
+        El inmueble se encuentra en perfecto estado de conservación, listo para entrar a vivir. Edificio con vecinos tranquilos y zona comunitaria bien mantenida. Perfecto tanto para vivienda habitual como para inversión.
+        
+        ¡No dejes escapar esta oportunidad!`,
 
         general: [
           "2 habitaciones amplias con armarios empotrados",
@@ -273,53 +413,96 @@ const dataServices = {
         ],
 
         caracteristics: [
-          "superficie: 52 m²",
-          "dormitorios: 2",
-          "baños: 1",
-          "terraza: 1",
-          "condicion: Segunda mano/Buen estado",
+          "Superficie: 52 m²",
+          "Dormitorios: 2",
+          "Baños: 1",
+          "Terraza: 1",
+          "Condicion: Segunda mano/Buen estado",
           "Armarios empotrados",
           "Trastero",
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "Consumo: 0.1 kWh/m² año",
+          "Emisiones: 0.1m C02/m² año",
         ],
 
         building: ["Planta: 1, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Gas natural",
+          "Calefaccion: Individual",
+          "Combustible calefacción: Gas natural",
           "Aire Acondicionado",
         ],
       },
       {
         id: 1,
-        img: img,
-        price: "545.000 €",
-        location: "Piso en Murcia centro",
-        address: "C. San Anton",
-        sup: "55 m2",
-        rooms: "2",
-        bath: "1",
-        description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
+        img: img1405526317,
+        imgArray: [
+        img1405526317,
+        img1405526318,
+        img1405526319,
+        img1405526320,
+        img1405526321,
+        img1405526531,
+        img1405526533,
+        img1405526534,
+        img1405526558,
+        img1405526565,
+        img1405526566,
+        img1405526567,
+        img1405526568,
+        img1405526569,
+        img1405526571,
+        img1405526572,
+        img1405526573,
+        img1405526574,
+        img1405526585,
+        img1405526587,
+        ],
+        sup: "115 m²",
+        rooms: "3",
+        bath: "2",
+        price: "€ 109.999",
+        priceM2: "€/m² 957 ",
+        resume: "Dúplex en la Plaza de la Iglesia, Avileses.",
+        address: "Plaza de la Iglesia s/n, planta 3, Jerónimo y Avileses, Campo de Murcia, Murcia",
 
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
-                                
-                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+        description: `¡Con gran terraza y vistas impresionantes! No pierdas la oportunidad de vivir en este espectacular ático dúplex ubicado en la emblemática Plaza de la Iglesia en Avileses (Murcia)! Esta propiedad luminosa y moderna cuenta con 3 amplias habitaciones equipadas con armarios empotrados, perfectas para toda la familia. Dispone de 2 cuartos de baño: uno completo con todos los elementos necesarios y otro con ducha para mayor comodidad. El salón es espacioso y acogedor, ideal para reuniones o momentos de relax, mientras que la cocina está totalmente equipada con electrodomésticos de calidad. Todo el inmueble es totalmente exterior, lo que garantiza una excelente entrada de luz natural durante todo el día. Pero lo mejor es su gran terraza, un espacio perfecto para disfrutar del aire libre, barbacoas o simplemente admirar las vistas a la plaza.
+    
+        Ubicado en una zona tranquila pero con todos los servicios cercanos: comercios, colegios y transporte público.
+        
+        ¡Ideal para familias o como inversión!`,
+
+        general: [
+            "3 amplias habitaciones equipadas con armarios empotrados",
+            "2 cuartos de baño (uno completo y otro con ducha)",
+            "Salón espacioso y acogedor",
+            "Cocina totalmente equipada con electrodomésticos de calidad",
+            "Todo el inmueble es totalmente exterior con excelente entrada de luz natural",
+            "Gran terraza para disfrutar del aire libre, barbacoas o admirar vistas"
+        ],
+
         caracteristics: [
-          "Aire acondicionado",
-          "Ascensor",
-          "Balcon",
-          "Conserje",
-          "Terraza",
+          "Superficie: 115 m²",
+          "Dormitorios: 3",
+          "Baños: 2",
+          "Terraza: 1",
+          "Condicion: Segunda mano/Buen estado",
           "Armarios empotrados",
-          "Calefacción",
-          "Planta (2)",
-          "Reformado",
-          "Ano de construcción (1957)",
+          "Balcón",
+        ],
+
+        energyCertification: [
+          "Consumo: 0.1 kWh/m² año",
+          "Emisiones: 0.1m C02/m² año",
+        ],
+
+        building: ["Planta: 3, Exterior", "Con ascensor"],
+
+        equipment: [
+          "Calefaccion: Individual",
+          "Combustible calefacción: Eléctrica",
         ],
       },
       {
@@ -346,26 +529,20 @@ const dataServices = {
           img1390832335,
           img1390832336,
         ],
-        sup: "52 m2",
-        rooms: "2",
-        bath: "1",
+        sup: "110 m²",
+        rooms: "3",
+        bath: "2",
         price: "€ 159.000",
-        priceM2: "€/m² 2.481 ",
-        resume: "Atico Beniaján",
+        rent: '€/mes 650',
+        priceM2: "€/m² 1.445 ",
+        resume: "¡OPORTUNIDAD ÚNICA! Ático Dúplex 3 hab. + garaje + trastero en el corazón de Beniaján!",
         address: "Calle Algezares 112, Beniaján, Pedanías Este, Murcia",
 
         description: `Espectacular ático dúplex en pleno centro de Beniaján, en una de las mejores ubicaciones de la localidad. Edificio del año 2006 en perfecto estado de conservación. Superficie construida: 110m2.
     
-    Vivienda alquilada con un alquiler mensual de 650 euros, finalización del contrato de alquiler 2 años. Vivienda lista para entrar a vivir. Situación inmejorable: a 2 minutos andando de todos los servicios (supermercados, farmacia, colegios, centro de salud, bares y restaurantes). Perfectamente comunicada con Murcia capital en menos de 10 minutos por autovía.`,
-
-        general: [
-          "2 habitaciones amplias con armarios empotrados",
-          "1 baño completo",
-          "Salón-comedor amplio con salida a terraza y balcón",
-          "Cocina independiente equipada",
-          "2 trasteros incluidos (ideal para almacenamiento extra)",
-          "Calefacción y aire acondicionado",
-        ],
+        Vivienda alquilada con un alquiler mensual de 650 euros, finalización del contrato de alquiler 2 años. Vivienda lista para entrar a vivir. Situación inmejorable: a 2 minutos andando de todos los servicios (supermercados, farmacia, colegios, centro de salud, bares y restaurantes). 
+        
+        Perfectamente comunicada con Murcia capital en menos de 10 minutos por autovía.`,
 
         caracteristics: [
           "Planta baja del ático: Amplio salón comedor muy luminoso, cocina independiente totalmente equipada, 1 dormitorio doble y 1 baño completo",
@@ -378,8 +555,8 @@ const dataServices = {
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "Consumo: 0.1 kWh/m² año",
+          "Emisiones: 0.1m C02/m² año",
         ],
 
         building: ["Planta: 3, Exterior", "Con ascensor"],
@@ -429,19 +606,20 @@ const dataServices = {
           img1395205465,
           img1395241332,
         ],
-        sup: "52 m2",
+        sup: "121 m²",
         rooms: "2",
         bath: "1",
         price: "€ 179.999",
         priceM2: "€/m² 1.488 ",
-        resume: "Ático EL Palmar",
+        resume: "Exclusivo ático en El Palmar, detrás del Hospital Universitario La Arrixaca, a minutos del centro de Murcia capital.",
         address: "Calle Rambla 2, El Palmar, Pedanías Oeste, Murcia",
 
-        description: `"Vivienda de 121 m² construidos totalmente exterior y muy luminosa, con una distribución perfecta y acabados de alta calidad. Edificio del año 2009 impecable.
+        description: `Vivienda de 121 m² construidos totalmente exterior y muy luminosa, con una distribución perfecta y acabados de alta calidad. Edificio del año 2009 impecable.
     
-    Ideal para familias, profesionales del ámbito sanitario o quien busque calidad de vida sin renunciar a estar a un paso de todo (supermercados, colegios, Nueva Condomina, acceso autovía…). ¡Una auténtica oportunidad que raramente sale al mercado en esta zona!.
+        Ideal para familias, profesionales del ámbito sanitario o quien busque calidad de vida sin renunciar a estar a un paso de todo (supermercados, colegios, Nueva Condomina, acceso autovía…). ¡Una auténtica oportunidad que raramente sale al mercado en esta zona!.
     
-    Visitas ya disponibles.`,
+        Visitas ya disponibles.`,
+
         general: [
           "Amplio y elegante salón-comedor totalmente exterior con salida a terraza",
           "3 dormitorios espaciosos: → Dormitorio principal con baño en suite y terraza privada → Los otros dos dormitorios también con salida a terraza",
@@ -467,8 +645,8 @@ const dataServices = {
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "consumo: 1 kWh/m² año",
+          "emisiones: 1 C02/m² año",
         ],
 
         building: ["Planta: 3, Exterior", "Con ascensor"],
@@ -489,47 +667,38 @@ const dataServices = {
           img1376947395,
           img1376947396,
         ],
-        sup: "52 m2",
+        sup: "148 m2",
         rooms: "4",
         bath: "3",
         price: "€ 569.000",
         priceM2: "€/m² 3845 ",
-        resume: "Atico Juan Borbon",
-        address: "Avenida Ciudad de Almería 10, El Carmen, Sur, Murcia",
+        resume: "Ático en Venta en Avenida Juan de Borbón",
+        address: "Avenida Don Juan de Borbon 29, Vista Alegre, Norte, Murcia. Bloque / Esc. 3, planta 4, puerta A",
 
-        description: `"Te presentamos un impresionante ático situado en una de las zonas más demandadas y con mayor proyección de Murcia: el entorno de la Avenida Juan de Borbón. Un hogar que combina amplitud, luz natural y una ubicación inmejorable, con un enorme potencial para transformarse en la vivienda que siempre imaginaste. Con 110 m² construidos, ocupa última planta del edificio, garantizando privacidad, tranquilidad y unas vistas despejadas. Su distribución actual ofrece tres dormitorios amplios y dos baños completos, pero el diseño flexible permite reinterpretar los espacios según tus necesidades. Existe incluso la posibilidad de unir la cocina con el salón-comedor, creando un ambiente abierto, moderno y lleno de luz, ideal para quienes disfrutan de espacios diáfanos y funcionales. Las terrazas son las auténticas protagonistas: amplias, soleadas y con muchas opciones para diseñar tu propio oasis urbano. Perfectas para una zona chill out, un comedor exterior o un pequeño jardín privado donde disfrutar del clima murciano durante todo el año. El precio incluye dos plazas de garaje y trastero, aportando comodidad y valor añadido. La ubicación es excelente: a solo 3 minutos a pie del tranvía, con supermercados, colegios, centros de salud y zonas verdes en las inmediaciones. La Avenida Juan de Borbón se ha consolidado como una de las arterias más modernas y dinámicas de la ciudad, en plena expansión y con una revalorización constante gracias a nuevos comercios y proyectos residenciales. En definitiva, un ático ideal tanto para quienes buscan su hogar definitivo, como para inversores que apuestan por una zona de futuro.
+        description: `Descubre tu nuevo hogar soñado en una de las zonas más exclusivas de Murcia! Mondial Inmobiliaria te presenta en exclusiva este bonito ático situado en la cuarta planta de un edificio moderno en Avenida Juan de Borbón, una de las áreas más demandadas de la ciudad por su encanto y comodidad. Características principales: 1 amplia terraza perfecta para disfrutar del sol murciano, almuerzos al aire libre o relajarte con vistas urbanas. Salón luminoso y acogedor, ideal para momentos familiares. 4 dormitorios espaciosos, para toda la familia o invitados. 3 cuartos de baño completamente equipados, con acabados de calidad. Cocina amueblada y equipada, lista para cocinar tus platos favoritos. Plaza de garaje incluida + amplio trastero para todo tu almacenamiento.
     
-    Ático situado en una de las zonas más demandadas y con mayor proyección de Murcia, con enorme potencial para transformarse en la vivienda ideal.
-    
-    Si buscas una vivienda luminosa, espaciosa y con alma, este ático es un lienzo perfecto para crear la casa de tus sueños en Murcia.`,
-        general: [
-          "Ático en última planta con 110 m² construidos",
-          "Tres dormitorios amplios y dos baños completos",
-          "Posibilidad de unir cocina con salón-comedor para ambiente abierto",
-          "Terrazas amplias, soleadas, con opciones de diseño personalizado",
-          "Incluye dos plazas de garaje y trastero",
-          "Ubicación excelente: a 3 minutos del tranvía, supermercados, colegios, centros de salud y zonas verdes",
-          "Diseño flexible para reinterpretar espacios según necesidades",
-          "Vistas despejadas desde la última planta",
-        ],
+        Esta vivienda es cómoda, luminosa y llena de posibilidades: reformable a tu gusto o lista para entrar a vivir de inmediato. ¡No es solo una casa, es un estilo de vida! Ubicación inmejorable: A pasos de todos los servicios esenciales – comercios, supermercados, colegios de renombre y excelentes conexiones de transporte público. Todo lo que necesitas al alcance de tu mano, en el vibrante centro de Murcia.
+        
+        Inmueble gestionado en exclusiva por expreso mandato del propietario. Nuestro equipo de asesores te ofrecerá toda la información detallada y una atención personalizada para guiarte en cada paso.`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 110",
-
-          "dormitorios: 3",
-          "banos: 2",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento: Armarios empotrados, Trastero, Balcón, Plaza de garaje incluida en el precio, Orientación: Norte, Sur, Este, Oeste",
-          "año Construccion: 2008",
+            "Amplia terraza perfecta para disfrutar del sol murciano",
+            "Salón luminoso y acogedor, ideal para momentos familiares",
+            "4 dormitorios espaciosos, para toda la familia o invitados",
+            "3 cuartos de baño completamente equipados, con acabados de calidad",
+            "Cocina amueblada y equipada, lista para cocinar tus platos favoritos",
+            "Plaza de garaje incluida",
+            "Amplio trastero para todo tu almacenamiento",
+            "Ubicación inmejorable: A pasos de todos los servicios esenciales",
+            "estado de la vivienda: Segunda mano/Buen estado."
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "consumo: En tramite",
+          "emisiones: En tramite",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 4, Exterior", "Con ascensor"],
 
         equipment: [
           "calefaccion: Centralizada",
@@ -578,36 +747,39 @@ const dataServices = {
           img1387027247,
           img1387028485,
         ],
-        sup: "52 m2",
-        rooms: "4",
-        bath: "3",
+        sup: "110 m²",
+        rooms: "3",
+        bath: "2",
         price: "€ 480.000",
         priceM2: "€/m² 4364 ",
-        resume: "Atico Juan Borbon 2",
+        resume: "Ático luminoso con una gran y espaciosa terraza y grandes posibilidades junto a Juan de Borbón — Murcia",
         address:
           "Calle Gustavo Perez Puig 4, Zona Juan de Borbón, Norte, Murcia",
 
-        description: `Descubre tu nuevo hogar soñado en una de las zonas más exclusivas de Murcia! Mondial Inmobiliaria te presenta en exclusiva este bonito ático situado en la cuarta planta de un edificio moderno en Avenida Juan de Borbón, una de las áreas más demandadas de la ciudad por su encanto y comodidad. Características principales: 1 amplia terraza perfecta para disfrutar del sol murciano, almuerzos al aire libre o relajarte con vistas urbanas. Salón luminoso y acogedor, ideal para momentos familiares. 4 dormitorios espaciosos, para toda la familia o invitados. 3 cuartos de baño completamente equipados, con acabados de calidad. Cocina amueblada y equipada, lista para cocinar tus platos favoritos. Plaza de garaje incluida + amplio trastero para todo tu almacenamiento.
+        description: `Te presentamos un impresionante ático situado en una de las zonas más demandadas y con mayor proyección de Murcia: el entorno de la Avenida Juan de Borbón. Un hogar que combina amplitud, luz natural y una ubicación inmejorable, con un enorme potencial para transformarse en la vivienda que siempre imaginaste. Con 110 m² construidos, ocupa última planta del edificio, garantizando privacidad, tranquilidad y unas vistas despejadas. Su distribución actual ofrece tres dormitorios amplios y dos baños completos, pero el diseño flexible permite reinterpretar los espacios según tus necesidades. Existe incluso la posibilidad de unir la cocina con el salón-comedor, creando un ambiente abierto, moderno y lleno de luz, ideal para quienes disfrutan de espacios diáfanos y funcionales. Las terrazas son las auténticas protagonistas: amplias, soleadas y con muchas opciones para diseñar tu propio oasis urbano. Perfectas para una zona chill out, un comedor exterior o un pequeño jardín privado donde disfrutar del clima murciano durante todo el año. El precio incluye dos plazas de garaje y trastero, aportando comodidad y valor añadido. La ubicación es excelente: a solo 3 minutos a pie del tranvía, con supermercados, colegios, centros de salud y zonas verdes en las inmediaciones. La Avenida Juan de Borbón se ha consolidado como una de las arterias más modernas y dinámicas de la ciudad, en plena expansión y con una revalorización constante gracias a nuevos comercios y proyectos residenciales. En definitiva, un ático ideal tanto para quienes buscan su hogar definitivo, como para inversores que apuestan por una zona de futuro.
     
-    Esta vivienda es cómoda, luminosa y llena de posibilidades: reformable a tu gusto o lista para entrar a vivir de inmediato. ¡No es solo una casa, es un estilo de vida! Ubicación inmejorable: A pasos de todos los servicios esenciales – comercios, supermercados, colegios de renombre y excelentes conexiones de transporte público. Todo lo que necesitas al alcance de tu mano, en el vibrante centro de Murcia.
+        Ático situado en una de las zonas más demandadas y con mayor proyección de Murcia, con enorme potencial para transformarse en la vivienda ideal.
     
-    Inmueble gestionado en exclusiva por expreso mandato del propietario. Nuestro equipo de asesores te ofrecerá toda la información detallada y una atención personalizada para guiarte en cada paso.`,
+        Si buscas una vivienda luminosa, espaciosa y con alma, este ático es un lienzo perfecto para crear la casa de tus sueños en Murcia.`,
+
         general: [
-          "Amplia terraza perfecta para disfrutar del sol murciano",
-          "Salón luminoso y acogedor, ideal para momentos familiares",
-          "4 dormitorios espaciosos, para toda la familia o invitados",
-          "3 cuartos de baño completamente equipados, con acabados de calidad",
-          "Cocina amueblada y equipada, lista para cocinar tus platos favoritos",
-          "Plaza de garaje incluida",
-          "Amplio trastero para todo tu almacenamiento",
-          "Ubicación inmejorable: A pasos de todos los servicios esenciales",
+        "Ático en última planta con 110 m² construidos",
+        "Tres dormitorios amplios y dos baños completos",
+        "Posibilidad de unir cocina con salón-comedor para ambiente abierto",
+        "Terrazas amplias, soleadas, con opciones de diseño personalizado",
+        "Incluye dos plazas de garaje y trastero",
+        "Ubicación excelente: a 3 minutos del tranvía, supermercados, colegios, centros de salud y zonas verdes",
+        "Diseño flexible para reinterpretar espacios según necesidades",
+        "Vistas despejadas desde la última planta",
+        "Gasto comunitario €45",
+        "Estado: Segunda mano, en buen estado",
+        "Año de construcción: 2008"
         ],
 
         caracteristics: [
-          "metros CuadradosConstruidos: 148",
-          "metrosUtiles: 115",
-          "dormitorios: 4",
-          "banos: 3",
+          "metros cuadrados construidos: 110",
+          "dormitorios: 3",
+          "baños: 2",
           "terrazas: 1",
           "estado Vivienda: 'Segunda mano/Buen estado'",
           "equipamiento: Armarios empotrados, Trastero, Balcón, Plaza de garaje incluida en el precio",
@@ -619,46 +791,43 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 6, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Gas natural",
+          "calefaccion: Centralizada",
+          "combustible calefacción: Otro",
           "Aire Acondicionado",
         ],
       },
       {
         id: 6,
         img: img1398997387,
-        imgArray: [img1398997387, img1398998053],
-        sup: "180 m2",
+        imgArray: [
+            img1398997387, 
+            img1398998053
+        ],
+        sup: "180 m²",
         rooms: "5",
         bath: "1",
         price: "€ 48900",
         priceM2: "€/m² 272 ",
-        resume: "Casa Algezares",
+        resume: "¡Oportunidad única en el corazón de Algezares, Murcia!",
         address: "Calle de las Rocas 5, Algezares, Pedanías Este, Murcia",
 
         description: `Se vende casa ubicada en una posición privilegiada en lo alto de esta encantadora pedanía, con vistas increíbles y panorámicas a la huerta, la ciudad de Murcia y el majestuoso Santuario de la Fuensanta. Esta vivienda de 180 m² construidos ofrece un gran potencial para quienes buscan un proyecto de reforma integral y crear la casa de sus sueños a medida.
     
-    Algezares es una pedanía tranquila y bien conectada, a solo unos minutos del centro de Murcia, rodeada de naturaleza en la falda de la Cresta del Gallo, con fácil acceso a servicios, comercios y rutas de senderismo. La casa necesita reforma integral, lo que te permite adaptarla completamente a tu gusto: modernizar instalaciones, redistribuir espacios o añadir extras como más baños.
-    
-    ¡No dejes pasar esta ocasión de adquirir una propiedad con ubicación inmejorable y vistas que quitan el aliento!"`,
-
-        general: [
-          "5 amplias habitaciones, perfectas para familia numerosa",
-          "Salón espacioso, ideal para reuniones y momentos de relax",
-          "Cocina independiente",
-          "1 baño completo",
-          "Terraza con orientación óptima para disfrutar del paisaje",
-          "Zona de barbacoa, perfecta para comidas al aire libre",
-        ],
+        Algezares es una pedanía tranquila y bien conectada, a solo unos minutos del centro de Murcia, rodeada de naturaleza en la falda de la Cresta del Gallo, con fácil acceso a servicios, comercios y rutas de senderismo. La casa necesita reforma integral, lo que te permite adaptarla completamente a tu gusto: modernizar instalaciones, redistribuir espacios o añadir extras como más baños.
+        
+        ¡No dejes pasar esta ocasión de adquirir una propiedad con ubicación inmejorable y vistas que quitan el aliento!`,
 
         caracteristics: [
           "metros Cuadrados Construidos: 180",
-          "dormitorios: 5",
-          "baños: 1",
-          "terrazas: 1",
+          "dormitorios: 5 amplias habitaciones, perfectas para familia numerosa",
+          "Salón espacioso, ideal para reuniones y momentos de relax",
+          "Cocina independiente",
+          "baños: 1 completo",
+          "terrazas: 1 con orientación óptima para disfrutar del paisaje",
+          "Zona de barbacoa, perfecta para comidas al aire libre",
           "estado Vivienda: 'Segunda mano/A reformar'",
           "año Construccion: 2009",
           "orientacion: Este, Oeste ",
@@ -669,7 +838,7 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 3, Exterior", "Con ascensor"],
+        building: ["Planta: baja, Exterior"],
 
         equipment: ["calefaccion: No dispone"],
       },
@@ -677,39 +846,46 @@ const dataServices = {
         id: 7,
         img: img1400527231,
         imgArray: [img1391888661, img1400527022, img1400527231],
-        sup: "52 m2",
+        sup: "350 m²",
         rooms: "3",
         bath: "1",
         price: "€ 199900",
         priceM2: "€/m² 1333 ",
-        resume: "Casa Alijucer",
+        resume: "En el corazón de Aljucer! Casa con parcela de 350 m² lista para reformar",
         address: "Carril Manias 15, Aljucer, Pedanías Oeste, Murcia",
 
-        description: `"Casa independiente de 150 m² construidos en parcela de 350 m², ubicada en el centro de Aljucer (Murcia), una pedanía tranquila y bien conectada, a solo minutos del centro de Murcia. Esta vivienda, totalmente exterior y con todas las orientaciones para máxima luminosidad natural, es ideal para quienes buscan un proyecto de reforma personalizado. Dispone de amplios espacios y grandes posibilidades para adaptarla a tu gusto.
+        description: `Casa independiente de 150 m² construidos en parcela de 350 m², ubicada en el centro de Aljucer (Murcia), una pedanía tranquila y bien conectada, a solo minutos del centro de Murcia. Esta vivienda, totalmente exterior y con todas las orientaciones para máxima luminosidad natural, es ideal para quienes buscan un proyecto de reforma personalizado. Dispone de amplios espacios y grandes posibilidades para adaptarla a tu gusto.
     
-    Ubicación privilegiada: Muy cerca de la autovía, con todos los servicios a mano: gasolinera, farmacia, colegio, supermercados y transporte público. ¡Vive la tranquilidad de la huerta murciana sin renunciar a la comodidad!
-    
-    ¡No dejes pasar esta oportunidad de inversión en una zona en crecimiento!`,
+        Ubicación privilegiada: Muy cerca de la autovía, con todos los servicios a mano: gasolinera, farmacia, colegio, supermercados y transporte público. ¡Vive la tranquilidad de la huerta murciana sin renunciar a la comodidad!
+        
+        ¡No dejes pasar esta oportunidad de inversión en una zona en crecimiento!`,
+
         general: [
           "Amplio salón con chimenea de leña, perfecto para crear un ambiente cálido y acogedor",
           "3 habitaciones grandes y luminosas",
           "Cuarto de baño completo y espacioso",
           "Cocina grande, totalmente exterior",
           "Lavadero independiente",
-          "Trastero de 40 m²",
+          "Trastero de 40 m², Balcón, y Plaza de garaje",
           "Patio exterior de 50 m²",
           "Terreno adicional de 350 m² con potencial para jardín, huerta o ampliaciones",
+          "orientacion a los 4 vientos.",
+          "Año de fabricación: 1994.",
+          "estado Vivienda: Segunda mano/A reformar",
         ],
 
         caracteristics: [
-          " metros Cuadrados Construidos: 150",
-
-          "dormitorios: 3",
-          "banos: 1",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/A reformar'",
-          "equipamiento:  Trastero, Balcón, Plaza de garaje ",
-          "año Construccion: 2008",
+          "Amplio salón con chimenea de leña, perfecto para crear un ambiente cálido y acogedor",
+          "3 habitaciones grandes y luminosas",
+          "Cuarto de baño completo y espacioso",
+          "Cocina grande, totalmente exterior",
+          "Lavadero independiente",
+          "Trastero de 40 m², Balcón, y Plaza de garaje",
+          "Patio exterior de 50 m²",
+          "Terreno adicional de 350 m² con potencial para jardín, huerta o ampliaciones",
+          "orientacion a los 4 vientos.",
+          "Año de fabricación: 1994.",
+          "estado Vivienda: Segunda mano/A reformar",
         ],
 
         energyCertification: [
@@ -717,12 +893,13 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: baja, Exterior"],
 
         equipment: [
           "calefaccion: Individual",
           "combustible calefacción: Bomba de frío/calor",
           "Aire Acondicionado",
+          "jardin",
         ],
       },
       {
@@ -764,51 +941,44 @@ const dataServices = {
           img1403802968,
           img1403802975,
         ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
+        sup: "191 m2",
+        rooms: "4",
+        bath: "3",
+        price: "€ 425.000",
+        priceM2: "€/m² 2.225 ",
+        resume: "chalet adosado en la zona de Juan de Borbón, Murcia",
         address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
 
         description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
+        Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
+        
+        No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance.`,
+
+        caracteristics: [
           "Distribución por 4 plantas",
           "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
           "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
           "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
+          "Primera planta: 3 dormitorios con armarios empotrados, 1 Dormitorio principal con terraza privada",
+          "3 baños completos (uno en suite)",
           "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
           "Varias terrazas y balcón",
           "Vivienda luminosa y bien distribuida",
           "Zona tranquila y familiar",
           "Excelente conexión con transporte público (tranvía)",
           "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+          "Estado Vivienda: 'Segunda mano/Buen estado'",
+          "Año Construccion: 2008",
+          "Equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "Consumo: 0.1 kWh/m² año",
+          "Emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: ---"],
 
         equipment: [
           "calefaccion: Individual",
@@ -859,21 +1029,22 @@ const dataServices = {
           img1393172905,
           img1393172915,
         ],
-        sup: "52 m2",
+        sup: "3.175 m²",
         rooms: "4",
         bath: "3",
-        price: "€ 199900",
-        priceM2: "€/m² 1333 ",
-        resume: "Chalet Rustico Mula",
-        address: "Carril Manias 15, Aljucer, Pedanías Oeste, Murcia",
+        price: "€ 439.000",
+        priceM2: "€/m² 1.333 ",
+        resume: "chalet rústico con piscina y parcela de 3.175 m² en la Huerta de Mula",
+        address: "Urbanización Via verde de Mula s/n, Mula, ",
 
         description: `Preciosa villa de estilo rústico construida en 2003, con muchísimo encanto y perfectamente mantenida. Situada en plena Huerta de Mula, junto a la Vía Verde del Noroeste, en una zona residencial tranquila a solo 3 minutos en coche del centro de Mula. Superficie construida total: 300 m².
     
-    Ubicación privilegiada: Mula (18.000 hab.): todos los servicios (Mercadona, clínicas, colegios, teatro, restaurantes…). Casco histórico precioso y mucho ambiente. A 25 km de Murcia capital. A 40 km del Aeropuerto Internacional de Corvera. A 70-80 km de las playas de Mazarrón, La Manga, Cartagena o Alicante. Al lado del Parque Natural Sierra Espuña y la Vía Verde (perfecta para paseos, bici o running).`,
-        general: [
+        Ubicación privilegiada: Mula (18.000 hab.): todos los servicios (Mercadona, clínicas, colegios, teatro, restaurantes…). Casco histórico precioso y mucho ambiente. A 25 km de Murcia capital. A 40 km del Aeropuerto Internacional de Corvera. A 70-80 km de las playas de Mazarrón, La Manga, Cartagena o Alicante. Al lado del Parque Natural Sierra Espuña y la Vía Verde (perfecta para paseos, bici o running).`,
+
+        caracteristics: [
           "Vivienda principal: 4 dormitorios amplios (el principal con baño en suite)",
           "Pequeño estudio / despacho",
-          "2 baños completos",
+          "3 baños completos",
           "Cocina independiente de 25 m² totalmente equipada",
           "Enorme salón-comedor de 80 m² con mucha luz",
           "Porche cubierto de 30 m²",
@@ -891,19 +1062,10 @@ const dataServices = {
           "Aparcamiento cubierto para 3 vehículos",
           "Puerta de hierro motorizada",
           "Parcela totalmente vallada: 3.175 m² ajardinada con árboles y plantas de más de 10 años, riego automático y puntos de luz nocturna",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 300",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Trastero, Plaza de garaje ",
-          "orientación: Norte, Sur, Este, Oeste",
-          "año Construcción: 2008",
-          "metros parcela: 3175",
+          "Estado Vivienda: 'Segunda mano/Buen estado'",
+          "Equipamiento:  Trastero, Plaza de garaje ",
+          "Orientación: Norte, Sur, Este, Oeste",
+          "Año Construcción: 2008",
         ],
 
         energyCertification: [
@@ -911,7 +1073,7 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 0 ", "Con ascensor: No aplica"],
+        building: ["Planta: ---"],
 
         equipment: [
           "calefaccion: centralizada",
@@ -925,32 +1087,23 @@ const dataServices = {
         id: 10,
         img: img1383844748,
         imgArray: [img1383844748],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 299000",
-        priceM2: "€/m² 1812",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        sup: "164 m²",
+        rooms: "--",
+        bath: "--",
+        price: "€ 299.000",
+        priceM2: "€/m² 1.812",
+        resume: "Local de 164 m2 junto a Juan Carlos I, en el centro de Murcia",
+        address: "Calle Azarbe del Papel 14, Zona Juan Carlos I - Avenida de Europa, Norte, Murcia",
 
-        description: `Con esta inmejorable ubicación está preparado para convertirse en tu nuevo proyecto de futuro. Al ser una construcción totalmente nueva, el local se encuentra solo con la tabiquería, por lo que hay que hacerlo todo desde el principio, a tu gusto.
-    
-    Cuando uno comienza a darle vida a una idea, la emoción y a veces el miedo nos invade a partes iguales, pero cuando ves que va funcionando te sientes de maravilla y esa sensación te impulsa a seguir adelante con mas fuerza y decisión todavía.
-    
-    Contáctanos y te llevamos a verlo."`,
-        general: [
-          "Local de 164 m2 junto a Juan Carlos I, en el centro de Murcia",
+        description: `Local de 164 m2 junto a Juan Carlos I, en el centro de Murcia`,
+        
+        caracteristics: [
+          "Local de 164 m² junto a Juan Carlos I, en el centro de Murcia",
+          "Uso comercial",
+          "30m. lineales de fachada",
           "Construcción totalmente nueva, solo con tabiquería",
           "Preparado para hacer todo desde el principio, a tu gusto",
           "Espectacular fachada de 30 metros y toda la fachada es escaparate",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 165",
-
-          "metros Utiles: 164",
-          //"baños: 3",
-          //"terrazas: 1",
           "estado Vivienda: 'Segunda mano/A reformar'",
           "equipamiento: 1 estancia, Situación: A pie de calle, 1 escaparate",
           "año Construccion: 2002",
@@ -961,55 +1114,34 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: bajo, Exterior", "Con ascensor"],
+        building: ["Planta: bajo, Exterior"],
 
         equipment: [
           "calefaccion: no dispone",
           "combustible calefacción: no aplica",
-          "Aire Acondicionado",
+          "Salida de humos",
         ],
       },
       {
         id: 11,
         img: img1396598466,
         imgArray: [img1396598466],
-        sup: "52 m2",
-        //rooms: "3",
-        //bath: "1",
-        price: "€ 159900",
-        priceM2: "€/m² 1552 ",
+        sup: "103 m²",
+        rooms: "--",
+        bath: "3",
+        price: "€ 159.900",
+        priceM2: "€/m² 1.552 ",
         resume: "Local Comercial San Lorenzo",
         address: "Calle Doctor Fleming 4, San Lorenzo, Centro, Murcia",
 
-        /* description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-       */ /*  general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ], */
-
+        description: `Local Comercial San Lorenzo. 5 estancias", "Situación: A pie de calle", "Hace esquina", "3 escaparates `,
+        
         caracteristics: [
-          " metros Cuadrados Construidos: 103",
-
-          // "dormitorios: 4",
-          "baños: 3",
-          //"terrazas: 1",
-          "estado Vivienda: 'Segunda mano/A Reformar'",
-          "equipamiento: 5 estancias, Situación: A pie de calle, Hace esquina, 3 escaparates",
-          //"año Construccion: 2008",
+          "Metros Cuadrados Construidos: 103",
+          "Baños: 3",
+          "Estado Vivienda: 'Segunda mano/A Reformar'",
+          "Equipamiento: 5 estancias, Situación: A pie de calle, Hace esquina, 3 escaparates",
+          "Uso comercial",
         ],
 
         energyCertification: [
@@ -1028,7 +1160,7 @@ const dataServices = {
       },
       {
         id: 12,
-        img: img1403802730,
+        img: img1403804760,
         imgArray: [
           img1403804760,
           img1403804969,
@@ -1039,40 +1171,35 @@ const dataServices = {
           img1403805300,
           img1403805301,
         ],
-       // sup: "52 m2",
-        //rooms: "3",
+        sup: "650 m2",
+        rooms: "--",
         bath: "1",
-        price: "€ 550000",
-        priceM2: "€/m² 1667 ",
-        resume: "Naves Comerciales",
+        price: "€ 550.000",
+        priceM2: "€/m² 1.667 ",
+        resume: "Naves Comerciales en Venta en Ubicación Estratégica y de Alto Potencial",
         address: "Avenida de la Marina Española 150, La Flota, Norte, Murcia",
 
         description: `¿Buscas una inversión rentable o el espacio perfecto para tu negocio? Te presentamos dos naves industriales contiguas, cada una con 325 m² construidos, ubicadas en una zona industrial consolidada y en pleno auge de desarrollo. Visibilidad inmejorable: Fachada principal a una gran avenida, con doble acceso desde dos calles, facilitando la logística, el tráfico de clientes y la accesibilidad para vehículos pesados. Ubicación premiúm: En el corazón de la zona Flota, rodeada de nuevas promociones residenciales y urbanísticas que impulsan el crecimiento económico. ¡Cerca de todo lo que tu negocio necesita! Versatilidad total: Espacios amplios y adaptables, ideales para almacenes, talleres, oficinas comerciales, logística o cualquier actividad empresarial. ¡Potencial ilimitado para inversores! Flexibilidad en la compra: Adquiere una sola nave por separado o ambas juntas para un total de 650 m². Precio negociable según opción.
     
-    Esta es tu chance de invertir en un área con proyección ascendente, donde el valor se multiplica rápidamente.
-    
-    ¡No dejes pasar esta oportunidad en Idealista! Contacta ahora para más detalles, visitas o información adicional. ¡Tu futuro negocio te espera!"`,
-        general: [
-           "Dos naves industriales contiguas de 325 m² cada una (total 650 m²)",
-        "Ubicación en zona industrial consolidada y en pleno auge de desarrollo",
-        "Visibilidad inmejorable con fachada principal a gran avenida",
-        "Doble acceso desde dos calles para facilitar logística y tráfico",
-        "Accesibilidad para vehículos pesados",
-        "Ubicación premiúm en corazón de zona Flota",
-        "Rodeada de nuevas promociones residenciales y urbanísticas",
-        "Espacios amplios y adaptables para múltiples usos empresariales",
-        "Flexibilidad: compra de una nave o ambas juntas",
-        "Precio negociable según opción elegida" ],
-
+        Esta es tu chance de invertir en un área con proyección ascendente, donde el valor se multiplica rápidamente.
+        
+        ¡No dejes pasar esta oportunidad en Idealista! Contacta ahora para más detalles, visitas o información adicional. ¡Tu futuro negocio te espera!`,
+        
         caracteristics: [
-          " metros Cuadrados Construidos: 330",
-
-          //"dormitorios: 4",
-          "baños: 1",
-          //"terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento: 1 estancia, Situación: A pie de calle, Actividad comercial: Centro fitness, Almacén",
-         // "año Construccion: 2008",
+            "Metros Cuadrados Construidos: 650",
+            "Dos naves industriales contiguas de 325 m² cada una (total 650 m²)",
+            "Ubicación en zona industrial consolidada y en pleno auge de desarrollo",
+            "Visibilidad inmejorable con fachada principal a gran avenida",
+            "Doble acceso desde dos calles para facilitar logística y tráfico",
+            "Accesibilidad para vehículos pesados",
+            "Ubicación premiúm en corazón de zona Flota",
+            "Rodeada de nuevas promociones residenciales y urbanísticas",
+            "Espacios amplios y adaptables para múltiples usos empresariales",
+            "Flexibilidad: compra de una nave o ambas juntas",
+            "Precio negociable según opción elegida",
+            "baños: 1",
+            "estado Vivienda: 'Segunda mano/Buen estado'",
+            "equipamiento: 1 estancia, Situación: A pie de calle, Actividad comercial: Centro fitness, Almacén",
         ],
 
         energyCertification: [
@@ -1082,179 +1209,95 @@ const dataServices = {
 
         building: ["Planta: 1"],
 
-        /* equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
-        ], */
+        equipment: [
+          "calefaccion: No posee",
+        ],
       },
       {
         id: 13,
-        img: img1403802730,
+        img: img1404713007,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1404713007
         ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        sup: "550 m²",
+        rooms: "--",
+        bath: "--",
+        price: "€ 24.999",
+        priceM2: "€/m² 45 ",
+        resume: "Se vende parcela rústica de 550 m² ubicada en el Camino del Batán",
+        address: "Carril Molino del Batan s/n, Rincón de Beniscornia, Pedanías Oeste, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        description: `Este terreno de uso rústico es perfecto para actividades agrícolas, huertos ecológicos, almacenamiento o incluso como espacio recreativo al aire libre. Superficie: 550 m² de terreno y accesible. Camino del Batán, entorno rural con fácil acceso a vías principales. Cerca de zonas verdes y a poca distancia de servicios urbanos.
+
+        Entorno natural, privacidad total y potencial para inversión a largo plazo en una área en crecimiento. En zona rural tranquila y con accesos fáciles a Murcia. Rodeada de parcelas similares.`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "Parcela rústica de 550 m²",
+            "Fachada a camino de asfalto en zona tranquila y natural",
+            "Perfecta para actividades agrícolas, huertos ecológicos, almacenamiento o espacio recreativo al aire libre",
+            "Entorno rural con fácil acceso a vías principales",
+            "Cerca de zonas verdes y a poca distancia de servicios urbanos",
+            "Entorno natural, privacidad total",
+            "Potencial para inversión a largo plazo en una área en crecimiento",
+            "Zona rural tranquila con accesos fáciles a Murcia",
+            "Rodeada de parcelas similares"
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "consumo: --",
+          "emisiones: --",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: --"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
+          "--",
         ],
       },
       {
         id: 14,
-        img: img1403802730,
+        img: img1404460974,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1404460974,
+            img1404460979,
+            img1404460996,
+            img1404460997,
+            img1404460998,
+            img1404461000,
+            img1404461001,
+            img1404461007,
+            img1404461008,
+            img1404461009,
+            img1404461029,
+            img1404461037,
+            img1404461045,
+            img1404461046,
+            img1404461047,
+            img1404461048
         ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        sup: "120 m2",
+        rooms: "4",
+        bath: "2",
+        price: "€/mes 1.200",
+        priceM2: "--",
+        resume: "Alquiler de Piso en Paseo Marqués de Corvera",
+        address: "Paseo Marqués de Corvera 7, El Carmen, Sur, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `Piso Reformado de 4 Dormitorios en Paseo Marqués de Corvera - Luminoso y Equipado, ¡Ideal para Familias! ¡Oportunidad única en el corazón de Murcia! Se alquila piso recientemente reformado, muy luminoso y listo para entrar a vivir. Ubicado en el prestigioso Paseo Marqués de Corvera, esta vivienda de 4 dormitorios amplios es perfecta para familias o profesionales que buscan comodidad y estilo.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        Ubicación: En el Paseo Marqués de Corvera, una zona céntrica y bien comunicada de Murcia, cerca de comercios, colegios, parques y transporte público (metro, autobuses). Fácil acceso a las principales vías de la ciudad.`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "4 habitaciones espaciosas, ideales para familia o home office",
+            "2 baños completos, modernos y funcionales, con acabados de calidad",
+            "Cocina totalmente equipada con electrodomésticos de última generación (nevera, horno, lavavajillas, microondas, etc.), lista para usar",
+            "Todo el piso ha sido renovado con materiales de alta calidad, suelos nuevos, pintura fresca y instalaciones actualizadas",
+            "Grandes ventanas que permiten entrada de luz natural durante todo el día, creando un ambiente cálido y acogedor",
+            "Calefacción/aire acondicionado (según temporada)",
+            "Armarios empotrados", "Balcón", "Cocina con electrodomésticos y casa amueblada",
+            "Salón comedor amplio para disfrutar en familia",
+            "orientacion: Este, Oeste",
+            "tipo de Uso: Residencial, vivienda habitual",
         ],
 
         energyCertification: [
@@ -1262,151 +1305,93 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 4, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
+          "calefaccion: Centralizada",
+          "combustible calefacción: Otro",
         ],
       },
       {
-        id: 16,
-        img: img1403802730,
+        id: 15,
+        img: img1386861867,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1386861823,
+            img1386861867,
+            img1386861868,
+            img1386861871,
+            img1386861874,
+            img1386861881,
+            img1386861882,
+            img1386861919,
+            img1386861925,
+            img1386861926,
+            img1386861928,
+            img1386861936,
+            img1386861937,
+            img1386861955
         ],
-        sup: "52 m2",
+        sup: "90 m²",
         rooms: "3",
         bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        price: "€ 245.000",
+        priceM2: "€/m² 2.225 ",
+        resume: "Piso luminoso y acogedor con todas las comodidades en el corazón de la ciudad",
+        address: "Calle Maestra María Maroto 5, Vista Alegre, Norte, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        description: `¡Descubre tu nuevo hogar en el corazón de la ciudad! Piso luminoso y acogedor con todas las comodidades. ¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Maestro Maroto te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana. Características principales: Distribución: 3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office), salón espacioso para momentos de relax o reuniones familiares, cocina independiente y funcional con espacio para comedor, y baño completo.
+        Luz natural a raudales: Totalmente exterior, con orientaciones que garantizan sol todo el día y vistas agradables.
+        Comodidades modernas: Edificio con ascensor, para mayor accesibilidad y confort.
+        Ubicación de ensueño: A menos de 1 minuto de todas las líneas de transporte público (metro, bus, cercanías), supermercados, colegios, parques y servicios esenciales. Todo al alcance de la mano, sin complicaciones.
+
+        Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día. No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "Salón espacioso para momentos de relax o reuniones familiares",
+            "Cocina independiente y funcional con espacio para comedor",
+            "Baño completo",
+            "Totalmente exterior, con orientaciones que garantizan sol todo el día y vistas agradables",
+            "Edificio con ascensor, para mayor accesibilidad y confort",
+            "Ubicación de ensueño: A menos de 1 minuto de todas las líneas de transporte público (metro, bus, cercanías), supermercados, colegios, parques y servicios esenciales",
+            "dormitorios: 3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office)",
+            "baños: 1",
+            "estado Vivienda: Segunda mano/Buen estado",
+            "año Construccion: 1970",
         ],
 
         energyCertification: [
           "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "emisiones: IPE no indicado",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 2, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
+          "calefaccion: Centralizada",
+          "combustible calefacción: Otro",
           "Aire Acondicionado",
         ],
       },
       {
         id: 16,
-        img: img1403802730,
+        img: img1386882897,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1386882897,
+            img1386882906,
+            img1386882907,
+            img1386882908,
+            img1386882909,
+            img1386882935,
+            img1386882936,
+            img1386882950
         ],
-        sup: "52 m2",
+        sup: "90 m²",
         rooms: "3",
         bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
+        price: "€ 245.000",
+        priceM2: "€/m² 2.722 ",
         resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        address: "Calle Maestra María Maroto 5, Vista Alegre, Norte, Murcia",
 
         description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
     
@@ -1454,80 +1439,39 @@ const dataServices = {
       },
       {
         id: 17,
-        img: img1403802730,
+        img: img1377340893,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1377340893,
+            img1377340894,
+            img1377340953,
+            img1377340954,
+            img1377340965,
+            img1377340966
         ],
-        sup: "52 m2",
+        sup: "100 m2",
         rooms: "3",
         bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        price: "€ 305.000",
+        priceM2: "€/m² 3.050 ",
+        resume: "Piso en el centro de Murcia, en una excelente finca del año 2010.",
+        address: "Puerta Nueva 15, San Lorenzo, Centro, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `Piso en el centro de Murcia, en una excelente finca del año 2010. Cuenta con 100 m² distribuidos en 3 dormitorios, 1 baño, salón-comedor y cocina independiente. Vivienda para reformar. Ubicación inmejorable, con todos los servicios a pocos pasos. Ideal como residencia habitual o inversión. ¡Solicita tu visita!
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
+        Por mandato expreso del propietario, comercializamos este inmueble en exclusiva. Uno de nuestros agentes le facilitará toda la información necesaria y le atenderá personalmente, garantizándole un servicio de calidad. Por este motivo, se ruega no molestar al propietario, a los ocupantes de la propiedad o a los vecinos. Muchas gracias por su comprensión. Y si usted es agente inmobiliario y tiene un cliente para este inmueble, llámenos, estaremos encantados de colaborar.
     
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        ¡Solicita tu visita!`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "3 dormitorios",
+            "1 baño",
+            "Salón-comedor",
+            "Cocina independiente",
+            "Vivienda para reformar",
+            "Ubicación inmejorable, con todos los servicios a pocos pasos",
+            "Ideal como residencia habitual o inversión",
+            "estado de la vivienda: Segunda mano/A reformar",
+            "Año de Construccion: 2010"
         ],
 
         energyCertification: [
@@ -1535,90 +1479,63 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 2, Exterior", "Con ascensor"],
 
         equipment: [
           "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
+          "combustible calefacción: Otro",
         ],
       },
       {
         id: 18,
-        img: img1403802730,
+        img: img1383370993,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1383369873,
+            img1383370993,
+            img1383370994,
+            img1383371011,
+            img1383371060,
+            img1383371061,
+            img1383371062,
+            img1383371072,
+            img1383371075,
+            img1383371076,
+            img1383371077,
+            img1383371078,
+            img1383371079,
+            img1383371080,
+            img1383371082,
+            img1383371085,
+            img1383371086,
+            img1383371087,
+            img1383371088
         ],
-        sup: "52 m2",
+        sup: "70 m2",
         rooms: "3",
         bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        price: "€ 279.000",
+        priceM2: "€/m² 3.999 ",
+        resume: "Piso en Principe de Asturias",
+        address: "PS Fuente 3, Boque / Esc 1, planta 2, Puerta E, Vista Alegre, Norte, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `Este encantador piso de 70 m² construidos te ofrece la comodidad y el estilo que buscas. Situado en una planta toda exterior, disfruta de una doble orientación sur y oeste, que garantiza sol y luminosidad durante todo el día. Con dos dormitorios acogedores, un baño y armarios empotrados, este espacio está diseñado para tu confort.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
+        Tendrás la tranquilidad que deseas a poca distancia del bullicioso centro de la ciudad. La conexión con la autovía es excelente, muy cerca del tranvía, facilitando tus desplazamientos diarios.
     
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        ¡No dejes pasar esta oportunidad y ven a visitarlo!`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "Doble orientación sur y oeste, garantiza sol y luminosidad durante todo el día",
+            "2 dormitorios acogedores",
+            "1 baño",
+            "Armarios empotrados",
+            "Conductos de aire centralizado frío/calor",
+            "Suelos de mármol, aportando un toque de elegancia",
+            "Plaza de garaje incluida",
+            "Trastero en el mismo edificio",
+            "equipamiento: Armarios empotrados, Trastero, Balcón, Plaza de garaje incluida en el precio",
+            "año de construccion: 2003",
+            "Orientacion: Sur, Oeste",
         ],
 
         energyCertification: [
@@ -1626,90 +1543,52 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 2, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
+          "calefaccion: Centralizada",
+          "combustible calefacción: Otro",
           "Aire Acondicionado",
         ],
       },
       {
         id: 19,
-        img: img1403802730,
+        img: img1378881190,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1378881190,
+            img1378881208,
+            img1378881212,
+            img1378881215,
+            img1378881225,
+            img1378881227
         ],
-        sup: "52 m2",
-        rooms: "3",
+        sup: "74 m²",
+        rooms: "2",
         bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        price: "€ 149.000",
+        priceM2: "€/m² 2.014 ",
+        resume: "Piso en la zona de San Pío X",
+        address: "PS CASTILLO OLITE 21, Bloque / Esc. 1, planta 2, Puerta B, San Pío X, Sur, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `Totalmente exterior y frente a jardines¡ Descubre tu nuevo hogar en un entorno único y lleno de vida! En el corazón de la vibrante y moderna zona de San Pío X, te presentamos este piso espectacular de 2 dormitorios, diseñado para disfrutar de la comodidad y la tranquilidad que mereces. Totalmente exterior, con vistas privilegiadas a zonas ajardinadas que invitan a la relajación diaria, este inmueble es un oasis urbano perfecto para familias o parejas.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
+        ¡Y todo ello en un ambiente muy tranquilo, rodeado de naturaleza pero sin renunciar a la ciudad! A solo unos minutos a pie de todos los servicios esenciales: supermercados, colegios, centros médicos y ocio. Además, con excelente conexión de transporte público (metro, bus y cercanías), llegar al centro de la ciudad o a cualquier parte será pan comido.
     
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        ¿Te imaginas despertando cada día en este paraíso urbano? ¡Contacta ahora y agenda tu visita!`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "2 dormitorios amplios y luminosos, ideales para el descanso",
+            "Salón espacioso, perfecto para momentos en familia o con amigos",
+            "Cocina independiente y equipada, lista para tus creaciones culinarias",
+            "Balcón soleado, el lugar ideal para tomar un café matutino con vistas verdes",
+            "Plaza de garaje incluida, para mayor comodidad en el día a día",
+            "Trastero adicional, para guardar todo lo que necesites sin complicaciones",
+            "Totalmente exterior, con vistas privilegiadas a zonas ajardinadas",
+            "Ambiente muy tranquilo, rodeado de naturaleza pero sin renunciar a la ciudad",
+            "Terraza: 1",
+            "Estado de Vivienda: Segunda mano/Buen estado",
+            "Equipamiento: Armarios empotrados, Trastero, Balcón, Plaza de garaje incluida en el precio",
+            "año de Construccion: 2002",
         ],
 
         energyCertification: [
@@ -1717,90 +1596,86 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 2, Exterior", "Con ascensor"],
 
         equipment: [
           "calefaccion: Individual",
           "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
         ],
-      },
-      {
+      },{
         id: 20,
-        img: img1403802730,
+        img: img1405337152,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+            img1382377116,
+            img1382377294,
+            img1382377358,
+            img1382377359,
+            img1382377360,
+            img1382377361,
+            img1382377362,
+            img1382377363,
+            img1382377364,
+            img1382377395,
+            img1382377396,
+            img1382377397,
+            img1382377398,
+            img1382377399,
+            img1382377405,
+            img1382377406,
+            img1382377407,
+            img1382377408,
+            img1382377409,
+            img1382377410,
+            img1382377411,
+            img1382377416,
+            img1382377417,
+            img1382377425,
+            img1382377428,
+            img1382377429,
+            img1382377435,
+            img1382377436,
+            img1382377437,
+            img1382377438,
+            img1382377439,
+            img1382377441,
+            img1382377448,
+            img1382377450,
+            img1382377451,
+            img1382377457,
+            img1382377459,
+            img1382377461,
+            img1382377463,
+            img1382377466
         ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        sup: "160 m²",
+        rooms: "5",
+        bath: "5",
+        price: "€ 379.999",
+        priceM2: "€/m² 2.375 ",
+        resume: "¡Oportunidad Exclusiva - 5 apartamentos Independientes en el corazón de Sierra Nevada.",
+        address: "Calle Nuestra Señora de Lourdes 4, El Palmar, Pedanías Oeste, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `¡Sumérgete en el encanto mágico de la montaña y el invierno que siempre soñaste! Te presentamos un Residencial único con 5 apartamentos completos e independientes, enclavado en la vibrante zona media de Sierra Nevada. Esta joya inmobiliaria es perfecta para inversores visionarios, familias extensas o apasionados del esquí, el senderismo y el ciclismo, ofreciendo lo mejor de la nieve invernal y el sol andaluz veraniego.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
+        Residencial único enclavado en la vibrante zona media de Sierra Nevada, envuelto en naturaleza pura.
     
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
+        ¡No dejes escapar esta oportunidad limitada! Contacta hoy mismo para una visita y reclama tu pedazo de paraíso en Sierra Nevada.`,
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+            "5 apartamentos completos e independientes",
+            "Cada apartamento es un espacio autónomo meticulosamente mantenido",
+            "Ubicación a menos de 5 minutos a pie de servicios esenciales: restaurantes gourmet, supermercados, tiendas de equipo de esquí, parada de autobús y teleférico",
+            "Ubicación de ensueño en el corazón de Sierra Nevada",
+            "Conexión rápida desde Granada (apenas 30 minutos en coche)",
+            "Rentabilidad inmejorable para alquiler invernal (noviembre-abril) o como refugio estival",
+            "Vistas 360º hacia las sierras nevadas y el Mediterráneo",
+            "Comodidades cercanas: colegios de calidad, centros médicos, bares de ski, opciones de ocio familiar",
+            "Gasto de Comunidad: €95",
+            "Estado de Vivienda: Segunda mano/Buen estado",
+            "equipamiento: Trastero, Plaza de garaje",
+            "Año de Construccion: 1980",
+            "Orientacion: Norte, Sur, Este, Oeste",
+            "Número de Apartamentos: 5"
         ],
 
         energyCertification: [
@@ -1808,371 +1683,7 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
-
-        equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
-        ],
-      },
-      {
-        id: 21,
-        img: img1403802730,
-        imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
-        ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
-
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
-        ],
-
-        energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
-        ],
-
-        building: ["Planta: 1, Exterior", "Con ascensor"],
-
-        equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
-        ],
-      },
-      {
-        id: 22,
-        img: img1403802730,
-        imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
-        ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
-
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
-        ],
-
-        energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
-        ],
-
-        building: ["Planta: 1, Exterior", "Con ascensor"],
-
-        equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
-        ],
-      },
-      {
-        id: 23,
-        img: img1403802730,
-        imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
-        ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
-
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
-        ],
-
-        energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
-        ],
-
-        building: ["Planta: 1, Exterior", "Con ascensor"],
-
-        equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
-        ],
-      },
-      {
-        id: 24,
-        img: img1403802730,
-        imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
-        ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
-
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
-    
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
-        general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
-        ],
-
-        caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
-        ],
-
-        energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
-        ],
-
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 3, Exterior", "Sin ascensor"],
 
         equipment: [
           "calefaccion: Individual",
@@ -2219,80 +1730,121 @@ const dataServices = {
     cards: [
       {
         id: 1,
-        img: img,
-        price: "1.000 € / mes",
-        location: "Piso en Murcia centro",
-        address: "C. San Anton",
-        sup: "55 m2",
-        rooms: "2",
-        bath: "1",
-        description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
+        img: img1390795609,
+        imgArray: [
+          img1390795609,
+          img1390795610,
+          img1390795611,
+          img1390795908,
+          img1390795909,
+          img1390795910,
+          img1390795911,
+          img1390795912,
+          img1390795966,
+          img1390795985,
+          img1390795986,
+          img1390795988,
+          img1390832169,
+          img1390832252,
+          img1390832253,
+          img1390832254,
+          img1390832331,
+          img1390832335,
+          img1390832336,
+        ],
+        sup: "110 m²",
+        rooms: "3",
+        bath: "2",
+        price: "€/mes 650",
+        priceM2: " ",
+        resume: "¡OPORTUNIDAD ÚNICA! Ático Dúplex 3 hab. + garaje + trastero en el corazón de Beniaján!",
+        address: "Calle Algezares 112, Beniaján, Pedanías Este, Murcia",
 
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
-                
-                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+        description: `Espectacular ático dúplex en pleno centro de Beniaján, en una de las mejores ubicaciones de la localidad. Edificio del año 2006 en perfecto estado de conservación. Superficie construida: 110m2.
+    
+        Vivienda alquilada con un alquiler mensual de 650 euros, finalización del contrato de alquiler 2 años. Vivienda lista para entrar a vivir. Situación inmejorable: a 2 minutos andando de todos los servicios (supermercados, farmacia, colegios, centro de salud, bares y restaurantes). 
+        
+        Perfectamente comunicada con Murcia capital en menos de 10 minutos por autovía.`,
+
         caracteristics: [
-          "Aire acondicionado",
-          "Ascensor",
-          "Balcon",
-          "Conserje",
-          "Terraza",
-          "Armarios empotrados",
-          "Calefacción",
-          "Planta (2)",
-          "Reformado",
-          "Ano de construcción (1957)",
+          "Planta baja del ático: Amplio salón comedor muy luminoso, cocina independiente totalmente equipada, 1 dormitorio doble y 1 baño completo",
+          "Planta superior: 2 dormitorios dobles (el principal con mucha luz) y segundo baño completo",
+          "Totalmente exterior a 4 vientos, mucha luz natural todo el día",
+          "Terraza grande en la planta superior ideal para disfrutar las vistas y las tardes de verano",
+          "Plaza de garaje y trastero incluidos en el precio",
+          "Aire acondicionado por conductos (frío/calor)",
+          "Carpintería exterior de aluminio con climalit, persianas eléctricas, suelos de mármol, puertas de madera maciza",
+        ],
+
+        energyCertification: [
+          "Consumo: 0.1 kWh/m² año",
+          "Emisiones: 0.1m C02/m² año",
+        ],
+
+        building: ["Planta: 3, Exterior", "Con ascensor"],
+
+        equipment: [
+          "calefaccion: Individual",
+          "combustible calefacción: Bomba de frío/calor",
+          "Aire Acondicionado",
         ],
       },
       {
-        id: 2,
-        img: img,
-        price: "1.000 € / mes",
-        location: "Piso en Murcia centro",
-        address: "C. San Anton",
-        sup: "55 m2",
-        rooms: "2",
-        bath: "1",
-        description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.
-                
-                No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
-        caracteristics: [
-          "Aire acondicionado",
-          "Ascensor",
-          "Balcon",
-          "Conserje",
-          "Terraza",
-          "Armarios empotrados",
-          "Calefacción",
-          "Planta (2)",
-          "Reformado",
-          "Ano de construcción (1957)",
+        id: 14,
+        img: img1404460974,
+        imgArray: [
+            img1404460974,
+            img1404460979,
+            img1404460996,
+            img1404460997,
+            img1404460998,
+            img1404461000,
+            img1404461001,
+            img1404461007,
+            img1404461008,
+            img1404461009,
+            img1404461029,
+            img1404461037,
+            img1404461045,
+            img1404461046,
+            img1404461047,
+            img1404461048
         ],
-      },
-      {
-        id: 3,
-        img: img,
-        price: "1.000 € / mes",
-        location: "Piso en Murcia centro",
-        address: "C. San Anton",
-        sup: "55 m2",
-        rooms: "2",
-        bath: "1",
-        description: `Ofrecemos esta maravillosa vivienda de 55 m2, situada en una ubicación inmejorable, en pleno centro de Murcia, en la Gran Vía, frente al jardín de Santa Isabel.
-                Este encantador hogar cuenta con dos amplias habitaciones, perfectas para adaptarse a tus necesidades, salón y cocina, así como un baño completo y un aseo, también dispone de un balcón que te regala sus vistas hacia el jardín de Santa Isabel. Esta vivienda es ideal para familias que deseen entrar a vivir con comodidad. Tiene aire acondicionado y se alquila con los siguientes electrodomésticos: frigorífico, horno, vitrocerámica y lavadora.No pierdas la oportunidad de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y para concertar una visita!`,
+        sup: "120 m2",
+        rooms: "4",
+        bath: "2",
+        price: "€/mes 1.200",
+        priceM2: " ",
+        resume: "Alquiler de Piso en Paseo Marqués de Corvera",
+        address: "Paseo Marqués de Corvera 7, El Carmen, Sur, Murcia",
+
+        description: `Piso Reformado de 4 Dormitorios en Paseo Marqués de Corvera - Luminoso y Equipado, ¡Ideal para Familias! ¡Oportunidad única en el corazón de Murcia! Se alquila piso recientemente reformado, muy luminoso y listo para entrar a vivir. Ubicado en el prestigioso Paseo Marqués de Corvera, esta vivienda de 4 dormitorios amplios es perfecta para familias o profesionales que buscan comodidad y estilo.
+    
+        Ubicación: En el Paseo Marqués de Corvera, una zona céntrica y bien comunicada de Murcia, cerca de comercios, colegios, parques y transporte público (metro, autobuses). Fácil acceso a las principales vías de la ciudad.`,
+
         caracteristics: [
-          "Aire acondicionado",
-          "Ascensor",
-          "Balcon",
-          "Conserje",
-          "Terraza",
-          "Armarios empotrados",
-          "Calefacción",
-          "Planta (2)",
-          "Reformado",
-          "Ano de construcción (1957)",
+            "4 habitaciones espaciosas, ideales para familia o home office",
+            "2 baños completos, modernos y funcionales, con acabados de calidad",
+            "Cocina totalmente equipada con electrodomésticos de última generación (nevera, horno, lavavajillas, microondas, etc.), lista para usar",
+            "Todo el piso ha sido renovado con materiales de alta calidad, suelos nuevos, pintura fresca y instalaciones actualizadas",
+            "Grandes ventanas que permiten entrada de luz natural durante todo el día, creando un ambiente cálido y acogedor",
+            "Calefacción/aire acondicionado (según temporada)",
+            "Armarios empotrados", "Balcón", "Cocina con electrodomésticos y casa amueblada",
+            "Salón comedor amplio para disfrutar en familia",
+            "orientacion: Este, Oeste",
+            "tipo de Uso: Residencial, vivienda habitual",
+        ],
+
+        energyCertification: [
+          "consumo: 0.1 kWh/m² año",
+          "emisiones: 0.1m C02/m² año",
+        ],
+
+        building: ["Planta: 4, Exterior", "Con ascensor"],
+
+        equipment: [
+          "calefaccion: Centralizada",
+          "combustible calefacción: Otro",
         ],
       },
     ],

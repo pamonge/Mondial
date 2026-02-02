@@ -17,7 +17,7 @@ export const DetailPageComponent = ({ data }) => {
         <div className={detailStyle.container}>
             <h2 className={detailStyle.title}>{info.resume}</h2>
 
-            <div className={detailStyle.containerCreatorNews}>
+            <div className={`${detailStyle.containerCreatorNews} max-lg:flex-col `} >
                 <div className='flex gap-2'>
                     <img className={detailStyle.meta} src={locationIcon} alt="place marker" />
                     <p className={detailStyle.meta} >{info.address}</p>
