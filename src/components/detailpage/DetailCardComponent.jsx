@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const DetailCardComponent = ({ title, data }) => {
+export const DetailCardComponent = ({ title, data = 'Sin datos para mostrar' }) => {
   const listItem = data;
   return (
     <div className='bg-white rounded-2xl shadow-2xl py-4 mt-4 px-4'>

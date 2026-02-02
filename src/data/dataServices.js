@@ -11,7 +11,26 @@ import img1403144966 from "../assets/property/almeria10/1403144966.jpg";
 import img1403144967 from "../assets/property/almeria10/1403144967.jpg";
 
 //aticoAvileses images
-
+import img1405526317 from '../assets/property/aticoAvileses/1405526317.jpg';
+import img1405526318 from '../assets/property/aticoAvileses/1405526318.jpg';
+import img1405526319 from '../assets/property/aticoAvileses/1405526319.jpg';
+import img1405526320 from '../assets/property/aticoAvileses/1405526320.jpg';
+import img1405526321 from '../assets/property/aticoAvileses/1405526321.jpg';
+import img1405526531 from '../assets/property/aticoAvileses/1405526531.jpg';
+import img1405526533 from '../assets/property/aticoAvileses/1405526533.jpg';
+import img1405526534 from '../assets/property/aticoAvileses/1405526534.jpg';
+import img1405526558 from '../assets/property/aticoAvileses/1405526558.jpg';
+import img1405526565 from '../assets/property/aticoAvileses/1405526565.jpg';
+import img1405526566 from '../assets/property/aticoAvileses/1405526566.jpg';
+import img1405526567 from '../assets/property/aticoAvileses/1405526567.jpg';
+import img1405526568 from '../assets/property/aticoAvileses/1405526568.jpg';
+import img1405526569 from '../assets/property/aticoAvileses/1405526569.jpg';
+import img1405526571 from '../assets/property/aticoAvileses/1405526571.jpg';
+import img1405526572 from '../assets/property/aticoAvileses/1405526572.jpg';
+import img1405526573 from '../assets/property/aticoAvileses/1405526573.jpg';
+import img1405526574 from '../assets/property/aticoAvileses/1405526574.jpg';
+import img1405526585 from '../assets/property/aticoAvileses/1405526585.jpg';
+import img1405526587 from '../assets/property/aticoAvileses/1405526587.jpg';
 //aticoBeniajam
 import img1390795609 from "../assets/property/aticoBeniajan/1390795609.jpg";
 import img1390795610 from "../assets/property/aticoBeniajan/1390795610.jpg";
@@ -610,7 +629,7 @@ const dataServices = {
       },
       {
         id: 6,
-        img: img1398998053,
+        img: img1398997387,
         imgArray: [img1398997387, img1398998053],
         sup: "180 m2",
         rooms: "5",

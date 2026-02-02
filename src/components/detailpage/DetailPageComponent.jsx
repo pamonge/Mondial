@@ -5,10 +5,12 @@ import { DetailCardComponent } from './DetailCardComponent'
 import locationIcon from '../../assets/icons/placeMarker.png'
 import detailStyle from '../../styles/NewsStyles/DetailComponentStyle'
 import { CarouselComponent } from '../../components/carouselDetail/CarouselComponent'
-import appStyles from '../../styles/appStyles'
 
 export const DetailPageComponent = ({ data }) => {
     const info = data;
+
+
+
     // console.log(`DetailPageComp tiene: ${info.description}`)
     return (
 
@@ -26,7 +28,7 @@ export const DetailPageComponent = ({ data }) => {
                 </div>
 
             </div>
-            <CarouselComponent />
+            <CarouselComponent card={info.imgArray} />
             <DescriptionDetailCardComponent data={info} />
 
             <DetailCardComponent title='Características' data={info.caracteristics} />
