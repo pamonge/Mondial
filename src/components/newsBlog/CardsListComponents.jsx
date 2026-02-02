@@ -10,7 +10,7 @@ export const CardListComponents = () => {
 
     return (
         // Contenedor general de la lista de noticias
-        <div className={listStyle.sectionContainer}>
+        <div >
 
             <div className={listStyle.gridContainer}>
                 {
