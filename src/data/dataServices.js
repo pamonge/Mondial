@@ -204,6 +204,24 @@ import img1403804980 from "../assets/property/navesComerciales/1403804980.jpg";
 import img1403805182 from "../assets/property/navesComerciales/1403805182.jpg";
 import img1403805300 from "../assets/property/navesComerciales/1403805300.jpg";
 import img1403805301 from "../assets/property/navesComerciales/1403805301.jpg";
+//PIso Cahegin
+import img1386861823 from "../assets/property/pisoCehegin/1386861823.jpg";
+import img1386861867 from "../assets/property/pisoCehegin/1386861867.jpg";
+import img1386861868 from "../assets/property/pisoCehegin/1386861868.jpg";
+import img1386861871 from "../assets/property/pisoCehegin/1386861871.jpg";
+import img1386861874 from "../assets/property/pisoCehegin/1386861874.jpg";
+import img1386861881 from "../assets/property/pisoCehegin/1386861881.jpg";
+import img1386861882 from "../assets/property/pisoCehegin/1386861882.jpg";
+import img1386861919 from "../assets/property/pisoCehegin/1386861919.jpg";
+import img1386861925 from "../assets/property/pisoCehegin/1386861925.jpg";
+import img1386861926 from "../assets/property/pisoCehegin/1386861926.jpg";
+import img1386861928 from "../assets/property/pisoCehegin/1386861928.jpg";
+import img1386861936 from "../assets/property/pisoCehegin/1386861936.jpg";
+import img1386861937 from "../assets/property/pisoCehegin/1386861937.jpg";
+import img1386861955 from "../assets/property/pisoCehegin/1386861955.jpg";
+
+//Parcela Rustica
+import img1404713007 from "../assets/property/parcelaRustica/1404713007.jpg";
 
 import img from "../assets/img.jpg";
 //info de servicios de comprar, vender y alquilar usado en carousel y paginas de servicios
@@ -1009,7 +1027,7 @@ const dataServices = {
       },
       {
         id: 12,
-        img: img1403802730,
+        img: img1403804760,
         imgArray: [
           img1403804760,
           img1403804969,
@@ -1020,7 +1038,7 @@ const dataServices = {
           img1403805300,
           img1403805301,
         ],
-       // sup: "52 m2",
+        // sup: "52 m2",
         //rooms: "3",
         bath: "1",
         price: "€ 550000",
@@ -1034,16 +1052,17 @@ const dataServices = {
     
     ¡No dejes pasar esta oportunidad en Idealista! Contacta ahora para más detalles, visitas o información adicional. ¡Tu futuro negocio te espera!"`,
         general: [
-           "Dos naves industriales contiguas de 325 m² cada una (total 650 m²)",
-        "Ubicación en zona industrial consolidada y en pleno auge de desarrollo",
-        "Visibilidad inmejorable con fachada principal a gran avenida",
-        "Doble acceso desde dos calles para facilitar logística y tráfico",
-        "Accesibilidad para vehículos pesados",
-        "Ubicación premiúm en corazón de zona Flota",
-        "Rodeada de nuevas promociones residenciales y urbanísticas",
-        "Espacios amplios y adaptables para múltiples usos empresariales",
-        "Flexibilidad: compra de una nave o ambas juntas",
-        "Precio negociable según opción elegida" ],
+          "Dos naves industriales contiguas de 325 m² cada una (total 650 m²)",
+          "Ubicación en zona industrial consolidada y en pleno auge de desarrollo",
+          "Visibilidad inmejorable con fachada principal a gran avenida",
+          "Doble acceso desde dos calles para facilitar logística y tráfico",
+          "Accesibilidad para vehículos pesados",
+          "Ubicación premiúm en corazón de zona Flota",
+          "Rodeada de nuevas promociones residenciales y urbanísticas",
+          "Espacios amplios y adaptables para múltiples usos empresariales",
+          "Flexibilidad: compra de una nave o ambas juntas",
+          "Precio negociable según opción elegida",
+        ],
 
         caracteristics: [
           " metros Cuadrados Construidos: 330",
@@ -1053,7 +1072,7 @@ const dataServices = {
           //"terrazas: 1",
           "estado Vivienda: 'Segunda mano/Buen estado'",
           "equipamiento: 1 estancia, Situación: A pie de calle, Actividad comercial: Centro fitness, Almacén",
-         // "año Construccion: 2008",
+          // "año Construccion: 2008",
         ],
 
         energyCertification: [
@@ -1063,179 +1082,117 @@ const dataServices = {
 
         building: ["Planta: 1"],
 
-        /* equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
-        ], */
+        equipment: [
+          "calefaccion: No Aplica",
+          "combustible calefacción: No aplica",
+        ],
       },
       {
         id: 13,
-        img: img1403802730,
-        imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
-        ],
-        sup: "52 m2",
-        rooms: "3",
-        bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        img: img1404713007,
+        imgArray: [img1404713007],
+        sup: "550 m2",
+        //rooms: "3",
+        // bath: "1",
+        price: "€ 24999",
+        priceM2: "€/m² 45 ",
+        resume: "Parcela Rustica",
+        address:
+          "Carril Molino del Batan s/n, Rincón de Beniscornia, Pedanías Oeste, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `Este terreno de uso rústico es perfecto para actividades agrícolas, huertos ecológicos, almacenamiento o incluso como espacio recreativo al aire libre. Superficie: 550 m² de terreno y accesible. Camino del Batán, entorno rural con fácil acceso a vías principales. Cerca de zonas verdes y a poca distancia de servicios urbanos.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
-    
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
+    Entorno natural, privacidad total y potencial para inversión a largo plazo en una área en crecimiento. En zona rural tranquila y con accesos fáciles a Murcia. Rodeada de parcelas similares.`,
         general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
+          "Parcela rústica de 550 m²",
+          "Fachada a camino de asfalto en zona tranquila y natural",
+          "Perfecta para actividades agrícolas, huertos ecológicos, almacenamiento o espacio recreativo al aire libre",
+          "Entorno rural con fácil acceso a vías principales",
+          "Cerca de zonas verdes y a poca distancia de servicios urbanos",
+          "Entorno natural, privacidad total",
+          "Potencial para inversión a largo plazo en una área en crecimiento",
+          "Zona rural tranquila con accesos fáciles a Murcia",
+          "Rodeada de parcelas similares",
         ],
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
-
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
-          "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+          // " metros Cuadrados Construidos: 550",
+          "superficie Terreno: 550 m²",
+          // "dormitorios: 4",
+          // "baños: 3",
+          //"terrazas: 1",
+          //"estado Vivienda: 'Segunda mano/Buen estado'",
+          "equipamiento:  Acceso por carretera",
+          //"año Construccion: 2008",
+          " distancia Municipio: En núcleo urbano",
         ],
 
         energyCertification: [
-          "consumo: 0.1 kWh/m² año",
-          "emisiones: 0.1m C02/m² año",
+          "No dispone",
+          //"consumo: 0.1 kWh/m² año",
+          //"emisiones: 0.1m C02/m² año",
         ],
 
         building: ["Planta: 1, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
+          "No aplica",
+          /*  "calefaccion: Individual",
           "combustible calefacción: Bomba de frío/calor",
-          "Aire Acondicionado",
+          "Aire Acondicionado", */
         ],
       },
       {
         id: 14,
-        img: img1403802730,
+        img: img1386861955,
         imgArray: [
-          img1403802730,
-          img1403802823,
-          img1403802824,
-          img1403802828,
-          img1403802829,
-          img1403802830,
-          img1403802831,
-          img1403802832,
-          img1403802833,
-          img1403802852,
-          img1403802853,
-          img1403802854,
-          img1403802864,
-          img1403802865,
-          img1403802866,
-          img1403802867,
-          img1403802868,
-          img1403802875,
-          img1403802876,
-          img1403802877,
-          img1403802878,
-          img1403802885,
-          img1403802886,
-          img1403802921,
-          img1403802922,
-          img1403802923,
-          img1403802924,
-          img1403802930,
-          img1403802931,
-          img1403802932,
-          img1403802933,
-          img1403802934,
-          img1403802968,
-          img1403802975,
+          img1386861823,
+          img1386861867,
+          img1386861868,
+          img1386861871,
+          img1386861874,
+          img1386861881,
+          img1386861882,
+          img1386861919,
+          img1386861925,
+          img1386861926,
+          img1386861928,
+          img1386861936,
+          img1386861937,
+          img1386861955,
         ],
         sup: "52 m2",
         rooms: "3",
         bath: "1",
-        price: "€ 425000",
-        priceM2: "€/m² 2225 ",
-        resume: "Chalet Adosado Juan Borbon",
-        address: "Calle La Parpallota 16, Zona Juan de Borbón, Norte, Murcia",
+        price: "€ 245000",
+        priceM2: "€/m² 2722 ",
+        resume: "Piso Cehegin",
+        address: "Calle Vistalegre 17, Cehegin, Murcia",
 
-        description: `Vivienda adosada en Calle Parpallota, una de las áreas más demandadas de Murcia capital, junto a la Avenida Juan de Borbón. Ubicación privilegiada en una zona tranquila y residencial, con excelente comunicación: tranvía, supermercados, colegios, farmacias y todos los servicios a solo minutos del centro de la ciudad. Esta propiedad de 191 m² construidos se distribuye en 4 plantas, con una orientación excelente que garantiza luminosidad natural y espacios amplios y funcionales, perfectos para familias que buscan comodidad y calidad de vida.
+        description: `¿Buscas un piso ideal para empezar una nueva etapa? Este fabuloso apartamento en la Calle Vistalegre te ofrece lo mejor de ambos mundos: una ubicación inmejorable en una zona céntrica pero extremadamente tranquila, perfecta para familias, parejas o profesionales que valoran la paz sin renunciar a la vitalidad urbana.
     
-    Adosado en Murcia capital, zona Juan de Borbón. Garaje incluido. Armarios empotrados y vestidor personalizado.
+    Este piso está en perfecto estado, listo para entrar a vivir. Mide aproximadamente 80 m², con suelos de calidad, ventanas de doble acristalamiento para aislamiento acústico y térmico, y un ambiente cálido que te hará sentir en casa desde el primer día.
     
-    No pierdas esta ocasión de vivir en una de las mejores zonas de Murcia, con todo lo necesario al alcance."`,
+    No dejes pasar esta joya! Ideal para inversores o compradores que buscan rentabilidad y calidad de vida. Programa una visita hoy mismo y convéncete.`,
         general: [
-          "Distribución por 4 plantas",
-          "Planta sótano: Amplia habitación multiusos (ideal como sala de juegos, gimnasio, despacho o zona de ocio)",
-          "Planta sótano: Garaje privado con gran armario empotrado hecho a medida",
-          "Planta baja: Salón acogedor, cocina totalmente equipada, aseo, porche y patio exterior",
-          "Primera planta: 3 dormitorios con armarios empotrados, 3 baños completos (uno en suite)",
-          "Primera planta: Dormitorio principal con terraza privada",
-          "Segunda planta: Buhardilla con vestidor a medida y gran terraza, perfecta como solárium o zona chill out",
-          "Varias terrazas y balcón",
-          "Vivienda luminosa y bien distribuida",
-          "Zona tranquila y familiar",
-          "Excelente conexión con transporte público (tranvía)",
-          "Lista para entrar a vivir, con aire acondicionado y trastero",
+          "3 habitaciones amplias y versátiles (ideales para dormitorio principal, niños o estudio/home office)",
+          "Salón espacioso para momentos de relax o reuniones familiares",
+          "Cocina independiente y funcional con espacio para comedor",
+          "Baño completo",
+          "Totalmente exterior, con orientaciones que garantizan sol todo el día y vistas agradables",
+          "Edificio con ascensor, para mayor accesibilidad y confort",
+          "Ubicación de ensueño: A menos de 1 minuto de todas las líneas de transporte público (metro, bus, cercanías), supermercados, colegios, parques y servicios esenciales",
         ],
 
         caracteristics: [
-          " metros Cuadrados Construidos: 191",
+          " metros Cuadrados Construidos: 90",
 
-          "dormitorios: 4",
-          "baños: 3",
-          "terrazas: 1",
+          "dormitorios: 3",
+          "baños: 1",
+          //"terrazas: 1",
           "estado Vivienda: 'Segunda mano/Buen estado'",
-          "equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
-          "año Construccion: 2008",
+          //"equipamiento:  Armarios empotrados, Trastero, Balcón, Plaza de garaje",
+          "año Construccion: 1970",
         ],
 
         energyCertification: [
@@ -1243,16 +1200,16 @@ const dataServices = {
           "emisiones: 0.1m C02/m² año",
         ],
 
-        building: ["Planta: 1, Exterior", "Con ascensor"],
+        building: ["Planta: 2, Exterior", "Con ascensor"],
 
         equipment: [
-          "calefaccion: Individual",
-          "combustible calefacción: Bomba de frío/calor",
+          "calefaccion: Centralizada",
+          "combustible calefacción: Otro",
           "Aire Acondicionado",
         ],
       },
       {
-        id: 16,
+        id: 15,
         img: img1403802730,
         imgArray: [
           img1403802730,
