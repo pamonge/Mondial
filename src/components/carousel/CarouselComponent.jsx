@@ -14,12 +14,12 @@ export const CarouselComponent = () => {
         );
     };
 
-    /*  const prevSlide = () => {
+    const prevSlide = () => {
          setCurrentIndex((prevIndex) =>
              prevIndex === 0 ? cardsArray.length - 1 : prevIndex - 1
          );
-     };
-  */
+    };
+
     const goToSlide = (index) => {
         setCurrentIndex(index);
     };
@@ -72,7 +72,7 @@ export const CarouselComponent = () => {
             </div>
 
             {/* Botones de navegación - Solo en desktop */}
-            {/*  <button
+             <button
                 onClick={prevSlide}
                 className={carouselComponentStyles.leftButton}
             >
@@ -83,7 +83,7 @@ export const CarouselComponent = () => {
                 className={carouselComponentStyles.rightButton}
             >
                 ›
-            </button> */}
+            </button>
 
             {/* Indicadores (los puntos debajo de las imagenes) */}
             <div className={carouselComponentStyles.indicators}>
