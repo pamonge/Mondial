@@ -1,20 +1,19 @@
 import React, { useState, useEffect } from 'react'
 import { CardCarouselComponent } from './CardCarouselComponent';
-import dataServices from '../../data/dataServices.js';
 import carouselComponentStyles from '../../styles/carouselStyles/carouselComponentStyles.js';
 
 //carousel de detalle de propiedades 
-export const CarouselComponent = () => {
+export const CarouselComponent = ({ card }) => {
     const [currentIndex, setCurrentIndex] = useState(1);
     const [isPaused, setIsPaused] = useState(false);
     const [selectedImage, setSelectedImage] = useState(null);
-    const cardsArray = dataServices.buy.cards;
+    const cardsArray = card;
 
     // Crear array plano de todas las imágenes
     const allImages = [];
     cardsArray.forEach((card) => {
-        if (card.imgArray && card.imgArray.length > 0) {
-            card.imgArray.forEach((img) => {
+        if (cardsArray.length > 0) {
+            cardsArray.forEach((img) => {
                 allImages.push({ ...card, img });
             });
         }
